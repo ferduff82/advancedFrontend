@@ -1,5 +1,5 @@
 
-Es parecido a Spread pero se utiliza en parámetros de funciones, ej:
+//Es parecido a Spread pero se utiliza en parámetros de funciones, ej:
 
 function myFun(a, b, ...manyMoreArgs) {
   console.log("a", a); 

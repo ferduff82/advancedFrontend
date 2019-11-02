@@ -1,5 +1,5 @@
 
-Let funciona como variable en scope local:
+//Let funciona como variable en scope local:
 
 var x = 10;
 

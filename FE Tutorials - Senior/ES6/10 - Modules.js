@@ -1,10 +1,10 @@
 
-Para activar el uso de Modules en html (type="module"):
+//Para activar el uso de Modules en html (type="module"):
 
 <script type="module" defer src="main.js"></script>
 
 
-Tipos de Export:
+//Tipos de Export:
 
 //Default se utiliza cuando solo se va a exportar 1 elemento
 
@@ -33,17 +33,17 @@ function printAge(user) {
 } 
 
 
-Import:
+//Import:
 
 import User from '/user.js';
 import { printName, printAge } from '/user.js';
 
 
-Proveer de un namespace a todo lo que se exporte de un archivo:
+//Proveer de un namespace a todo lo que se exporte de un archivo:
 
 import * as lib from 'lib';
 
-SE IMPORTA ESTO:
+//SE IMPORTA ESTO:
 
 const user = new User('Bob', 11);
 printUserName(user);
@@ -52,6 +52,6 @@ printAge(user);
 
 
 
-Link:
+//Link:
 
-https://www.youtube.com/watch?v=cRHQNNcYf6s
+//https://www.youtube.com/watch?v=cRHQNNcYf6s

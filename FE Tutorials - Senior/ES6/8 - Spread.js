@@ -1,5 +1,5 @@
 
-Se utiliza para obtener el contenido de un Array, ej:
+//Se utiliza para obtener el contenido de un Array, ej:
 
 var arr1 = ['fourth'];
 

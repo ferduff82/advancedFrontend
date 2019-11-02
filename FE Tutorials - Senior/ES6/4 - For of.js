@@ -1,7 +1,7 @@
 
- ES6 introduce For of:
+ //ES6 introduce For of:
 
- Puede iterar tanto Sets como Maps.
+ //Puede iterar tanto Sets como Maps.
 
  for (let letter of 'Javascript') {
    console.log(letter);
@@ -31,7 +31,6 @@
  for (let pro of prog.keys()) {
    console.log(pro, 'is the course name');
  }
-
 
  for (let pro of prog.values()) {
    console.log(pro, 'where you can find these courses');

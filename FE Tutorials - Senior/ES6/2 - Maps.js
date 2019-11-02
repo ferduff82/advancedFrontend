@@ -1,8 +1,9 @@
-
+/*
  ES6 introduce el concepto de mapas, guardan valores en pares, se utilizan en lugar de objetos cuando se quiere
  guardar una key que no sea un string sino puede ser un objeto, un número o un array.
  También sirve para iterar elementos en orden de inserción (ya que los objetos no pueden hacer esto).
- 
+*/
+
 var course = new Map();
 
 course.set('react', {description: 'ui'});
