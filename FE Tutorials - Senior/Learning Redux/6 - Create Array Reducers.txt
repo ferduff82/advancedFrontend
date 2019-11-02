@@ -1,0 +1,18 @@
+
+ Construir un reducer de Array
+
+ Ejemplo interesante de como construir un reducer de ERRORES:
+
+ export const errors = (state=[], action) => {
+	switch(action.type) {
+		case C.ADD.ERROR : 
+			return [
+				...state,
+				action.payload
+			]
+		case C.CLEAR.ERROR : 
+			return state.filter((message, i) => i !== action.payload)
+		default:
+			return state
+	}
+}

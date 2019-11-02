@@ -1,0 +1,4 @@
+
+ Construir el primer Reducer
+
+ Los reducer son funciones puras que estan diseñadas para manejar partes específicias de nuestro STATE OBJECT.

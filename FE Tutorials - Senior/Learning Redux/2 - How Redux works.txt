@@ -1,0 +1,33 @@
+
+ Cómo funciona Redux
+
+ Redux no es flux sino que tiene un patrón muy parecido.
+ 
+ Tanto Redux como en Flux los datos fluyen siempre en una misma dirección, pero hay una gran diferencia:
+ En Redux solo hay 1 STORE. Cómo hay 1 solo STORE no hay necesidad de un DISPACHER, por ende
+ el STORE va a despachar las acciones direcamente.
+
+ Tener 1 solo STORE significa que el STATE va a estar localizado en 1 solo lugar.
+ A esto se lo refiere como SSOT (single source of truth).
+
+
+ - Al tener 1 solo objeto se puede pensar que se pierda modularidad:
+ En Redux la modularidad la proveen las functions(). 
+ Podemos tener fuciones para manejar cada modificación al STORE.
+
+ - La idea de utilizar funciones para la modularidad viene del paradigma PROGRAMACIÓN FUNCIONAL.
+
+ - Lo básico que debemos entender sobre programación functional para trabajar en REDUX:
+
+ 1) Pure functions: Solo retornan un valor, es decir no hay efectos secundarios.
+
+ 2) Inmutability: No queremos cambiar nuestras variables y objetos sino crear nuevos.
+
+ 3) Composition: Este concepto se basa en que el OUTPUT de una function es el INPUT de la function siguiente.
+                 Es decir, lo que la function anterior retorna se convierte en los parámetros de la siguiente function.
+
+ Las REDUCER FUNCTIONS que creamos para que sean parte del State son COMPOSED.
+ Y las acciones y estados enviados se almacenan hasta que este eventualmente sea mutado..
+
+ NO ES NECESARIO ENTENDER COMO FUCIONA ESTO YA QUE EL STORE VA A HACER TODO EL TRABAJO.
+ SOLO HAY QUE HACER BUENOS REDUCERS.

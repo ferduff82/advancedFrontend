@@ -1,0 +1,15 @@
+
+ Instalar Babel
+
+ Nada interesante solo el script en el package.json:
+
+ "scripts": {
+  	"start": "./node_modules/.bin/babel-node ./src/index.js"
+ }
+
+ También funciona con:
+
+ "scripts": {
+  	"start": "./node_modules/.bin/babel-node ./src/"
+ }
+ 

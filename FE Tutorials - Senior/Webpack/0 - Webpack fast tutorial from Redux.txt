@@ -1,0 +1,84 @@
+
+Webpack tutorial rápido:
+
+0) inicializar un package.json:
+npm init
+
+1) instalar Webpack:
+
+npm install webpack --save-dev
+
+2) instalar Webpack dev server:
+Es un servidor express para hostear nuestra aplicación que va a refrescar el bundle cuando haya cambios.
+
+npm install webpack-dev-server --save-dev
+
+3) instalar Loaders:
+Loaders son las instrucciones que Webpack sigue cuando compila y crea el bundle.
+
+a) Babel Loader:
+Este es el loader utilizado para compliar ES6 y otro código Javascript nuevo y convertilo en código ES5 compatible.
+
+npm install babel-loader --save-dev
+
+b) Json Loader:
+Se utiliza para asegurar que los archivos json se compilen en nuestro bundle.
+
+npm install json-loader --save-dev
+
+c) Babel Core:
+El core para poder utilizar Babel.
+
+npm install babel-core --save-dev
+
+d) Instalar Presets de Babel:
+Presets incluyen las instrucciones sobre las características que Babel debe compilar.
+
+npm install babel-presets-latest --save-dev
+
+e) Instalar las características experimentales de babel:
+
+npm install babel-preset-stage-0 --save-dev
+
+
+--------------------------------------------------------------------------------------------------------
+
+Crear un archivo webpack.config.js en el mismo nivel que el package.json
+
+module.exports = {
+  entry: "./src/index.js",
+  output: {
+     path: "dist/assets",
+     filename: "bundle.js",
+     publicPath: "assets"
+  },
+  devServer: {
+     inline: true,
+     contentBase: "./dist",
+     port: 3000
+  },
+  module: {
+    loaders: [
+      {
+        test: /\.js$/,
+        exclude: /(node_modules)/
+        loader: ['babel'],
+        query: {
+          presets: ['latest','stage-0']
+        }	
+      },
+      {
+        test: /\.json$/,
+        exclude: /(node_modules)/,
+        loader: 'json_loader'
+      }
+    ]
+  }
+}
+
+
+Cambiar la ruta del script del package.json:
+
+"scripts": {
+  "start": "./node_modules/.bin/webpack-dev-server"
+}

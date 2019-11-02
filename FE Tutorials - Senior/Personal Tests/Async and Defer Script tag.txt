@@ -1,0 +1,16 @@
+
+ Carga el archivo js bloqueando la carga del HTML
+
+ <script defer src="main.js"></script>
+
+ Carga el archivo js sin bloquear el HTML pero en cualquier momento
+
+ <script defer src="main.js"></script>
+
+ Carga el archivo js sin bloquear el HTML al final de la carga del HTML
+
+ <script async src="main.js"></script>
+
+Link: 
+
+https://www.youtube.com/watch?v=BMuFBYw91UQ

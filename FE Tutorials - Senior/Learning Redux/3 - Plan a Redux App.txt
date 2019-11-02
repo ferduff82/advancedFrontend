@@ -1,0 +1,38 @@
+
+ Planear una Redux App
+
+
+ 1) Wireframes:
+ Es importante hacer un wireframe de la app para reconocer las acciones que se van a necesitar.
+
+ Ej: ADD_DAY, REMOVE_DAY, SET_GOAL.
+
+
+ 2) Archivo Constants:
+ Otra buena práctica es nombrar las ACTIONS en un archivo constants.js.
+ El objetivos de esto que que js dispare un error si tipeaste mal la action. (Algo que no sucede si tipeas mal un string)
+
+ Ej: 
+
+ const constants = {
+  ADD_DAY: "ADD_DAY",
+  REMOVE_DAY: ""REMOVE_DAY 
+ }
+
+ export default constants;
+
+
+ 3) Hacer un Wireframe de los States:
+ Al igual que se hizo un wireframe de las ACTIONS hacemos un wireframe de los states con los tipos de valores que van a tener
+
+ Ej: allSkiDays -> [], 
+     skiDay -> {resort, date}, 
+     goal -> number, 
+     data -> boolean
+
+
+ 4) Crear un archivo initialState.json:
+ La idea es que tenga datos de ejemplo hardcodeados de estado inicial para trabajar con la App.
+
+
+ 

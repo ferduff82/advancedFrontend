@@ -1,0 +1,8 @@
+
+function testMyAge(valueFunction) {
+	return valueFunction(4, 9);
+}
+
+var getMyAge = testMyAge( function (value, index) {
+	return value + index;
+})

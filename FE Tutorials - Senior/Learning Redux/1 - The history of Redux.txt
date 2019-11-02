@@ -1,0 +1,35 @@
+
+ La historia de Redux
+
+ Para entender Redux lo primero es entender Flux:
+
+ Flux es un patrón de diseño creado por Facebook como alternativa a los patrones comunes ya conocidos:
+ MVC - MVP - MVVM (estos patres permiten la comunicacion entre modelos y vistas).
+ Flux NO es una librería sino un patrón de diseño.
+
+ El problema con estos patrones es que al realizar cambios en las vistas (cambios que afectan los modelos)
+ esto puede tener consecuencias en otras vistas y ese nivel de complejidad puede descontrolar la arquitectura.
+ Realizar cambios en estos patrones puede ser peligroso.
+
+
+ En flux los datos fluyen en una sola dirección:
+
+ 1 - Los cambios son iniciados con ACTIONS, 
+     las acciones son objetos que describen que debe cambiar de los datos.
+
+ 2 - Las acciones con despachadas con el DISPACHER,
+     El dispacher es un objeto que envía la acción al STORE apropiado.
+
+ 3 - El STORE guarda los datos.
+     El STORE es responsable por actualizar o cambiar sus datos.
+
+ 4 - Finalmente cuando el Store hace el update en los datos eso cambia la VIEW.
+
+ Si el usuario interactúa con la vista se crea una acción nuevamente.
+
+ A medida que la aplicación crece se crean más STORES y más VIEWS pero los datos siempre fluyen en la misma dirección.
+
+
+
+
+

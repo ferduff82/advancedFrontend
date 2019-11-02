@@ -1,0 +1,23 @@
+
+var greetDeeplyCurried = function(greeting) {
+  return function(separator) {
+    return function(emphasis) {
+      return function(name) {
+        console.log(greeting + separator + name + emphasis);
+      };
+    };
+  };
+};
+
+var greetAwkwardly = greetDeeplyCurried("Hello")("...")("?");
+greetAwkwardly("Heidi");
+
+var sayHello = greetDeeplyCurried("Hello")(", ");
+sayHello(".")("Heidi");
+
+var askHello = sayHello("?");
+askHello("Heidi");
+
+Link:
+
+https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983
