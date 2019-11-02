@@ -1,0 +1,11 @@
+
+@import '../index.scss';
+
+.footerTable {
+  .time {
+    color: $white-color;
+    td {
+      width: 20%;
+    }
+  }
+}

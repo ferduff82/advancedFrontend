@@ -1,0 +1,27 @@
+
+@import '../Index.scss';
+
+.successPage {
+    .success {
+        color: $secondary-background;
+    }
+}
+.failedPage {
+    .failed {
+        color: $red-high;
+    }
+}
+.failedPage,
+.successPage {
+    .failed, 
+    .success {
+        font-size: 35px;
+    }
+    h3,
+    p {
+        color: $text-dark;
+    }
+    h3 {
+        font-weight: bold;
+    }
+}

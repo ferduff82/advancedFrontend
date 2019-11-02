@@ -1,0 +1,166 @@
+
+@import '../global/Vars.scss';
+
+.title-container {
+    height: 46px;
+    width: 46px;
+    border-radius: 50px;
+    margin-left: 6px;
+    background-color: $white-color;
+    .sidebar-title{
+        width: 40px;
+        float: left;
+        margin-top: 4px;
+        margin-left: 3px;
+    }
+}
+.sidebar-bold {
+    display: flex;
+    font-style: 0.5rem !important;
+    line-height: 1.4;
+    margin-bottom: 5px;
+}
+
+.sweet-loading {
+    height: 100vh;
+    width: 100% !important;
+    background-color: rgba(255, 255, 255, 0.63) !important;
+}
+
+.btn-info {
+    border-radius: 0;
+}
+
+.sidebar-content {
+    padding-top: 25px;
+    p {
+        margin-top: 0;
+        margin-bottom: 0.2rem;
+    }
+    .turno-button {
+        margin-top: 30px !important;
+    }
+    .header-margin {
+        margin-bottom: 8px;
+    }
+    .med-avatar {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 10px;
+        overflow: hidden;
+        -webkit-box-shadow: 0 3px 6px rgba(255, 255, 255, 0.16), 0 3px 6px rgba(60, 60, 60, 0.23);
+        -moz-box-shadow: 0 3px 6px rgba(255, 255, 255, 0.16), 0 3px 6px rgba(60, 60, 60, 0.23);
+        box-shadow: 0 3px 6px rgba(255, 255, 255, 0.16), 0 3px 6px rgba(60, 60, 60, 0.23);
+    }
+    .med-avatar-notfound {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 10px;
+        border-radius: 80px;
+        overflow: hidden;
+        -webkit-box-shadow: 0 3px 6px rgba(255, 255, 255, 0.16), 0 3px 6px rgba(60, 60, 60, 0.23);
+        -moz-box-shadow: 0 3px 6px rgba(255, 255, 255, 0.16), 0 3px 6px rgba(60, 60, 60, 0.23);
+        box-shadow: 0 3px 6px rgba(255, 255, 255, 0.16), 0 3px 6px rgba(60, 60, 60, 0.23);
+        padding: 0;
+        content: "\F0F0";
+        font-size: 55px;
+        text-align: center;
+        line-height: 1.7;
+        color: #a2a2a2;
+        margin: auto;
+        display: block;
+    }
+    .confirm-appointment {
+        margin: auto;
+        font-weight: bold;
+    }
+    .box-sidebar-title {
+        margin: 0 6px;
+        i {
+            color: $gray-navigation-color; 
+            font-size: 18px;
+            max-width: 14px;
+            margin-left: 2px;
+        }
+        .data-container {
+            margin-left: 15px;
+            .sidebar-subtitle {
+                color: $special-grey;
+                padding-right: 20px !important;
+                p {
+                    margin-bottom: 0;
+                    font-size: 0.8rem !important;
+                }
+            }
+            .sidebar-info {
+                color: $gray-navigation-color;
+            }
+        }
+    }
+    .box-sidebar {
+        padding-top: 12px;
+        display: block;
+        width: 72%;
+        margin: auto;
+        text-transform: capitalize;
+        .mt-3, .my-3 {
+            margin-top: 2.4rem!important;
+        }
+        .icon-color {
+            color: #a2a2a2; 
+        }
+        i {
+            font-size: 18px;
+            max-width: 14px;
+            margin: 10px 2px;
+        }
+        .data-container {
+            margin-left: 15px;
+            .sidebar-subtitle {
+                font-weight: bold;
+                color: $gray-navigation-color;
+                p {
+                    margin-bottom: 0;
+                    font-size: 0.9rem;
+                }
+            }
+            .sidebar-appointments {
+                color: $gray-navigation-color;
+                p {
+                    margin-top: 7px;
+                    font-size: 1.2rem;
+                }
+            }
+            .sidebar-info {
+                font-size: 0.8rem;
+                color: #b9b9b9;
+            }
+        }
+    }
+    .sidebar-appointment-container {
+        margin: 2px 5px 5px 5px;
+        width: 94%;
+        .sidebar-appointment-event {
+            max-height: 40px;
+            min-height: 40px;
+            padding: 9px 10px 0px 10px;
+            margin: 3px 5px 0 0;
+            background-color: $whater-blue;
+            color: #fff;
+            border-radius: 5px;
+            display: flex;
+            flex-flow: column wrap;
+            align-items: center;
+            overflow: hidden;
+            cursor: pointer;
+            width: 100%;
+            cursor: pointer;
+            p {
+                text-transform: capitalize;
+            }
+        }
+        .appointment-clock {
+            margin-top: 2px;
+        }
+    }
+}

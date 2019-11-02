@@ -1,0 +1,121 @@
+
+@import '../Index.scss';
+
+.providerWrapper {
+    padding: 50px 10px 10px 10px;
+    margin-bottom: 68px;
+    .titleOnboarding {
+        z-index: 9;
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 8px;
+        font-weight: bold;
+        color: $white-color;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: $dark-blue;
+        box-shadow: 0px 4px 10px rgba(175, 175, 175, 0.24), 0px 0px 4px rgba(0, 0, 0, 0.12);
+    }
+    .alert-primary {
+        border-color: transparent;
+    }
+    .dropdownButton {
+        background-color: $third-blue;
+        color: $white-color;
+        font-family: avenirRoman;
+        font-size: 25px;
+        text-align: center;
+        margin: 6px 14px 15px 14px;
+        height: 68px;
+        line-height: 2.1;
+        width: 68px;
+        padding: 7px;
+        cursor: pointer;
+        border-radius: 100px;
+        &.red {
+            background-color: $red-high;
+            color: $red-deep;
+        }
+    }
+    [data-active="true"] {
+        background-color: $secondary-background;
+    }
+    .validateAndWrapper {
+        width: 100%;
+        margin-top: 12px;
+        padding: 17px 13px 7px 10px;
+        bottom: 0;
+        left: 0;
+        z-index: 9;
+        border-radius: 10px;
+        background-color: $white-color;
+        .termsAndConditions {
+            margin-right: 10px;
+            width: 100%;
+            margin-top: -3px;
+            input {
+                margin: 0 10px;
+            }
+        }
+        .sendContainer {
+            width: 100%;
+            .sendButton {
+                font-weight: bold;
+                font-size: 18px;
+                display: block;
+                margin: auto auto 8px auto;
+                border-radius: 5px;
+                width: 100%;
+                height: 50px;
+            }
+        }
+        .acceptTerms {
+            line-height: 1.6;
+            span {
+                color: $red-high;
+                font-size: 20px;
+                margin-top: 45px;
+                clear: both;
+                line-height: 0;
+            }
+        }
+    }
+    .personalDataWrapper,
+    .professionalDataWrapper,
+    .HolidaysDataWrapper,
+    .termsAndConditions {
+        color: $special-grey;
+        border-radius: 10px;
+    }
+    .footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 65px;
+        background-color: $third-blue;
+        color: $white-color;
+        .userButton,
+        .workList,
+        .travels {
+            width: 33.3333%;
+            padding: 10px;
+            text-align: center;
+            font-size: 37px;
+            line-height: 1.3;
+            .fas {
+                color: $white-color;
+                box-shadow: none;
+            }
+        }
+        .userButton,
+        .workList,
+        .travels  {
+            &.active {
+                background-color: $secondary-background;
+            }
+        }
+    }
+}

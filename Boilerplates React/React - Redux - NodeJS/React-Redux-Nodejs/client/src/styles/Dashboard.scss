@@ -1,0 +1,149 @@
+
+@import './index.scss';
+@import "Global/Fonts.scss";  
+
+.dashboard {
+  text-align: center;
+  header {
+    font-family: avenirRoman;
+    background-color: $main-blue;
+    color: $white-color; 
+    font-weight: bold;
+    padding: 10px 0;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    position: relative;
+    // z-index: -1; Para el modal pero le quita la sombra, ver
+  }
+  .table-styles {
+    table-layout: fixed;
+    th {
+      padding: 8px 0 4px 0;
+      font-size: 12px;
+      font-weight: bold;
+    }
+    td {
+      a {
+        color: $white-color;
+        font-weight: bold;
+        text-decoration: none;
+      }
+    } 
+    .head-outcome {
+      background-color: $white-color;
+    }
+    .bg-outcome {
+      background-color: $header-background;
+    }
+    /* Border right Columns */
+    .border-right {
+      border-right: 1px solid $white-color; 
+    }
+    .show-full-screen {
+      background-color: $blue-highlight;
+    }
+    .status-container {
+      width: 20% !important;
+      padding: 5px;
+      vertical-align: bottom;
+    }
+    .inner-table {
+      .circle-client-container {
+        padding: 4px;
+        .circle-client {
+          height: 1em;
+          width: 1em;
+          border-radius: 50%;
+          margin: auto;
+          background-color: $white-color;
+          cursor: pointer;
+          border: 3px solid $deep-blue;
+        }
+        .circle-client-me {
+          height: 1em;
+          width: 1em;
+          border-radius: 10px;
+          margin: auto;
+          background-color: $deep-blue;
+          animation: first-in 2s;
+          animation-iteration-count: 1;
+        }
+        .first-column {
+          animation: first-in 2s;
+          animation-iteration-count: 3;
+        }
+        .circle-ai {
+          background-color: $deep-blue;
+        }
+        .circle-outcome {
+          background-color: $circle-gray;
+        }
+        .circle-red {
+          background-color: $deep-red;
+        }
+      }
+    }
+    .body-id {
+      .circle-client {
+        background-color: $deep-blue;
+      }
+    }
+    .body-service {
+      .circle-client {
+        background-color: $deep-green;
+      }
+    }
+    .body-monitoring {
+      .circle-client {
+        background-color: $deep-orange;
+      }
+    }
+    .body-outcome {
+      .circle-client {
+        background-color: $deep-brown;
+      }
+    }
+    .body-id-red,
+    .body-service-red,
+    .body-monitoring-red {
+      .circle-client {
+        background-color: $white-color;
+      }
+    }
+    .body-manual {
+      border-left: 10px solid $extreme-light-gray;
+      border-right: 10px solid $extreme-light-gray;
+    }
+    .more-values {
+        border: 1px solid $circle-gray;
+        background-color: $white-color;
+        width: 20px;
+        height: 20px;
+        padding: 1px;
+        margin: 5px 2px;
+        vertical-align: middle;
+        font-size: 0.8rem;
+        border-radius: 5px;
+    }
+    .time-keys {
+      height: 25px;
+      background-color: #373e46;
+      text-align: center;
+      color: $white-color;
+      width: 20%;
+    }
+    .table-container-pages {
+      height: 690px; // Corregir esto
+    }
+  }
+  .footerTable {
+    background-color: $footer-background;
+    font-size: 13px;
+  }
+  @keyframes first-in {
+    0% { opacity: 0 }
+    25% { opacity: 1 }
+    50% { opacity: 0 }
+    75% { opacity: 1 }
+    100% { opacity: 0 }
+  }
+}

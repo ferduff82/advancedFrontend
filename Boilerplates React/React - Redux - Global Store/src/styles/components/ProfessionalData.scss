@@ -1,0 +1,56 @@
+
+@import '../Index.scss';
+
+.professionalDataWrapper {
+    padding: 16px 15px;
+    background-color: $white-color;
+    .matricula,
+    .especialidad,
+    .jurisdiccion,
+    .servicios {
+        -webkit-flex: 2 0 0;
+        flex: 1 0;
+    }
+    .matriculaData,
+    .especialidadData,
+    .jurisdiccionData,
+    .dataOtros {
+        color: $data-grey;
+    }
+    .servicios {
+        line-height: 2.3;
+    }
+    .otros {
+        -webkit-flex: 0.5 0;
+        flex: 0.3 0;
+    }
+    .list-container:not(:last-child) {
+        margin-bottom: 10px;
+    }
+    .serviciosData {
+        input {
+            padding-left: 8px;
+            width: 165px;
+            float: right;
+        }
+        select {
+            padding-left: 8px;
+            width: 165px;
+            float: right;
+        }
+    }
+    .otrosData {
+        text-align: right;
+        -webkit-flex: 0.5 0;
+        flex: 0.7 0;
+        table {
+            width: 100%;
+        }
+    }
+    .mandatoryFill {
+        color: $red-high;
+        font-size: 13px;
+        margin-top: 45px;
+        clear: both;
+    }
+}

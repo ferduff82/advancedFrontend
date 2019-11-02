@@ -1,0 +1,271 @@
+
+@import './index.scss';
+.dinamic-bg-white {
+    background: $white-color;
+    height: 100vh;
+    z-index: -1;
+    position: absolute;
+    width: 100vw;
+}
+.dinamic-template {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    .dinamic-header-container {
+        position: sticky;
+        top: 0;
+        background-color: $primary-color;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        height: 10vh;
+        min-height: 60px;
+        a {
+           color: #fff;
+        }
+        .dinamic-logo-container {
+            color: $primary-color;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .dinamic-logo {
+            height: 40px;
+            width: 40px;
+            border-radius: 50px;
+            margin-left: 6px;
+            text-align: center;
+            padding: 11px;
+            font-size: 1rem;
+            color: $primary-color;
+            background-color: $white-color;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+        }
+        .dinamic-title {
+            font-size: 1rem;
+            padding: 5px 15px;
+            text-transform: uppercase;
+            color: $white-color;
+            letter-spacing: 0.05rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+    }
+    .dinamic-content-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        height: 82%;
+        .dinamic-answer {
+            padding: 10px;
+            position: absolute;
+            top: calc(50% - 60px);
+            width: 100%;
+        }
+        .dinamic-question {
+            @extend %shadows;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            height: 20%;
+            font-size: 1.1rem;
+            color: $gray-font;
+            background: $white-color;
+            padding: 10px 7px 0;
+            .question-title {
+                margin-bottom: 5px;
+                color: $text-light;
+            }
+        }
+        .when-question {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            margin-top: 20px;
+            height: 21vh;
+            font-size: 1.2rem;
+            color: $gray-font;
+            background: $white-color;
+            padding: 20px 20px 0;
+        }
+        .dinamic-add-reason {
+            background: $white-color;
+            width: 100%;
+            height: 22%;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            .confirmConsultReason {
+                width: 100% !important;
+                font-size: 19px;
+                margin: 0;
+                height: 50%;
+                font-weight: bold;
+                margin-bottom: 0 !important;
+                padding: 11px 0;
+                border-radius: 5px;
+                position: relative;
+                bottom: 0;
+            }
+        }
+        .dinamic-reasons {
+            position: relative;
+            width: 100%;
+            height: 50%;
+            bottom: 10px;
+            padding: unset;
+            .btn-reason {
+                margin: 20px 1px;
+                width: 49%;
+                white-space: nowrap;
+                overflow: hidden;
+                padding: 2px;
+                margin-bottom: -20px;
+            }
+            input {
+                width: 100%;
+                height: 100%;
+                padding-left: 12px;
+                border: 1px solid $border-light;
+                border-radius: 5px;
+            }
+        }
+        .btn-reason-other {
+            width: 98%;
+            margin-top: 2px;
+        }
+        .symptoms-badge {
+            font-size: 1.3rem;
+            margin: 1px;
+            min-width: 100px;
+        }
+        .symptom-badge-delicon {
+            font-size: 1.0rem;
+            padding-bottom: 2px;
+        }
+        .btn-send {
+            margin: 0 0 10px 20px;
+            color: $primary-color;
+        }
+        input {
+            padding: 5px;
+            resize: none;
+            border: none;
+            border-bottom: 2px solid #42a5f5;
+            color: #265985;
+            font-size: 1.2rem;
+            line-height: 1.5rem;
+            background: none;
+
+         }
+         input:focus {
+            border: none;
+            border: none;
+            overflow: auto;
+            outline: none;
+            border-bottom: 1px solid $primary-color;
+         }
+         .assessment-text {
+            font-size: 1rem;
+            text-align: center !important;
+            color: $gray-font;
+         }
+         .assesment-detail {
+            text-align: right;
+            margin-bottom: 20px;
+            color: $whater-blue;
+         }
+         .dinamic-queue {
+            text-align: center;
+            padding: 10px;
+        }
+        .dinamic-time {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            font-size: 1.5rem;
+            color: $gray-font;
+            background: $white-color;
+            padding: 18px 15px 0;
+            .question-title {
+                margin: 10px 0 5px;
+            }
+        }
+    }
+    .ico-container { 
+        position: fixed;
+        bottom: -45px;
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+        font-size: 15rem;
+        color: $gray-body-background;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        z-index: -1;
+    }
+    .ico-queue {
+        position: relative;
+        font-size: 5rem;
+        color: $gray-body-background;
+    }
+    .ico-calling {
+        position: relative;
+        font-size: 5rem;
+        color: $green-high !important;
+        animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+        transform: translate3d(0, 0, 0);
+        animation-iteration-count:infinite;
+        a {
+            color: $green-high !important;
+        }
+    }
+}
+
+
+@keyframes bounceIn {
+    0% {
+        left: -100%; 
+        opacity: 1;
+    }
+    100% {
+        left: 0;
+        opacity: 1;
+    }
+  }
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0
+    }
+    100% {
+        opacity: 100%
+    }
+}
+
+@keyframes shake {
+    10%, 90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+      transform: translate3d(2px, 0, 0);
+    }
+  
+    30%, 50%, 70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+  
+    40%, 60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }

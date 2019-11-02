@@ -1,0 +1,148 @@
+
+@import '../index.scss';
+
+.TransportOnboardingThirdStep {
+  margin-top: 10px;
+
+  .mandatoryField {
+    color: $red-high;
+    font-weight: bold;
+  }
+  .register-form {
+    margin-top: 75px !important;
+  }
+  .form-control {
+    padding: 1rem;
+    height: 50px;
+    border-radius: 5px;
+    margin: 6px 0 8px 0;
+  }
+  .titleThirdStep {
+    margin: 15px 0;
+    color: $text-dark;
+  }
+  .buttonsContainer {
+    margin-top: 20px;
+    padding: 10px 20px 20px 20px;
+    .buttonContainer {
+      margin-top: 20px;
+      button {
+        width: 100%;
+        text-align: center;
+        background-color: $primary-color;
+        color: $white-color;
+        padding: 12px;
+        font-size: 20px;
+        font-weight: bold;
+      }
+      .wrapperLoading {
+        .loading {
+          position: initial;
+          color: $white-color !important;
+        }
+      }
+    }
+  }
+  .uploadDocumentationWrapper {
+      padding: 8px 10px 34px 10px;
+      margin: 90px 0 0 0;
+      .btn-active {
+          background-color: #7fafcb;
+          color: $white-color;
+      }
+      .columnUpload {
+          width: 33%;
+          margin-top: 10px;
+          .title {
+              color: $lighter-grey;
+              font-weight: bold;
+              text-align: center;
+              margin-bottom: 10px;
+          }
+          .addDoc {
+              background-color: $white-color;
+              border-radius: 100px;
+              content: "\f055";
+              color: $dark-blue;
+              position: relative;
+              top: -15px;
+              font-size: 24px;
+              left: 22px;        
+          }
+          .folder {
+            margin-top: 20px;
+            font-size: 28px;
+            margin-left: 5px;
+          }
+          button,
+          label {
+              background-color: $white-color;
+              color: $grey-navigation-color;
+              border: 1px solid $grey-navigation-color;
+              width: 85px;
+              border-radius: 100px;
+              display: block;
+              height: 85px;
+              line-height: 2.1;
+              margin: auto;
+              padding: 4px;
+              font-size: 12px;
+          }
+      }
+      .imgPreview {
+          overflow: hidden;
+          border-radius: 100px;
+          min-height: 75px;
+          img {
+              border-radius: 100px;
+              max-height: 75px;
+              min-width: 75px;
+          }
+      }
+      #upload-photo-dni,
+      #upload-photo-licence,
+      #upload-photo-disability {
+          width: 10px;
+          opacity: 0;
+          position: absolute;
+          z-index: -1;
+      }
+  }
+  .dateDocumentExpiresWrapper {
+    padding: 0 20px;
+    .expireDate {
+      margin-bottom: 10px;
+      padding: 25px;
+    }
+    .titleSecondStep {
+      margin: 10px;
+      color: $lighter-grey;
+      font-weight: bold;
+    }
+    input {
+      color: $lighter-grey;
+    }
+  }
+  .stepsContainer {
+    position: absolute;
+    width: 100%;
+    top: 120px;
+    .firstStep,
+    .secondStep,
+    .thirdStep {
+      width: 50px;
+      height: 50px;
+      text-align: center;
+      margin: 0 5px;
+      padding: 15px;
+      border-radius: 50px;
+      background-color: $border-light;
+      color: $white-color;
+    }
+    .active {
+      background-color: $primary-color;
+      color: $white-color;
+      font-weight: bold;
+    }
+  }
+}

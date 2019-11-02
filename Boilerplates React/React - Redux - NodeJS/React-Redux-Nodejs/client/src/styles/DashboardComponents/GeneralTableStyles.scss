@@ -1,0 +1,57 @@
+
+@import '../index.scss';
+
+.tableGeneralStyles {
+  width: 99.9%;
+  height: 99.9%;
+  thead {
+    tr {
+      td {
+        text-align: center;
+        background-color: $deep-orange;
+        color: $white-color;
+        font-weight: bold;
+      }
+    }
+  }
+  tbody {
+    width: 100%;
+    .time-keys {
+      height: 25px;
+      background-color: #373e46;
+      text-align: center;
+      color: $white-color;
+      width: 20%;
+      border: 1px solid $white-color;
+    }
+    .data-keys {
+      background-color: $light-red;
+      .table-container {
+        width: 20%;
+        border: 1px solid $white-color;
+      }
+      .highest-priority {
+        background-color: $deep-red;
+      }
+      .circle-client-container {
+        padding: 6px;
+        .circle-client {
+          height: 1em;
+          width: 1em;
+          border-radius: 10px;
+          margin: auto;
+          background-color: $white-color;
+          z-index: 5;
+        }
+        .circle-client-me {
+          height: 1em;
+          width: 1em;
+          border-radius: 10px;
+          margin: auto;
+          background-color: $deep-blue;
+          z-index: 5;
+        }
+      }
+    }
+  }
+}

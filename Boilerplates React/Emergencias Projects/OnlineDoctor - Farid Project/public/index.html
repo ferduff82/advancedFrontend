@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="manifest" id="manifest" href="%PUBLIC_URL%/manifest.webapp" />
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" href="logo.png">
+    <link rel="apple-touch-startup-image" href="assets/iTunesArtwork.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <link
+      rel="apple-touch-startup-image"
+      media="screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+      href="/icons/iphone/splashscreen/apple-launch-750x1334"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+      href="/icons/iphone/splashscreen/apple-launch-828x1792"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      media="screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+      href="/icons/iphone/splashscreen/apple-launch-1125x2436"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      media="screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+      href="/icons/iphone/splashscreen/apple-launch-1242x2208"
+    />
+    <script>
+    // Detects if device is on iOS 
+    
+    const isIos = () => {
+      const userAgent = window.navigator.userAgent.toLowerCase();
+      console.log(userAgent)
+      return /iphone|ipad|ipod/.test( userAgent );
+    }
+    
+    // change manifest.json
+    if (isIos()) {
+      document.getElementById("manifest").href = "%PUBLIC_URL%/ios-manifest.json";
+    }
+    </script>
+    <title>UMA</title>
+  </head>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+
+    <div id="root"></div>
+
+  </body>
+</html>

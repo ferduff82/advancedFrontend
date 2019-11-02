@@ -1,0 +1,16 @@
+
+@import './index.scss';
+
+.open-menu {
+  width: 140px;
+  -webkit-transition: width 0.1s; /* Safari */
+  transition: width 0.1s;
+}
+.closed-menu {
+  -webkit-transition: width 0.1s; /* Safari */
+  transition: width 0.1s;
+  width: 45px;
+}
+.menuToggle {
+  cursor: pointer;
+}

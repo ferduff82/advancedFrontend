@@ -1,0 +1,30 @@
+
+Redux Files:
+
+(Thunk: Agregarlo para resolver todas las operaciones asíncronas).
+
+- Store Configure:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\store\configureStore.js
+
+- Combined Reducers:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\store\reducers\index.js
+
+- EXAMPLE Reducer:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\store\reducers\frontReducers.js
+
+- Action Types:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\constants\ActionTypes.js
+
+- EXAMPLE Action:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\store\actions\modalActions.js
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\store\actions\chatLoadingActions.js
+
+- EXAMPLE Template Display and Trigger Events:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\components\ModalComponents\Chat.js
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\components\DashboardComponents\AuthDashboard.js
+- WITH COMPOSE (cuando el componente que paso al connect ya es un HOC).
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\components\ModalTemplate.js
+
+- EXAMPLE Work with filters:
+C:\Users\farias\Desktop\Repo Front\frontend\geolocation\client\src\components\DashboardComponents\AuthDashboard.js
+

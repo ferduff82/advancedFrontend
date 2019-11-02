@@ -1,0 +1,96 @@
+
+@import './index.scss';
+
+.alertModal {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  bottom: 0;
+  .modalContainer {
+    padding: 18px 10px;
+    &.success {
+      background-color: #DEF2D6;
+      .textContainer,
+      .iconLeft {
+        color: #677B5F; 
+      }
+      .alertClose {
+        svg {
+          color: #A5B99D;
+        }
+      }
+    }
+    &.warning {
+      background-color: #F8F3D6;
+      .textContainer,
+      .iconLeft  {
+        color: #9E7D47; 
+      }
+      .alertClose {
+        svg {
+          color: #D7D3A4;
+        }
+      }
+    }
+    &.danger {
+      background-color: #EBC8C4;
+      .textContainer,
+      .iconLeft  {
+        color: #AA4E4F; 
+      }
+      .alertClose {
+        svg {
+          color: #C49696;
+        }
+      }
+    }
+    &.info {
+      background-color: #CCE8F4;
+      .textContainer,
+      .iconLeft  {
+        color: #4F80A1; 
+      }
+      .alertClose {
+        svg {
+          color: #A8C8D7;
+        }
+      }
+    }
+    .iconLeft {
+      width: 15%;
+      svg {
+        width: 55% !important;
+        height: 100%;
+        margin: auto;
+        display: block;
+      }
+    }
+    .textContainer {
+      width: 75%;
+      padding: 0 10px;
+      .titleContainer {
+        font-weight: bold;
+      }
+    }
+    .alertClose {
+      width: 10%;
+      svg {
+        width: 75% !important;
+        height: 100%;
+      }
+    }
+    .questionOptions {
+      margin-top: 10px;
+      button {
+        width: 100%;
+        background-color: $white-color;
+        margin: 5px;
+        color: $text-dark;
+      }
+    }
+  }
+}
+
+

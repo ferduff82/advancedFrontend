@@ -1,0 +1,19 @@
+
+@import '../index.scss';
+
+.loginWrapper {
+    padding-top: 20px;
+    label {
+        color: grey;
+    }
+    input {
+        margin-top: 10px;
+        padding: 30px 15px;
+    }
+    .buttonSendLogin {
+        width: 100% !important;
+        margin: 20px 0 20px 0;
+        font-weight: bold;
+        font-size: 20px;
+    }
+}

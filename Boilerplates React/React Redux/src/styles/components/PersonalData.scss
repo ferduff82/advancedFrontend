@@ -1,0 +1,34 @@
+
+@import '../Index.scss';
+
+.personalDataWrapper {
+    padding: 16px 10px;
+    .cuil,
+    .birth,
+    .sex {
+        -webkit-flex: 1 0;
+        flex: 1 0;
+    }
+    .list-container:not(:last-child) {
+        margin-bottom: 10px;
+    }
+    .personalDataPicture {
+        width: 80px;
+        font-size: 49px;
+        min-height: 66px;
+        text-align: center;
+        line-height: 1.6;
+        border-radius: 6px;
+        background-color: $grey-navigation-color;
+        color: $grey-body-background;
+    }
+    .pictures {
+        -webkit-flex: 0.4 0;
+        flex: 0.4 0;
+    }
+    .name {
+        line-height: 26px;
+        -webkit-flex: 0.6 0;
+        flex: 0.6 0;
+    }
+}

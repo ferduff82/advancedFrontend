@@ -1,0 +1,48 @@
+
+@import './index.scss';
+@import "Global/Fonts.scss";  
+
+.App {
+  font-family: avenirRoman;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  .left-menu {
+    padding: 10px;
+    background-color: $extreme-light-gray;
+    position: relative;
+    z-index: 1;
+    .menuDisplay {
+      width: 100%;
+      padding-top: 55px;
+    }
+    .menuToggle {
+      color: $circle-gray;
+      width: max-content;
+      &:hover {
+        color: $deep-blue-b;
+      }
+    }
+    .menu-link {
+      font-weight: bold;
+      padding: 10px 5px;
+      cursor: pointer;
+      color: $circle-gray;
+      &.active {
+        background-color:$hover-gray;
+      }
+      &:hover {
+        background-color:$hover-gray;
+      }
+    }
+  }
+  .full-panel {
+    width: 99%;
+  }
+  .semi-panel {
+    width: 100%;
+  }
+  .hide {
+    display: none !important;
+  }
+}

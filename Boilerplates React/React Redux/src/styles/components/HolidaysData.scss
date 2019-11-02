@@ -1,0 +1,40 @@
+
+@import '../Index.scss';
+
+.HolidaysDataWrapper {
+    padding: 22px 10px;
+    .rbc-event {
+        border-radius: 0;
+    }
+    .rbc-month-row {
+        overflow: initial;
+    }
+    .rbc-month-view {
+        background-color: $white-color;
+    }
+    .rbc-btn-group {
+        background-color: $white-color;
+    }
+    .rbc-btn-group:nth-child(3) {
+        display: none;
+    }    
+    .rbc-toolbar button {
+        border-radius: 0;
+    }
+    .rbc-toolbar-label {
+        padding: 0;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .rbc-date-cell {
+        padding-right: 0;
+        a {
+            margin: auto;
+            display: block;
+            text-align: center;
+            pointer-events: none;
+            cursor: default;
+        }
+    }
+}

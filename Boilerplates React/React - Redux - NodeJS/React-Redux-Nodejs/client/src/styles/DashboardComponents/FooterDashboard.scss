@@ -1,0 +1,20 @@
+
+@import '../index.scss';
+
+.footerTable {
+
+  table {
+    width: 100%;
+  }
+  
+  .time {
+    color: $white-color;
+    td {
+      width: 20%;
+    }
+  }
+  .time-manual {
+    border-left: 1.5px dotted $white-color;
+    border-right: 1.5px dotted $white-color;
+  }
+}

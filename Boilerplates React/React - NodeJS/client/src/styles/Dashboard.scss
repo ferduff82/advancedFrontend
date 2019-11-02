@@ -1,0 +1,109 @@
+
+@import './index.scss';
+
+.dashboard {
+
+  text-align: center;
+
+  header {
+    background-color: $header-background;
+    color: $white-color; 
+    font-weight: bold;
+  }
+  .table-styles {
+    table-layout: fixed;
+    th {
+      font-size: 12px;
+      font-weight: bold;
+      color: $white-color;
+    }
+    th.head-outcome {
+      color: $header-background;
+    }
+    .head-id,
+    .time-id {
+      background-color: $deep-blue;
+    }
+    .head-service,
+    .time-service {
+      background-color: $deep-green;
+    }
+    .head-monitoring,
+    .time-monitoring {
+      background-color: $deep-orange;
+    }
+    .head-outcome {
+      background-color: $white-color;
+    }
+    .time-outcome {
+      background-color: $deep-brown;
+    }
+    .body-id {
+      background-color: $light-blue;
+    }
+    .body-service {
+      background-color: $light-green;
+    }
+    .body-monitoring {
+      background-color: $light-orange;
+    }
+    .body-outcome {
+      background-color: $light-brown;
+    }
+
+    /* Border right Columns */
+
+    .border-right-id {
+      border-right: 1px solid $deep-blue; 
+    }
+    .border-right-service {
+      border-right: 1px solid $deep-green; 
+    }
+    .border-right-monitoring,
+    .border-right-manual {
+      border-right: 1px solid $deep-orange; 
+    }
+
+    .show-full-screen {
+      background-color: $blue-highlight;
+    }
+    .inner-table {
+      .circle-client-container {
+        padding: 4px;
+        .circle-client {
+          height: 1em;
+          width: 1em;
+          border-radius: 10px;
+          margin: auto;
+        }
+      }
+    }
+    .body-id {
+      .circle-client {
+        background-color: $deep-blue;
+      }
+    }
+    .body-service {
+      .circle-client {
+        background-color: $deep-green;
+      }
+    }
+    .body-monitoring {
+      .circle-client {
+        background-color: $deep-orange;
+      }
+    }
+    .body-outcome {
+      .circle-client {
+        background-color: $deep-brown;
+      }
+    }
+    .body-id-red,
+    .body-service-red,
+    .body-monitoring-red {
+      .circle-client {
+        background-color: $white-color;
+      }
+    }
+  }
+}

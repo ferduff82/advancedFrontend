@@ -1,0 +1,30 @@
+
+@import '../index.scss';
+
+.transportWrapper {
+  .register-form {
+    margin-top: 75px !important;
+  }
+  .stepsContainer {
+    position: absolute;
+    width: 100%;
+    top: 120px;
+    .firstStep,
+    .secondStep,
+    .thirdStep {
+      width: 50px;
+      height: 50px;
+      text-align: center;
+      margin: 0 5px;
+      padding: 15px;
+      border-radius: 50px;
+      background-color: $border-light;
+      color: $white-color;
+    }
+    .active {
+      background-color: $primary-color;
+      color: $white-color;
+      font-weight: bold;
+    }
+  }
+}

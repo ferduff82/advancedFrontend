@@ -1,0 +1,13 @@
+
+@import './index.scss';
+
+.assessmentContainer {
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  .assessment-text {
+    padding: 0 26px;
+  }
+}
+
+

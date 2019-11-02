@@ -1,0 +1,24 @@
+
+@import './index.scss';
+
+.headTableRef {
+  th {
+    color: $deep-blue;
+    a {
+      color: $white-color;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  } 
+  .head-ai {
+    color: $deep-blue;
+  }
+  .head-manual {
+    background-color: $deep-blue-b;
+    border-left: 10px solid $extreme-light-gray;
+    border-right: 10px solid $extreme-light-gray;
+  }
+  .bg-outcome {
+    color: $white-color;
+  }
+}

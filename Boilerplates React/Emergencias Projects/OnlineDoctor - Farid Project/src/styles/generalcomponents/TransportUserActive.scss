@@ -1,0 +1,136 @@
+
+@import '../index.scss';
+
+.subheader-container {
+  margin-bottom: 0 !important;
+}
+.wrapperUserActive {
+  .modalContainer {
+    .comments {
+      height: 200px;
+    }
+    .buttonContainer {
+      width: 100%;
+      margin-top: 20px;
+      .cancelReason {
+        background-color: $primary-background;
+        border: none;
+        color: $white-color;
+        font-weight: bold;
+        font-size: 18px;
+        width: 100%;
+        padding: 15px;
+      }
+    }
+  }
+  .transportUserActive {
+    .optionsDisplay {
+      padding-top: 16px;
+      height: 90px;
+      margin-bottom: 10px;
+      box-shadow: 0px 2px 7px rgba(132, 132, 132, 0.25);
+      .trasladosFuturos,
+      .historial {
+        width: 60px;
+        height: 60px;
+        padding: 15px;
+        border-radius: 50px;
+        background-color: $border-light;
+        color: $white-color;
+        margin: 0 10px;
+        &.active {
+          background-color: $primary-background;
+        }
+        svg {
+          width: 100%;
+          height: 100%;
+        }
+      }
+    }
+    .transportList {
+      width: 100%;
+      height: auto;
+      top: 189px;
+      bottom: 0;
+      position: fixed;
+      padding: 10px;
+      overflow: scroll;
+      li {
+        margin-bottom: 10px;
+        .titleContainer {
+          box-shadow: 0px 2px 7px rgba(132, 132, 132, 0.25);
+          padding: 10px;
+          border-radius: 10px;
+          margin-bottom: 10px;
+          .transportTitle {
+            width: 80%;
+            color: $text-light;
+            padding-left: 2px;
+            padding-right: 10px;
+            span {
+              font-weight: bold;
+            }
+          }
+          .openContent {
+            width: 20%;
+            button {
+              border-radius: 50%;
+              border: 0;
+              width: 40px;
+              height: 40px;
+              line-height: 1.2;
+              background-color: $primary-background;
+              color: $white-color;
+              font-size: 30px;
+              float: right;
+            }
+          }
+        }
+        .contentContainer {
+          padding: 20px;
+          background-color: #e2e2e2;
+          color: $text-light;
+          border-radius: 10px;
+          .destiny,
+          .origin {
+            margin-bottom: 15px;
+            span {
+              font-weight: bold;
+            }
+          }
+          button {
+            width: 100%;
+            height: 60px;
+            background-color: $primary-background;
+            color: $white-color;
+            font-size: 18px;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+    .historyList {
+      width: 100%;
+      height: auto;
+      top: 189px;
+      bottom: 0;
+      position: fixed;
+      padding: 10px;
+      overflow: scroll;
+      li {
+        .historyTitle {
+          padding: 10px;
+          min-height: 70px;
+          border-radius: 10px;
+          box-shadow: 0px 2px 7px rgba(132, 132, 132, 0.25);
+          margin-bottom: 13px;
+          width: 100%;
+          color: $text-light;
+          span {
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+}

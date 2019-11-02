@@ -1,0 +1,61 @@
+
+@import '../Index.scss';
+
+.DaytimeDataWrapper {
+    padding: 16px 10px;
+    .addedTime {
+        margin-bottom: 10px;
+        #time {
+            height: auto;
+        }
+    }
+    .headWrapper {
+        width: 100%;
+        padding: 10px 0 5px 0;
+        color: $special-grey;
+    }
+    .firstColumn {
+        width: 25%;
+        margin-right: 5%;
+        select {
+            width: 100%;
+            padding: 2px;
+        }
+    }
+    .secondColumn {
+        width: 25%;
+        margin-right: 5%;
+        form > div {
+            margin: 0;
+        }
+    }
+    .thirdColumn {
+        width: 10%;
+        text-align: center;
+        line-height: 2.2;
+    }
+    .fourthColumn {
+        width: 25%;
+        margin-right: 5%;
+        form > div {
+            margin: 0;
+        }
+    }
+    .fifthColumn {
+        width: 10%;
+        text-align: center;
+        line-height: 2.2;
+    }
+    .buttonWrapper {
+        padding: 10px 0;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .btn-active {
+        background-color: $grey-navigation-color;
+        color: $white-color;
+    }
+    .btn-active.remove {
+        font-weight: bold;
+    }
+}

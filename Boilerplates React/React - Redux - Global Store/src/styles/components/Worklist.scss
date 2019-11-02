@@ -1,0 +1,196 @@
+
+@import '../Index.scss';
+
+.worklistWrapper {
+    padding: 50px 10px 10px 10px;
+    margin-bottom: 68px;
+    .titleOnboarding {
+        z-index: 9;
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 8px;
+        font-weight: bold;
+        color: $white-color;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: $dark-blue;
+        box-shadow: 0px 4px 10px rgba(175, 175, 175, 0.24), 0px 0px 4px rgba(0, 0, 0, 0.12);
+    }
+    .typeSelectionWrapper {
+        .day, 
+        .week {
+            padding: 10px;
+            margin: 8px 5px 5px 5px;
+            background-color: $third-blue;
+            color: $white-color;
+            font-weight: bold;
+            font-size: 16px;
+            border-radius: 5px;
+            width: 100%;
+            text-align: center;
+            &.active {
+                background-color: $primary-background;
+            }
+        }
+    }
+    .contentCalendarWrapper {
+        position: fixed;
+        top: 116px;
+        bottom: 80px;
+        left: 0;
+        right: 0;
+        width: 100%;
+        padding: 0 10px;
+        overflow: scroll;
+        .dayTitle {
+            margin: 10px 10px 26px 10px;
+            padding: 0 10px;
+            color: $lighter-grey;
+            .today {
+                margin: 0 20px;
+            }
+            .fas {
+                font-size: 30px;
+            }
+        }
+        .dayList {
+            margin-bottom: 8px;
+            .headerDayList {
+                background-color: $white-color;
+                color: $data-grey;
+                justify-content: space-between;
+                box-shadow: 0px 2px 2px rgba(181, 181, 181, 0.25);
+                border-radius: 10px;
+                height: 45px;
+                &.activeDrive{
+                    background-color: $primary-background;
+                    color: $white-color;
+                }
+                .optionsDisplay {
+                    width: auto;
+                    margin-right: 8px;
+                    line-height: 1.8;
+                    .mapsDisplay,
+                    .showMore {
+                        margin: 10px 6px 6px 12px;
+                        .fas {
+                            font-size: 20px;
+                        }
+                    }
+                }
+                .leftSide {
+                    width: 138px;
+                    line-height: 2.8;
+                    padding-left: 15px;
+                    font-weight: bold;             
+                }
+            }
+            .rightSide {
+                background-color: $white-color;
+                padding: 9px 10px 7px 10px;
+                width: 100%;
+                margin-top: 5px;
+                border-radius: 10px;
+                color: $text-light;
+                &.tripFinished{
+                    background-color: #cecece;
+                    color: $white-color;
+                    span {
+                        color: $white-color;
+                    }
+                }
+                .startTripContainer,
+                .arrivedTripContainer,
+                .endTripContainer {
+                    button {
+                        margin: auto;
+                        margin: 22px auto 6px auto;
+                        height: 50px;
+                        width: 100%;
+                        font-size: 16px;
+                        font-weight: bold;
+                        .loading {
+                            padding: 5px;
+                            position: initial;
+                            font-size: 18px;
+                            margin-left: 10px;
+                            color: $white-color !important;
+                        }
+                    }
+                }
+                .completedTrip {
+                    font-weight: bold;
+                    text-align: center;
+                    color: $white-color;
+                    padding: 15px 0;
+                    .fas {
+                        font-size: 22px;
+                        margin-left: 9px;
+                        color: $white-color;
+                    }
+                }
+                .hourStart {
+                    margin-right: 6px;
+                }
+                span {
+                    color: $data-grey;
+                }
+            }
+        }
+        .weekCalendar {
+            width: 100%;
+            .wrapDay {
+                margin-bottom: 8px;
+                .weekDay {
+                    color: $data-grey;
+                    background-color: $white-color;
+                    padding: 12px;
+                    border-radius: 10px;
+                    font-weight: bold;
+                    box-shadow: 0px 2px 2px rgba(181, 181, 181, 0.25);
+                    height: 45px;
+                    i {
+                        font-size: 20px;
+                    }
+                }
+                .contentWeekDay {
+                    background-color: $white-color;
+                    padding: 13px;
+                    border-radius: 10px;
+                    margin-top: 6px;
+                    color: $data-grey;
+                }
+            }
+        }
+    }
+    .footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 65px;
+        background-color: $third-blue;
+        color: $white-color;
+        .userButton,
+        .workList,
+        .travels {
+            width: 33.3333%;
+            padding: 10px;
+            text-align: center;
+            font-size: 37px;
+            line-height: 1.3;
+            .fas {
+                color: $white-color;
+                box-shadow: none;
+            }
+        }
+        .userButton,
+        .workList {
+            &.active {
+                background-color: $secondary-background;
+            }
+        }
+    }
+}

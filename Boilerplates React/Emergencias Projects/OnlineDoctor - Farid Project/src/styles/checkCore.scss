@@ -1,0 +1,23 @@
+
+@import './index.scss';
+
+.unassociatedPhone {
+  .textPhoneHelper {
+    padding: 20px;
+    font-size: 20px;
+    color: $text-light;
+  }
+  a {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 25px;
+    button {
+      font-size: 20px;
+      margin: 0;
+      font-weight: bold;
+    }
+  }
+
+}
+

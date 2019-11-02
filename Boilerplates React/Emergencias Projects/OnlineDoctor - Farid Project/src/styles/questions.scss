@@ -1,0 +1,20 @@
+
+@import './index.scss';
+
+.questionsContainer {
+  position: fixed;
+  left: 0;
+  bottom: 10px;
+  width: 100%;
+  .assessment-text {
+    padding: 0 26px;
+    width: 100%;
+  }
+  .no-more-questions {
+    font-weight: bold;
+    width: 100%;
+    color: $text-dark;
+  }
+}
+
+
