@@ -1,0 +1,22 @@
+
+- Mantain a Persona data file
+
+Almacenar toda la información sobre tus Personas no tiene que se dificil.
+Podes tener todo en un solo documento, agregando más información conforme pasa el tiempo.
+Divide el documento en secciones, tales como: Atributos, Objetivos, escenarios de uso e información de respaldo. 
+Incluye referencias sobre las fuentes de información tales como: Visitas al sitio, Tests de usabilidad, URLs a artículos online,
+Links a resultados de otras companías.
+
+Lo importante sobre el archivo de personas: NO LO COMPARTAS CON NADIE.
+En cambio, comparte la información que contiene en partes tales como Posters o resúmenes.
+
+Utiliza las búsquedas realizadas para backup de suposiciones que hagas, para clarificar esas suposiciones a otros miembros del equipo.
+Reutiliza la búsqueda para nuevos insights y soluciones de producto. Al hacer research continuos se mantiene a las personas frescas y actualizadas
+y más importante CREÍBLES.
+
+Se reemplazan las suposiciones iniciales con datos reales y como resultada se puede estar más seguro de las desiciónes de producto que se hagan.
+El archivo de almacenaje de Personas es solo un medio de almacenaje para tus researchs y tus insights.
+
+
+
+

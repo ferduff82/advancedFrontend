@@ -1,0 +1,8 @@
+
+-- Analizando los datos de usuario
+
+Sin un buen dataset de datos es imposible hacer user-centered-design. 
+La mejor forma de recolectar estos datos es en el lugar donde los usuarios realizan las tareas que te interesan.
+
+LO IMPORTANTE ES EXTRAER LOS "PAIN POINTS" PARA DE ESA FORMA PODER DISEÑAR SOLUCIONES QUE REALMENTE AYUDEN A LOS USUARIOS
+A REALIZAR SUS TAREAS DE FORMA MÁS FÁCIL Y EFICIENTE Y QUE SE SIENTAN MÁS SATISFECHOS.

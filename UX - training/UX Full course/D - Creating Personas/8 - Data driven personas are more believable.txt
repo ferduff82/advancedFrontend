@@ -1,0 +1,21 @@
+
+- Data-driven personas son más confiables
+
+Puedes asumir que las personas son suficiente para tus necesidades en un trabajo de desarrollo corto.
+Pero si vas a desarrollar software para los mismos usuarios por un período largo de tiempo
+tener personas basadas en datos (database personas) realmente ayuda a mantener al equipo focalizado
+en para quien están desarrollando. Al decir basadas en datos nos referimos a que cada frase 
+de la descripción de tu persona está respaldada por puntos de datos y tu  tienes un backup 
+adicional que cubre las actividades que tu persona puede llegar a realizar y los intereses
+que puede llegar a tener.
+
+Los datos adicionales que respalden los statements de tu persona van a hacer a tu persona mucho
+más creíble y también mucho más defendible. Si alguien de tu equipo cuestiona si los usuarios
+realmente se comportan de determinada forma, vas a poder usar tus personas basadas en datos
+(data driven personas) para verificar que estás llendo en la dirección correcta. 
+Típicamente aquí es donde tus personas también se gradúan de ser tarjetas indexadas a ser
+glosarios, posters bien diseñados que podes compartir con una audiencia más amplia.
+
+Solo reclutar participantes para el test de usabilidad te va a ayudar a verificar las suposiciones
+iniciales al crear las personas. De todas formas, hay más datos que pueden ser recolectados para
+construir personas confiables, estables y precisas.

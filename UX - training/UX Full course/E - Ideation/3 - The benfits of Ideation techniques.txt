@@ -1,0 +1,25 @@
+
+Los beneficios de las técnicas de Ideación
+
+Las técnicas de Ideación encaja dentro del proceso de diseño centrado en el usuario inmediatamente después de que hayas
+descubierto los 'Pain Points' y hayas decidido sobre tus personas. Las técnicas de ideación permiten que generes múltiples
+soluciones potenciales a los 'pain points' que hayas descubierto. 
+La información que necesitas para realizar los procesos de ideación vienen de tu mapa de experiencias y de la lista
+de pain points y objetivos que hayas creado. Obviamente necesitas poner el foco en el proceso de ideación y ahí es donde
+las PERSONAS te van a ayudar, haciendo el chequeo de realidad.
+
+Después de realizar un ejercicio de ideación para descubrir los múltiples caminos de éxito, vas a acotar el foco y traer
+las cosas devuelta a la realidad al crear escenarios y storyboards. Estas herramientas describen las ideas de diseño que 
+has elegído seguir como resultado de un ejercicio de ideación.
+Convierten las ideas abstractas de diseño en items específicos, entendibles, y accionables.
+Al mostrar cómo el concepto de ideación puede aplicar a tus personas, crear un día en la vidad de una persona con un 
+nuevo concepto de diseño.
+
+Luego de hacer los escenarios y storyboards se pueden crear prototipos de interaces para probar las ideas y refinarlas antes
+de comitear código. Las técnicas de ideación te liberan de tus limitaciones de diseño por continuidad.
+En lugar de solo tratar de agregar nuevas piezas a tu interfaz actual, se pueden exponer nuevas alternativas 
+para tus necesidades.
+
+El proceso de ideación involucra a todo el equipo, al presentar múltiples alternativas de diseño, el mismo se resetea para
+valorar las nuevas alternativas y crear nuevos caminos para tus objetivos.
+Las nuevas ideas pueden hacer que llegues a soluciones que nunca se te hayan ocurrido.

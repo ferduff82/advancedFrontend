@@ -1,0 +1,8 @@
+
+-- Conociendo las alternativas
+
+El user-centered-design puede ser conocido con muchos nombres tales como: Design thinking, Service thinking, Interaction design
+y User experience.
+No hay fórmulas mágicas, no existe una forma específica de hacer user-centered-design.
+
+El costo de user-centered-design tanto en terminos de dinero como en tiempo es mínimo y la ganancia vale la pena.

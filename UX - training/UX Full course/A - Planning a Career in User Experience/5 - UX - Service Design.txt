@@ -1,0 +1,13 @@
+
+Service Design:
+
+El diseñador de servicios tiene ocupa un area mas global de la interacción de los usuarios con todos los productos digitales
+de la companía, esas interacciones pueden ser electrónicas o de pantalla, aunque también puede ser a través de la marca o
+del personal.
+
+- El trabajo del Diseñador de Servicios es paralelo al de Diseñador de Interacción, pero con un scope más amplio.
+
+- El diseñador de servicios busca entender las necesidades y comportamientos de los grupos de audiencia principales,
+cómo interactúan con la companía actualmente y como se pueden diseñar nuevos procesos para mejorar estas interacciones.
+
+- El diseñador de servicios también trabaja con los accionistas y los ayuda a visualizar servicios existentes o nuevos.

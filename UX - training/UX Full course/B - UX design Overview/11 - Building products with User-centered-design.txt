@@ -1,0 +1,8 @@
+
+-- Hacer productos con diseño centrado en el usuario
+
+El diseño centrado en el usuario te va a ayudar a encontrar las necesidades de usuario más facilmente.
+Lo más importante y lo primero que se necesita es datos de usuarios.
+Es necesario conseguir los datos de usuario lo antes posible para conocer cuales son sus PAIN POINTS.
+
+

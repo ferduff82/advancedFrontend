@@ -1,0 +1,21 @@
+
+- El beneficio de usar Personas
+
+Personas le dan a todos en el equipo un vocabulario para describir a los usuarios para quienes se va a diseñar y desarrollar.
+Como resultado la toma de desiciones es más focalizada.
+Al decir vocabulario común nos referimos a que los miembros pueden usar nombres de las personas como la forma de describir
+atributos, deseos y comportamientos. Esto es suficiente para que todos los involucrados en la conversación inmediatamente sepan
+como las personas pueden responder a la interfaz que se está desarrollando.
+
+Si las personas están claramente definidas TODOS EN EL EQUIPO DEBERÍAN ESTAR DE ACUERDO SOBRE QUE FEATURES PROVEERAN EL MAYOR
+BENEFICIO PARA AQUELLAS PERSONAS, Y DEBIDO A ESO, A CUALES FEATURES SE LES DEBERÍA DAR MÁS PRIORIDAD.
+
+Construir un producto para un set de personas definidas significa que tendrá un foco que de otra forma sería flojo.
+Ese foco es importante ya que implica que la interfaz se comporta de manera consistente.
+UTILIZA METAFORAS COMUNES, NO SALTA DE APUNTAR A USUARIOS NOVICIOS A APUNTAR A USUARIOS EXPERTOS Y NO INCLUYE SOLO FEATURES DE CASOS.
+
+Tener un grupo de usuarios definidos implica que las features "just in case" (por si acaso) pueden ser removidas de la lista de 
+prioridades ya que no serán útiles para tus "personas". 
+
+Aunque no todos los usuarios macheen tu descripción de persona, van a apreciar el diseño más claro y focalizado que el desarrollo 
+te permitirá crear.

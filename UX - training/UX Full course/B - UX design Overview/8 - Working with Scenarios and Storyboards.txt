@@ -1,0 +1,11 @@
+
+-- Trabajando con escenarios y storyboards.
+
+Los escenarios y los storyboards funcionan al revés de la "Ideation", se aseguran de poner la guía nuevamente para 
+asegurar que las soluciones diseñadas sean posibles de ser desarrolladas y que sean lo que los usuarios desean.
+
+- Los escenarios permiten escribir la idea ideal de futuro donde los usuarios pueden cumplir con sus metas sin los
+problemas que enfrentan hoy en día. Lo que hace que los escenarios sean creíbles es que se incluyen los mecanismos
+con los cuales se cumple con este final feliz.
+
+- Los storyboards se utilizan para visualizar una interacción ficticia entre el usuario y la aplicación de punta a punta.

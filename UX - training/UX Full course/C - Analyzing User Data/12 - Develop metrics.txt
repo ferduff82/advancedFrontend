@@ -1,0 +1,32 @@
+
+Recolectar métricas.
+
+Recolectar métricas determina el éxito de la feature creada.
+Obtener datos de efficiency, effectiveness y customer satisfaction te hará saber si cumpliste
+con las necesidades del usuario con la feature implementada.
+
+Aún estando en etapa de "pain points" y "goals" se puede determinar las métricas high level 
+que te pueden ayudar a entender si alcanzaste los "goals" que te propusiste.
+
+Con un aproach de "user centered design" se puede empezar a medir el éxito antes de lanzar
+las nuevas features cuando corres tests de usabilidad de tus prototipos.
+
+Para crear métricas primero determinar que significa éxito para tus goals.
+Luego ver como medir el éxito en términos de:
+Eficiencia: Cuanto tarda el usuario en completar la tarea.
+Efectividad: Reducción del número de errores o un incremento en la satisfacción del usuario.
+
+Por ejemplo: Una métrica para eficiencia puede ser que los usuarios les lleve 20% menos tiempo
+para completar tareas con el nuevo sistema comparado al proceso existente.
+
+Una métrica para efectividad puede ser que los usuarios no tengan que volver hacia atrás 
+en sus pasos o que no cometan errores de data entry con el nuevo sistema.
+Una métrica para satisfacción puede se incremente la satisfacción al menos 1 punto en una
+escala de 5 puntos comparado con el proceso anterior.
+
+Una vez terminado estaría terminada la etapa de análisis de datos.
+
+quedarían 3 pizarras con los "pain points", "goals" y "goals success metrics".
+
+
+
