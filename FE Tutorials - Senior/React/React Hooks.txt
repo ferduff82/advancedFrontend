@@ -1,0 +1,46 @@
+
+// De forma similar a componentDidMount
+useEffect(() => {
+    document.title = `You clicked ${count} times`;
+}, []); 
+
+// De forma similar a componentDidMount y componentDidUpdate
+useEffect(() => {
+    document.title = `You clicked ${count} times`;
+});
+
+// Se ejecuta solo si props.friend cambia
+useEffect(() => {
+    document.title = `You clicked ${count} times`;
+}, [props.friend]); 
+
+//Sanear un servicio para que no siga ejecutándose habiendo salido del componente
+useEffect(() => {
+    function handleStatusChange(status) {
+       setIsOnline(status.isOnline);
+    }
+    ChatAPI.subscribeToFriendStatus(props.friend.id, handleStatusChange);
+    return () => {
+       ChatAPI.unsubscribeFromFriendStatus(props.friend.id, handleStatusChange);
+    };
+});
+
+Se recomienda utilizar un useEffect() para cada evento que sucede.
+
+// useCallback() se utiliza para cachear valores (recomendado para realizar llamadas a un servicio y llamar nuevamente si se redibuja el componente). Ej. En este caso exceptuando props y getId todos los otros valores Y LOS VALORES DE LAS FUNCIONES HIJAS LLAMADAS van a ser cacheadas
+
+// useContext() se utiliza para pasar valores a componente hijos muy anidados:
+https://es.reactjs.org/docs/hooks-reference.html#usecontext
+
+// withRouter() permite acceder a propiedades del router en caso de que se haya accedido a un componente a través de otro componente en lugar de una ruta.
+https://reacttraining.com/react-router/core/api/withRouter
+
+//useRef() permite obtener una referencia del un elemento del dom y si cambia hacer algo con eso.
+
+var signatureRef = useRef()
+useEffect(() => {
+    console.log(signatureRef)
+}, [signatureRef])
+
+<SignatureCanvas ref={(ref) =>  signatureRef = ref} />
+<button onClick={() => postSignature()}>Continuar</button>
