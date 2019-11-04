@@ -1,0 +1,19 @@
+
+Del Scenario al Storyboard:
+
+Los storyboards ayudan a los directores y productores a tener un scope de interacción y asegurarse de que la historia se unifica de una
+forma creíble. Esto es igualmente relevante en User interface design.
+
+Es importante ver las imágenes del storyboard para entender a fondo lo que sucede y que esto no quede solo descripto en texto.
+Los storyboards también ayudan a hacer foco en casos particulares.
+
+- Aunque los storyboards no muestran la interface, ayudan a entender el progreso de la interacción del usuario.
+Esto ayuda a consolidar el diseño, remover pasos innecesarios y mostrar donde se necesita trabajo adicional.
+
+- Los storyboards también ayudan a mostrar el avance a ejecutivos que no tengan tiempo para leer.
+
+- No es necesario pasar cada paso del mapa de escenario, pero si creas un buen escenario será mucho más fácil crear los storyboards.
+
+
+
+
