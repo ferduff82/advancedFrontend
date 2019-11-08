@@ -1,0 +1,15 @@
+
+Consejos para buenos Storyboards:
+
+- En caso de mostrar una interfaz en detalle en el Storyboard, la misma no tiene que tener mucho detalle, es más, debe verse como se ven las
+interfaces en las películas, es decir, básicas y con el mensaje claro y conciso.
+
+- Los storyboard se utilizan para llevar el texto de los Scenarios a imágenes y de esa forma hacer más legibles los flujos de uso del 
+usuario en la interfaz.
+
+- El feedback temprano es mucho más barato que escribir el código equivocadamente.
+
+- Una vez finalizado el proceso de SCENARIOS Y STORYBOARDS se lleva a el proceso de PROTOTIPADO.
+
+
+
