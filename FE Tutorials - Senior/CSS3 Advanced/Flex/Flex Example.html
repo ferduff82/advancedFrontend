@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flex CSS3 Example</title>
+</head>
+<body>
+
+<style>
+	
+	/* First Example */
+
+	.container-1 {
+		display: flex;
+		/*
+		Adjusts vertical leftover space
+		//
+		align-items: flex-start;
+		align-items: flex-end;
+		align-items: center;
+
+		// Displays flex as columns
+		flex-direction: column;
+		*/
+	}
+	.container-1 div,
+	.container-2 div,
+	.container-3 div {
+		border: 1px #ccc solid;
+		padding: 10px;
+	}
+	.box-1 {
+		flex: 2;
+		order: 2;
+	}
+	.box-2 {
+		flex: 1;
+		order: 1;
+	}
+	.box-3 {
+		flex: 1;
+		order: 3;
+	}
+
+	/* Second Example */
+
+	.container-2 {
+		display: flex;
+		/*
+		// Content Alignment
+		justify-content: flex-end; 
+		justify-content: space-between;
+		justify-content: space-around;
+		*/
+	}
+
+	.container-2-box {
+		flex-basis: 20%;
+	}
+
+	/* Third Example */
+
+	.container-3 {
+		justify-content: space-around;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+</style>
+
+<div class="container-1">
+	<div class="box-1">
+		<h3>Box One</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="box-2">
+		<h3>Box Two</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="box-3">
+		<h3>Box Three</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+</div>
+
+<div class="container-2">
+	<div class="container-2-box">
+		<h3>Box One</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-2-box">
+		<h3>Box Two</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-2-box">
+		<h3>Box Three</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+</div>
+
+<div class="container-3">
+	<div class="container-3-box">
+		<h3>Box One</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-3-box">
+		<h3>Box Two</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-3-box">
+		<h3>Box Three</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-3-box">
+		<h3>Box Four</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-3-box">
+		<h3>Box Five</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+	<div class="container-3-box">
+		<h3>Box Six</h3>
+		<p>This is an advanced test using Flex</p>
+	</div>
+</div>
+
+</body>
+</html>
