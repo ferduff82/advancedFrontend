@@ -1,0 +1,15 @@
+
+Importar el state y el dispatch a un action con Thunk:
+
+export const randomGoals = () => (dispatch, getState) => {
+	if (!getState.resortNames.fetching) {
+		dispatch({
+			type: C.FETCH_RESORT_NAMES
+		})
+		setTimeout(() => {
+			dispatch({
+				type: C.CANCEL_FETCHING
+			})
+		}, 1500)
+	}
+}
