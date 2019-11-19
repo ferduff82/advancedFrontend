@@ -1,0 +1,6 @@
+
+Se utiliza Fragment cuando necesitamos devolver 2 o más nodos en el componente:
+
+Ej:
+
+https://es.reactjs.org/docs/fragments.html
