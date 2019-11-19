@@ -3,6 +3,8 @@
 
 <script type="module" defer src="main.js"></script>
 
+// defer y async permiten cargar archivs JS de maner asíncrona, async en cualquier momento y defer al final.
+
 
 //Tipos de Export:
 
