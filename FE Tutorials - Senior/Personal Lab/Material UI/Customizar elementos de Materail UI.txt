@@ -1,0 +1,6 @@
+
+Ejemplo de como customizar elementos de una tabla en material UI:
+
+https://material-table.com/#/docs/features/styling
+
+Ej en línea 254 de index.

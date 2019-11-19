@@ -1,0 +1,18 @@
+
+Que es Paper Prototyping?
+
+El Paper Prototyping es la primera vez en el proceso de diseño donde se juntan todos los elementos de la interfaz 
+en una forma que se aproxima a lo que los usuarios verán en pantalla.
+
+Paper prototyping involucra crear versiones mínimas de tu interfaz utilizando elementos de interfaces fácil de mover y reemplazar
+creados de piezas de papel. Incluso con tan baja fidelidad es posible mostrar distintos tipos de interacciones.
+
+Si sos diseñador puede que estes tentado a saltar este paso y empezar a realizar mocks en algunas herramientas de diseño como:
+Balsamiq o Mockingbird. Esto sería un error por varios motivos:
+El primero es que los errores son más fáciles y rápidos de corregir en "paper prototypes". 
+El segundo motivo es que al ser de tan baja calidad es más fácil que los miembros del equipo esten más abiertos a las críticas.
+(Recuerda que en este paso todavía estamos testeando conceptos y no el método exacto de implementación).
+
+Este método también sirve para obtener feedback esencial de los usuarios así de esta forma podemos saber si vamos por el camino correcto.
+Esto se logra realizando "usability tests" con los paper prototypes como interfaz que los participantes usan para completar sus tareas.
+
