@@ -1,0 +1,18 @@
+
+Con flex:
+
+display: flex;
+justify-content: center;
+flex-direction: column;
+
+Con table:
+
+<div id="parent">
+    <div id="child">Content here</div>
+</div>
+
+#parent {display: table;}
+#child {
+    display: table-cell;
+    vertical-align: middle;
+}

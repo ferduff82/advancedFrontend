@@ -1,4 +1,4 @@
-
+﻿
 // De forma similar a componentDidMount
 useEffect(() => {
     document.title = `You clicked ${count} times`;
@@ -27,7 +27,8 @@ useEffect(() => {
 
 Se recomienda utilizar un useEffect() para cada evento que sucede.
 
-// useCallback() se utiliza para cachear valores (recomendado para realizar llamadas a un servicio y llamar nuevamente si se redibuja el componente). Ej. En este caso exceptuando props y getId todos los otros valores Y LOS VALORES DE LAS FUNCIONES HIJAS LLAMADAS van a ser cacheadas
+// useCallback() se utiliza para cachear valores (recomendado para realizar llamadas a un servicio, o para guardar datos de un cálculo complejo, UNA VEZ GUARDADO LA FUNCIÓN NO VA A VOLVER A DISPARARSE). 
+Ej. En este caso exceptuando props y getId todos los otros valores Y LOS VALORES DE LAS FUNCIONES HIJAS LLAMADAS van a ser cacheadas
 
 // useContext() se utiliza para pasar valores a componente hijos muy anidados:
 https://es.reactjs.org/docs/hooks-reference.html#usecontext
