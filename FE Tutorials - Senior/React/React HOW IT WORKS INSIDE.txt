@@ -1,0 +1,53 @@
+﻿
+Cómo funciona React por dentro:
+
+
+React renderiza todo a través del uso de una copia del DOM llamado Virtual DOM.
+
+Es tan rápido que cada vez que se realiza un setState o algo modifica React crea un nuevo Virtual DOM.
+
+El algoritmo DIFFING:
+1 - 2 elementos de tipos diferentes van a producir arboles diferentes.
+2 - Cualquier elemento dentro del elemento root va a ser desmontado y su state va a ser destruído.
+    Ejemplo de diffing:
+
+<div>
+    <Counter/>
+</div>
+
+<span>
+    <Counter/>
+<span/>
+
+(un ejemplo sería en un if ternario mostrar el div o el span. Esto no se recomienda ya que es lento)
+
+<div>
+    <Counter/>
+</div>
+
+<div>
+    <Counter/>
+<div/>
+
+(Si hicieramos esto en cambio, React va a manter la instancia de la misma forma pero si va a cambiar los props. Es mucho más rápido)
+
+-- SI UN NODO CAMBIA(COMPONENTE O TYPO) REACT VA A RE-RENDERIZAR EL SUBTREE COMPLETAMENTE. 
+
+React lee los cambios utilizando lógica "Breadth First" esto significa que lee los nodos de arriba hacia abajo, y si encuentra un cambio redibuja todo el arbol completo. Contrario a la lógica "Depth First" en la cual se lee de abajo hacia arriba y puede llegar a tener que hacer varios cambios en el árbol si varias cosas han cambiado.
+
+
+BROWSER DOM UPDATE PROCCESS:
+
+1) React crea un VIRTUAL DOM y hace un DIFF vs el VIRTUAL DOM anterior, luego crea una lista de los mínimos cambios posibles para modificar el BROWSER DOM.
+
+2) Una vez completada la lista React va a disparar todos los cambios uno después del otro lo más rápido posible.
+
+3) Esto lo hará en un ciclo continuo de escritura SIN REFLOW, el REFLOW se hará cuando el proceso haya terminado (reflow es el proceso en el cual el navegador recalcula las posiciones, geometrías, colores de los elementos de la página).
+
+
+shouldComponentUpdate: Se utiliza para evitar que algún componente específico que esta más abajo en el árbol sea redibujado.
+
+Una herramienta útil para medir la performance de nuestas apps es 'react-addons-perf'.
+
+
+https://www.youtube.com/watch?v=mLMfx8BEt8g

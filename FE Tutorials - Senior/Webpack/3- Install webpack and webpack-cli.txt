@@ -1,0 +1,14 @@
+
+Instalar webpack y webpack-cli:
+
+1) Verificar que la versión de node sea superior a 6: node -v
+
+2) Verificar que la versión de npm sea superior a 4: npm -v
+
+3) para crear un package.json: npm init 
+
+4) Instalar webpack: npm install webpack@4.28.4 --save
+
+5) Instalar webpack-cli: npm install webpack-cli@3.2.1 --save-dev
+
+

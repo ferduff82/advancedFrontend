@@ -1,0 +1,8 @@
+
+Que hay de nuevo con Webpack 4:
+
+1- No da más soporte a Node.js 4
+2- Es 98% más rápido
+3- Tiene un modo DEV y un modo PRODUCTION
+4- Trae soporte para WebAssembly
+

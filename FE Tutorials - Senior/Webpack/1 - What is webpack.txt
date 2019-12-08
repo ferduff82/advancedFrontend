@@ -1,0 +1,9 @@
+
+Que es webpack y sus beneficios:
+
+1- Webpack solo importa los assets a una página cuando la página los necesita.
+ 
+2- Podemos separar el código en diferentes archivos y cargar sólo el código que necesita la página (esto también mejora la performance).
+
+3- Nos ayuda con las TRANSFORMATIONS, si utilizamos SASS por ejemplo o REACT webpack puede hacer el build de los mismos de manera programática.
+
