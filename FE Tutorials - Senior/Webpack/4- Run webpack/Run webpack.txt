@@ -1,0 +1,16 @@
+
+Iniciar webpack:
+
+1) npm install jquery --save
+
+2) Crear carpetas /src y /dist
+
+3) Crear archivo index.html dentro de la carpeta /dist 
+
+4) Crear archivo index.js dentro de la carpeta /src
+
+5) Correr el comando "webpack" (va a generar por defecto el archivo main.js dentro de /dist, se puede especificar también 
+   como generar el js, en modo dev o prod, "webpack dev" por ejemplo). 
+
+6) Si el comando no funciona y se quiere evitar instalar webpack de forma global hacerlo con: "./node_modules/.bin/webpack" 
+   o también utilizando npx. Ej: "npx webpack".
