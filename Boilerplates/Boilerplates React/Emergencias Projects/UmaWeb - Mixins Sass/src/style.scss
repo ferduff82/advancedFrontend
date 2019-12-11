@@ -1,0 +1,491 @@
+/* 
+============== INDEX =============
+- GENERAL STYLES
+- CANVAS BG
+- HEADER
+- MAIN CONTENT
+-- SLIDER
+- MILESTONES
+- ABOUT
+- CORPORATE
+- FOOTER
+- RESPONSIVE ADAPTATIONS
+- ANIMATIONS
+- OTHERS
+============== PAGES =============
+- SINGLE
+*/
+
+/*============ INDEX =============
+==========GENERAL STYLES==========*/ 
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff; /*0074bb 072b46 */
+  }
+
+.brand-logo {
+  position: absolute;
+  left:0
+}
+nav a,
+nav .brand-logo {
+   color: #000;
+ }
+ 
+ ul {
+   margin-top: 5px;
+ }
+
+ nav ul a {
+   color: #000 !important;
+   font-weight: bolder;
+   font-family: Raleway, Helvetica;
+ }
+
+ nav ul a:hover {
+  background-color: #0074bb !important;
+  color: #fff !important;
+  font-weight: bolder;
+  font-family: Raleway, Helvetica;
+ }
+
+ p {
+   line-height: 2rem;
+ }
+
+ h1, h2, h3, h4, h5 {
+   font-family: Arista, Helvetica;
+ }
+
+.container {
+  z-index: 1;
+  margin-left: 0;
+}
+
+
+/* CANVAS BG */ 
+.background {
+/*   background-color: #072b46;
+ */  
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  margin-top: -3.2%;
+  width: 100%;
+  height: 95%;
+}
+
+ /* HEADER */
+.sidenav-trigger {
+  color: rgb(212, 0, 0);
+}
+
+h1.header {
+ font-size: 6rem;
+}
+
+.logo {
+  width: 100px;
+  margin: -5px 0;
+}
+
+.header-menu {
+  font-family: 'Raleway';
+  font-style: bold;
+}
+
+.uma-text {
+  background-color: #fff;
+  padding: 10px 5px 0;
+}
+ /* MAIN CONTENT */
+ 
+ #main-background {
+   background-image: url('./assets/68450849_l.jpg');
+   background-size: 100%;
+   background-position: 0vh;
+   z-index: 1;
+   opacity: 0.3;
+ }
+
+#main-container {
+  position: absolute;
+  align-content: center;
+  top: 30%;
+  left: 0;
+  right: 0;
+  color: #fff;
+  font-family: Arista, Helvetica, sans-serif;
+}
+
+/* -------------------- SLIDER */
+
+.header-div {
+  text-align: left;
+  height: 100%;
+}
+ 
+.header-slide-text {
+  font-family: 'Arista', helvetica;
+  font-size: 4.2rem;
+  line-height: 60px;
+  opacity: 1;
+}
+
+/* GENERAL STYLES */ 
+
+.milestone-card {
+  position: relative;
+  border: solid 1px #fff;
+  margin: 25px 10px 0;
+  height: 250px;
+  width: 95%;
+  z-index: 1 !important;
+  overflow: hidden;
+}
+
+.milestones-title {
+  text-transform: uppercase;
+  font-family: 'Arista';
+  font-size: 2rem;
+  color: #fff;
+  margin: 10px 0 0 20px;
+  z-index: 1 !important;
+}
+
+.milestone-card-bg {
+    position: relative;
+    background-size: cover;
+    opacity: 1;
+    width: 100%;
+    height: 100%
+}
+
+.milestone-card-bg-mask {
+  background-image: url('https://png.pngtree.com/element_pic/17/03/14/4b6c1583d60cfaafd6d017ddcdd7f05d.jpg');
+  position: absolute;
+  margin-top: -50%;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 3;
+  animation: fade-in-data 2s;
+}
+
+.milestone-card-bg-mask:hover {
+  opacity: 0;
+  animation: fade-color 3s;
+}
+
+.milestone-card-content {
+    font-family: 'Raleway';
+    position: absolute;
+}
+
+.milestone-card-content p {
+  margin-top: 25px;
+  padding: 5px;
+  line-height: 1.56rem;
+  opacity: 0.01;
+}
+
+.milestone-card-content p:hover {
+  animation: fade-in 2s;
+  opacity: 1;
+}
+
+.milestone-card-title {
+  align-items: center;
+  font-size: 2rem;
+  text-transform: uppercase;
+  position: absolute;
+  bottom: -10px;
+  padding: 5px 5px;
+  color: #fff;
+  background-color: #0074bb;
+  
+}
+
+.milestone-card-text {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  color: #000;
+  background-color: #fff;
+}
+
+.milestone-card-button {
+  position: absolute;
+  right: 40px;
+  bottom: -10px;
+}
+
+.milestone-modal {
+  background-color: #36a853 !important;
+  width: 1400px;
+}
+
+.customOverlay{
+  background-color: #0074bb !important;
+  height: 80%;
+}
+
+
+/* ABOUT */
+.about-card{
+  margin: 50px 0;
+  border: solid 1px #36a853;
+  background-color: #fff;
+  width: 50%;
+}
+
+.about-title {
+  position: absolute;
+  border: solid 1px #E94435;
+  background-color: #E94435;
+  color: #fff;
+  font-family: Arista, Helvetica;
+  margin-top: -2.5rem;
+  padding: 0 5px;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+.about-text {
+  font-family: Helvetica;
+  font-size: 1.5rem;
+  padding: 30px;
+}
+
+/* CORPORATE CONTAINER */
+
+.corporate-container {
+  background-color: #fff;
+  height: 300px;
+  text-align: center;
+}
+
+.corporate-logo {
+  padding: 5%;
+  height: 100%;
+}
+
+/* HOW WORKS */
+.howWorks-container {
+  background-color: #0074bb;
+  height: 100%;
+  margin-bottom: 0;
+}
+
+.howWorks-container img {
+  width: 100%;
+  margin-top: auto;
+  margin-bottom: 0;
+}
+
+.howWorks-img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 0px !important;
+  margin-bottom: -5px !important;
+}
+
+.howWorks-text {
+  padding-left: 20px;
+}
+
+.howWorks-details {
+  font-family: Raleway, Helvetica;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+/* STATS */
+.stats-container {
+  background-color: #36a853;
+  height: 300px;
+  padding: 40px 100px;
+}
+
+.stats-title {
+  padding: 0 0 0 30px;
+  margin-top: 0px;
+}
+
+.stats-stasts {
+  margin-top: 50px !important;
+}
+
+.stats-text  {
+  color: white;
+  font-weight: bold;
+  padding: 5px 0 0 20px!important;
+}
+
+/* FOOTER */
+footer.page-footer {
+  margin: 0;
+  background-color: #E94435;
+}
+
+/* Responsive adaptations */
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  .corporate-container {
+    background-color: #fff;
+    height: 100%;
+    text-align: center;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+  .corporate-logo {
+    padding: 10%;
+    width: 100%;
+    height: 50%;
+  }
+  .header-slide-text {
+    font-size: 2.2rem;
+    line-height: 30px;
+  }
+  .stats-title {
+    font-size: 2rem;
+  }
+  #main-background {
+    background-size: cover;
+    z-index: 1;
+    opacity: 0.4;
+    height: 200px;
+  }
+  #main-container {
+    position: absolute;
+    top: 10%;
+  }
+  .howWorks-text h2 {
+    font-size: 2rem;
+  }
+  .stats-container {
+    height: 100%;
+    padding: 5px 5px;
+  }
+  .stats-text  {
+    color: white;
+    font-weight: bold;
+    padding: 5px 0 0 0px !important;
+  }
+
+}
+
+
+
+/* OTHERS */
+
+.no-margin-bottom {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+
+/* ANIMATIONS */
+@keyframes fade-color {
+  0%   {background-color:#36a853;}
+  50%   {background-color:#0074bb;}
+  100% {background-color:#36a853;}
+}
+
+@keyframes fade-in {
+  0% { opacity: 1 }
+  100% { opacity: 0 }
+}
+
+@keyframes fade-in-data {
+  0% { opacity: 0 }
+  50% { opacity: 0.3 }
+  100% { opacity: 0 }
+}
+
+/*============ PAGES =============
+============== SINGLE ===========*/ 
+
+.background-single {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    margin-top: -3.2%;
+    width: 100%;
+    height: 100%;
+  }
+
+#main-single {
+  background-image: url('https://images.pexels.com/photos/1415554/pexels-photo-1415554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+  z-index: 1;
+  opacity: 0.4;
+  height: 800px;
+}
+
+#single-container {
+  position: absolute;
+  align-content: center;
+  top: 30%;
+  left: 0;
+  right: 0;
+  font-family: 'Arista', Helvetica, sans-serif;
+  border: solid 2px #fff;
+  background-color: #fff;
+}
+
+.single-title-container{
+  position: absolute;
+  margin: -80px;
+}
+
+.single-title {
+  color: #fff;
+  background-color: #36a853;
+  padding: 15px;
+  border: solid 2px #fff;
+}
+
+.single-content {
+  font-family: 'Raleway', Helvetica;
+  text-transform: capitalize;
+  color: #000;
+  padding: 30px !important;
+}
+
+.modal {
+  max-width: 800px;
+  position: relative;
+  padding: 1.2rem;
+  background: #ff0000;
+  background-clip: padding-box;
+  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.25);
+  margin: auto;
+}
+
+#corporate-canvas {
+  position: absolute;
+  left: 0;
+  height: 300px;
+  width: 100%;
+}

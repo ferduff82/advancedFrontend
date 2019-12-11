@@ -1,0 +1,74 @@
+@import '../index.scss';
+
+.registerWrapper {
+    .form-label {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+}
+   /* REGISTRATION FORM */
+.register-form {
+    z-index: -1;
+    .form-label {
+       margin-bottom: 5px;
+       font-size: 0.9rem;
+       color: $gray-font;
+       width: 100%;
+    }
+    .addressLabel,
+    .sexLabel,
+    .birthLabel {
+       margin-top: 12px;
+    }
+    .sexLabel,
+    .birthLabel {
+       margin-bottom: 10px;
+    }
+    .sexContainer {
+       select {
+          width: -webkit-fill-available;
+       }
+    }
+    .birthInputContainer {
+       input {
+          width: 25%;
+          border-left: 0;
+          border-right: 0;
+          border-top: 0;
+          border-bottom: 2px solid #bebebe;
+          border-radius: 0;
+       }
+       input:last-child {
+          width: 40%;
+       }
+    }
+    #date,
+    #gender {
+       color: #999;
+    }
+    .form-input {
+       border: 1px solid $border-light;
+       padding: 1rem;
+       width: inherit;
+       border-radius: 5px;
+       margin: 6px 0 8px 0;
+    }
+    .form-mid-input {
+       border: 1px solid $border-light;
+       border-radius: 5px;
+       height: 58px !important;
+       padding: 0.5rem;
+       width: 44vw;
+       background-color: $white-color;
+    }
+    .sendButtonStyles {
+       width: 100%;
+       background-color: $primary-color;
+       color: $white-color;
+       border-radius: 5px;
+       padding: 12px;
+       margin: 20px 0 5px 0;
+       font-weight: bold;
+       font-size: 20px;
+    }
+ }

@@ -1,0 +1,23 @@
+
+@import './global/Fonts.scss';
+@import './global/Vars.scss';
+
+@mixin buttonGeneral (
+  $color: $primary-background, 
+  $padding: 26px, 
+  $line-height: 0,
+  $font-family: visbyBold, 
+  $border-radius: 5px ) {
+    color: $color;
+    padding: $padding;
+    line-height: $line-height;
+    font-family: $font-family;
+    border-radius: $border-radius;
+    @content;
+}
+
+@mixin buttonGeneralHover (
+  $color: $white-color !important ) {
+    color: $color;
+    @content;
+}

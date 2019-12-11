@@ -1,0 +1,85 @@
+
+@import './global/Vars.scss';
+@import './global/Fonts.scss';
+
+@import './mixins/ButtonModal.scss';
+@import './mixins/Modal.scss';
+@import './mixins/Input.scss';
+
+.startUsingUmacontainer {
+  @include modal();
+  #formContent {
+    width: 800px !important;
+    height: fit-content;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: $white-color;
+    padding: 20px 20px 70px 20px;
+    width: 90%;
+    position: relative;
+    -webkit-box-shadow: $large-modal-shadow;
+    box-shadow: $large-modal-shadow;
+    text-align: center;
+    .login-logo {
+      width: 100px;
+      margin: 20px 0;
+    }
+    label {
+      font-size: 15px;
+    }
+    .closeButtonContainer {
+      height: 35px;
+      font-size: 30px;
+      line-height: 0;
+      margin-right: 10px;
+      svg {
+        float: right;
+      }
+    }
+    .inputNumberContainer {
+      width: 30%;
+      margin: auto;
+      .react-tel-input {
+        #phone-form-control {
+          margin-left: 50px;
+          @include input();
+        }
+      }
+      .flag-dropdown {
+        border-radius: 3px;
+      }
+    }
+    .successMessage,
+    .errorMessage {
+      font-size: 72px;
+    }
+    .successMessage {
+      color: $green-uma;
+    }
+    .errorMessage {
+      color: $red-high;
+    }
+    .sendDescription {
+      margin-top: 20px;
+      .followInstructions {
+        font-family: visbyDemiBold;
+      }
+    }
+    .acceptTermsAndConditions {
+      width: 50%;
+      margin: auto;
+      margin-top: 30px;
+      display: flex;
+      justify-content: space-evenly;
+      .switchContainer {
+        margin-top: 10px;
+      }
+      .termsText {
+        text-align: left;
+        margin-left: 20px;
+        color: $primary-background;
+        font-family: visbyLight;
+      }
+    }
+  }
+}

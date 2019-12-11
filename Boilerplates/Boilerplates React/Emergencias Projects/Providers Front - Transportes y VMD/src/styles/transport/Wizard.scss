@@ -1,0 +1,161 @@
+
+@import '../Index.scss';
+
+@mixin HighlightStep {
+    background-color: $primary-color;
+    color: $white-color;
+    border-bottom: 3px solid $secondary-background;
+}
+
+.wizard {
+    .backgroundWizard {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: #7473a0;
+        opacity: 0.65;
+        z-index: 20;
+    }
+    .wizardContainer {
+        position: fixed;
+        top: 15px;
+        bottom: 15px;
+        left: 15px;
+        right: 15px;
+        background-color: $white-color;
+        z-index: 21;
+        border-radius: 10px;
+        padding: 10px;
+        overflow: scroll;
+        .stepOne,
+        .stepTwo,
+        .stepFinal {
+            padding: 10px;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: bold;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            background-color: $grey-extreme-light;
+            margin: 14px 8px 10px 8px;
+            line-height: 1;
+            color: $text-light;
+        }
+        button {
+            border-radius: 50px;
+            height: 58px;
+            font-size: 21px;
+            font-weight: bold;
+            line-height: 0;
+            border-bottom: 3px solid $secondary-background;
+        }
+        .titleInstructions {
+            background-color: $primary-color;
+            color: $white-color;
+            border-radius: 10px 10px 0 0;
+            top: 0;
+            left: 0;
+            box-shadow: 0 4px 10px rgba(140, 140, 140, 0.24), 0 0 4px rgba(204, 204, 204, 0.12);
+            position: absolute;
+            padding: 16px 0 18px 0;
+            font-weight: bold;
+            right: 0;
+        }
+        .firstScreen {
+            .wizardHeader {
+                margin-top: 45px;
+                margin-bottom: 110px;
+                h3 {
+                    font-weight: bold;
+                    font-size: 2em;
+                    color: #8a8a8a;
+                }
+            }
+            .textInitialContainer {
+                color: $data-grey;
+                padding: 0 22px;
+                font-size: 20px;
+            }
+            .beginContainer {
+                padding: 30px 7px;
+                button:active,
+                button:focus {
+                    color: $white-color;
+                }
+                button:active {
+                    border-bottom: 0;
+                }
+            }
+        }
+        .secondScreen {
+            .disabled {
+                background-color: $grey-navigation-color;
+                border-bottom: 3px solid $grey-navigation-color;
+            }
+            .form-control {
+                padding: 8px 16px;
+                height: 52px;
+                border-radius: 12px;
+            }
+            .secondScreenHeader {
+                .stepOne {
+                    @include HighlightStep;
+                }
+            }
+            .professionalDataWrapper {
+                box-shadow: none;
+            }
+            .continueContainer {
+                margin: 10px 10px 17px 10px;
+            }
+        }
+        .thirdScreen {
+            .stepTwo {
+                @include HighlightStep;
+            }
+            .continueContainer {
+                width: 100%;
+                left: 0;
+                bottom: 22px;
+                button {
+                    margin-bottom: 10px;
+                }
+            }
+        }
+        .finalScreen {
+            .stepFinal {
+                @include HighlightStep;
+            }
+            .uploadDocumentationWrapper {
+                box-shadow: none;
+                padding: 0;
+                margin: 10px 0 35px 0;
+            }
+            .btn-finish {
+                background-color: $secondary-background;
+                border-bottom: 3px solid #265ef5;
+                color: $white-color;
+                margin-bottom: 10px;
+            }
+        }
+        .secondScreenHeader,
+        .thirdScreenHeader,
+        .finalScreenHeader {
+            margin-top: 66px;
+        }
+        .DaytimeDataWrapper {
+            .addedTime {
+                max-height: 45px;
+                .remove {
+                    max-height: 38px;
+                }
+            }
+            .add-daytime {
+                height: 50px;
+            }
+        }
+    }
+}

@@ -1,0 +1,11 @@
+
+@import './global/Fonts.scss';
+@import './global/Vars.scss';
+
+@mixin input (
+  $border-bottom: 1px solid $special-grey !important,
+  $max-width: 70% ) {
+    border-bottom: $border-bottom;
+    max-width: $max-width;
+    @content;
+}

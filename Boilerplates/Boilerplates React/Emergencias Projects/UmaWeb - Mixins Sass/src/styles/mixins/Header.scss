@@ -1,0 +1,19 @@
+
+@import './global/Fonts.scss';
+@import './global/Vars.scss';
+
+@mixin header (
+  $width: 100%, 
+  $height: 70px, 
+  $position: fixed,
+  $padding: 12px, 
+  $display: flex,
+  $justify-content: flex-end) {
+    width: $width;
+    height: $height;
+    position: $position;
+    padding: $padding;
+    display: $display;
+    justify-content: $justify-content;
+    @content;
+}

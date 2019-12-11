@@ -1,0 +1,91 @@
+
+@import '../../index.scss';
+
+.HolidaysDataWrapper {
+    padding: 15px 10px 22px 10px;
+    background-color: $white-color;
+    margin-bottom: 89px;
+    .rbc-event {
+        padding: 3px 5px;
+        margin-top: -15px;
+    }
+    .rbc-row-content {
+        margin: 17px 0;
+        .rbc-row {
+            height: 0;
+        }
+    }
+    .rbc-month-row {
+        overflow: initial;
+        .rbc-day-bg + .rbc-day-bg {
+            border: none;
+        }
+    }
+    .rbc-month-view {
+        min-height: 212px;
+        background-color: $white-color;
+        border: none;
+    }
+    .rbc-btn-group {
+        background-color: $white-color;
+    }
+    .rbc-btn-group:nth-child(3) {
+        display: none;
+    }    
+    .rbc-toolbar button {
+        border-radius: 5px;
+        border: transparent;
+        background-color: #e6e6e6;
+        color: #6f6f6f;
+        margin: 0 5px;
+    }
+    .rbc-toolbar-label {
+        padding: 0;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+        display: block;
+        width: 100%;
+    }
+    .rbc-header {
+        border: none;
+    }
+    .rbc-header + .rbc-header {
+        border: none;
+    }
+    .rbc-month-row + .rbc-month-row {
+        border: none;
+    }
+    .rbc-event-content {
+        text-align: center;
+    }
+    .rbc-date-cell {
+        height: 25px;
+        padding-right: 0;
+        margin-top: -13px;
+        a {
+            margin: auto;
+            display: block;
+            text-align: center;
+            pointer-events: none;
+            cursor: default;
+        }
+    }
+    .rbc-header {
+        min-height: 28px;
+    }
+    .title {
+        text-align: center;
+        margin-bottom: 15px;
+        font-weight: bold;
+        color: $grey-navigation-color;
+    }
+    .rbc-toolbar button:focus, 
+    .rbc-toolbar button.rbc-active {
+        background-image: none;
+        box-shadow: unset;
+        color: $white-color;
+        background-color: #3e72ff;
+        border-color: transparent;
+    }
+}

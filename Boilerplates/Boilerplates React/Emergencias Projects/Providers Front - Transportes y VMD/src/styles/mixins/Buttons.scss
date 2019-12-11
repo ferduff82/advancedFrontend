@@ -1,0 +1,13 @@
+
+@import '../Index.scss';
+
+@mixin commonButton(
+    $width: 100%, $fontColor: $white-color, $fontWeight: bold, $height: 50px, $lineHeight: 0, $borderRadius: 50px, $fontSize: 17px ) {
+        width: $width;
+        color: $fontColor;
+        font-weight: $fontWeight;
+        height: $height;
+        line-height: $lineHeight;
+        border-radius: $borderRadius;
+        font-size: $fontSize;
+}

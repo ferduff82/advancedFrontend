@@ -1,0 +1,69 @@
+
+@import '../Index.scss';
+
+.getPaydProccessWrapper {
+    .pagesContainer {
+        margin: auto;
+        .firstPage,
+        .secondPage {
+            width: 45px;
+            height: 45px;
+            border-radius: 100px;
+            text-align: center;
+            line-height: 2.8;
+            font-weight: bold;
+            margin: 30px 5px 5px 5px;
+            background-color: $grey-extreme-light;
+            color: $white-color;
+            &.active {
+                background-color: $third-blue;
+            }
+        }
+    }
+    .uploadBill {
+        padding: 10px;
+        border: 4px dotted $grey-navigation-color;
+        margin: 20px;
+        .titleBill {
+            color: $lighter-grey;
+            font-weight: 100;
+        }
+        .uploadButton {
+            color: $grey-navigation-color;
+            background-color: $white-color;
+            margin: auto;
+            width: 100%;
+            display: table;
+            line-height: 0.9;
+            font-size: 94px;
+            padding: 10px 0 4px 0;
+        }
+        .imagePreviewWrapper {
+            width: 100%;
+            img {
+                margin: auto;
+                display: block;
+                max-height: 120px;
+            }
+        }
+    }
+    .buttonNext,
+    .buttonBack {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        padding: 12px;
+        width: 100%;
+        button {
+            text-align: center;
+            margin: 15px auto 0 auto !important;
+        }
+    }
+    .buttonBack { 
+        button {
+            background-color: $grey-extreme-light; 
+            color: $white-color;
+            font-weight: bold;
+        }
+    }
+}

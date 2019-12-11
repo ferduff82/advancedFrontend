@@ -1,0 +1,43 @@
+
+@import '../global/Vars.scss';
+
+.loadingContainer {
+  z-index: 99;
+}
+
+.loading,
+.loadingName,
+.loadingBack {
+  position: fixed;
+}
+
+.loading,
+.loadingName {
+  z-index: 9999;
+}
+
+.loading {
+  padding: 20px;
+  font-size: 18px;
+  color: #7b7b7b;
+  left: calc(50% - 26px);
+  top: calc(50% - 30px);
+}
+
+.loadingName {
+  left: calc(50% - 45px);
+  font-size: 20px;
+  top: calc(50% + 30px);
+  font-weight: bold;
+  color: $text-dark;
+}
+
+.loadingBack {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0; 
+  background-color: $white-color;
+  opacity: 0.9;
+  z-index: 999;
+}

@@ -1,0 +1,21 @@
+
+@import './global/Fonts.scss';
+@import './global/Vars.scss';
+
+@mixin footer (
+  $position: fixed, 
+  $bottom: 0, 
+  $width: 100%,
+  $padding: 12px, 
+  $background-color: rgba(255, 255, 255, 0.3),
+  $backdrop-filter: blur(5px),
+  $shadow: $general-shadow ) {
+    position: $position;
+    bottom: $bottom;
+    width: $width;
+    padding: $padding; 
+    background-color: $background-color; 
+    backdrop-filter: $backdrop-filter;
+    box-shadow: $shadow;
+    @content;
+}

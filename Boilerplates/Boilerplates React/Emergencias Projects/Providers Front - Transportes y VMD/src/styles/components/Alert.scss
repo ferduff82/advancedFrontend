@@ -1,0 +1,94 @@
+
+@import '../index.scss';
+
+.alertModal {
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+    left: 0;
+    right: 0;
+    bottom: 65px;
+  .modalContainer {
+    padding: 20px 12px 20px 16px;
+    &.success {
+      background-color: #DEF2D6;
+      .textContainer,
+      .iconLeft {
+        color: #677B5F; 
+      }
+      .alertClose {
+        .fas {
+          color: #A5B99D;
+        }
+      }
+    }
+    &.warning {
+      background-color: #F8F3D6;
+      .textContainer,
+      .iconLeft  {
+        color: #9E7D47; 
+      }
+      .alertClose {
+        .fas {
+          color: #D7D3A4;
+        }
+      }
+    }
+    &.danger {
+      background-color: #EBC8C4;
+      .textContainer,
+      .iconLeft  {
+        color: #AA4E4F; 
+      }
+      .alertClose {
+        .fas {
+          color: #C49696;
+        }
+      }
+    }
+    &.info {
+      background-color: #CCE8F4;
+      .textContainer,
+      .iconLeft  {
+        color: #4F80A1; 
+      }
+      .alertClose {
+        .fas {
+          color: #A8C8D7;
+        }
+      }
+    }
+    .iconLeft {
+        width: 14%;
+        .fas {
+            font-size: 30px;
+            margin: auto;
+            display: block;
+        }
+    }
+    .textContainer {
+        width: 76%;
+        padding: 0 10px;
+        .titleContainer {
+            font-weight: bold;
+        }
+    }
+    .alertClose {
+        font-size: 30px;
+        line-height: 0;
+        .fas {
+            width: 75% !important;
+            height: 100%;
+        }
+    }
+    .questionOptions {
+        margin-top: 10px;
+        button {
+            width: 100%;
+            background-color: $white-color;
+            margin: 5px;
+            color: $text-dark;
+        }
+    }
+  }
+}

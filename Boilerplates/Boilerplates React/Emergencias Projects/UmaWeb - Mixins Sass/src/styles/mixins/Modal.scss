@@ -1,0 +1,30 @@
+
+@import './global/Fonts.scss';
+@import './global/Vars.scss';
+
+@mixin modal (
+  $z-index: 9999, 
+  $display: flex, 
+  $top: 0,
+  $left: 0, 
+  $height: 100%,
+  $bottom: 0,
+  $justify-content: center,
+  $right: 0,
+  $background-color: $modal-back) {
+    z-index: $z-index;
+    display: $display;
+    top: $top;
+    left: $left;
+    height: $height;
+    justify-content: $justify-content;
+    right: $right;
+    background-color: $background-color;
+    & > div {
+      position: fixed;
+      top: calc(50% - 283px);
+    }
+    @content;
+}
+
+

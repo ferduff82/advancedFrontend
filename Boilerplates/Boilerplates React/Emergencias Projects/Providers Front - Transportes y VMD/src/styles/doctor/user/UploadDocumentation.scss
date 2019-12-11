@@ -1,0 +1,129 @@
+
+@import '../../index.scss';
+
+.uploadDocumentationWrapperUser {
+    background-color: $white-color;
+    margin-bottom: 85px;
+    padding: 5px 8px 28px 8px;
+    .btn-active {
+        background-color: $clear-blue;
+        color: $white-color;
+    }
+    .dniTag {
+        label {
+            background-color: $white-color;
+            color: $grey-navigation-color;
+            border: 1px solid $grey-navigation-color;
+        }
+    }
+    .mobile-modal {
+        .columnUpload {
+            .title {
+                line-height: 1.2;
+                min-height: 40px;;
+                margin-bottom: 10px;
+            }
+        }
+        .buttonContainer {
+            button {
+                width: 100%;
+                height: 50px;
+                font-weight: bold;
+                font-size: 18px;
+                margin-top: 80px;
+            }
+        }
+    }
+    .columnUpload {
+        width: 33%;
+        margin-top: 14px;
+        .expireDate {
+            margin-bottom: 25px;
+            .idInput {
+                text-align: center;
+                font-size: 12px;
+                margin-bottom: 10px;
+                color: $grey-navigation-color;
+            }
+            input {
+                width: 80%;
+                margin: auto;
+                font-size: 13px;
+                padding: 6px;
+            }
+        }
+        .title {
+            color: $data-grey;
+            font-family: avenirRoman;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .fa-plus-circle:before {
+            background-color: $white-color;
+            border-radius: 100px;
+            content: "\f055";
+            color: $dark-blue;
+            position: relative;
+            top: -15px;
+            font-size: 24px;
+            left: 22px;        
+        }
+        .others:before {
+            position: initial;
+            font-size: 44px;
+            color: $white-color;
+            background-color: transparent;
+            line-height: 1.7;
+        }
+        .fa-folder-open:before {
+            font-size: 28px;
+            line-height: 70px;
+            margin-left: 5px;
+        }
+        button,
+        label {
+            width: 85px;
+            border-radius: 100px;
+            display: block;
+            height: 85px;
+            line-height: 2.1;
+            margin: auto;
+            padding: 4px;
+            font-size: 12px;
+        }
+    }
+    .imgPreview {
+        overflow: hidden;
+        border-radius: 100px;
+        min-height: 75px;
+        img {
+            border-radius: 100px;
+            width: 75px;
+            height: 75px;
+        }
+    }
+    #upload-photo-dni,
+    #upload-photo-cv,
+    #upload-photo-titulo,
+    #upload-photo-seguro,
+    #upload-photo-afip,
+    #upload-photo-certificado,
+    #upload-photo-especialidad,
+    #upload-photo-matricula {
+        width: 10px;
+        opacity: 0;
+        position: absolute;
+        z-index: -1;
+    }
+    .mandatory {
+        text-align: center;
+        color: $red-high;
+        font-size: 25px;
+        line-height: 0;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .fa-check {
+        color: $green-high;
+    }
+}

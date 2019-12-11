@@ -1,0 +1,124 @@
+
+@import '../../index.scss';
+
+.providerWrapper {
+    padding: 50px 10px 10px 10px;
+    margin-bottom: 68px;
+    .listsWrapper {
+        margin: 10px 0 17px 0;
+    }
+    .titleOnboarding {
+        z-index: 9;
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 8px;
+        font-weight: bold;
+        color: $white-color;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: $dark-blue;
+
+    }
+    .alert-primary {
+        border-color: transparent;
+    }
+    .dropdownButton {
+        background-color: $clear-blue;
+        color: $white-color;
+        font-family: avenirRoman;
+        width: 50px;
+        height: 50px;
+        margin: 0 6px 0 6px;
+        padding: 12px;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 100px;
+        &.red {
+            background-color: $red-high;
+            color: $red-deep;
+        }
+    }
+    [data-active="true"] {
+        background-color: $secondary-background;
+    }
+    .footerSubmit {
+        .validateAndWrapper {
+            width: 100%;
+            margin-top: 15px;
+            padding: 12px 10px 13px 10px;
+            box-shadow: -9px -3px 4px rgba(216, 216, 216, 0.16), 0 1px 4px rgba(105, 105, 105, 0.23);
+            bottom: 0;
+            position: fixed;
+            left: 0;
+            z-index: 9;
+            background-color: $white-color;
+            .termsAndConditions {
+                margin-bottom: 22px;
+                label {
+                    margin-bottom: 0;
+                    input {
+                        margin: 0 10px;
+                    }
+                }
+                .custom-control-label::before {
+                    visibility: hidden;
+                }
+                .custom-control {
+                    width: 50%;
+                    padding-left: 4%
+                }
+                .acceptTerms {
+                    line-height: 1.3;
+                    padding-left: 12%;     
+                    width: 82%;           
+                    a {
+                        color: $special-grey;
+                    }
+                    span {
+                        color: $red-high;
+                        font-size: 20px;
+                        margin-top: 45px;
+                        clear: both;
+                        line-height: 0;
+                    }
+                }
+            }
+            .sendContainer {
+                .sendButton {
+                    font-weight: bold;
+                    font-size: 18px;
+                    display: block;
+                    width: 100%;
+                    height: 48px;
+                    border-radius: 5px;
+                    margin: auto;
+                }
+            }
+            .errorHelper {
+                color: $red-high;
+                font-size: 14px;
+                width: 200px;
+                font-weight: bold;
+                margin: 0 auto 12px auto;
+                text-align: center;
+            }
+            .btn-active {
+               background-color: $secondary-background;
+               color: $white-color;
+            }
+        }
+    }
+    .personalDataWrapper,
+    .professionalDataWrapper,
+    .HolidaysDataWrapper,
+    .termsAndConditions {
+        color: $special-grey;
+        border-radius: $regular-borders;
+    }
+    .DaytimeDataWrapper,
+    .uploadDocumentationWrapper {
+        border-radius: $regular-borders;
+    }
+}

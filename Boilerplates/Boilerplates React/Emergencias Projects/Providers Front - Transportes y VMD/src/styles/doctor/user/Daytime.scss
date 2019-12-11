@@ -1,0 +1,111 @@
+
+@import '../../index.scss';
+
+.DaytimeDataWrapper {
+    padding: 16px 10px;
+    margin-bottom: 130px;
+    background-color: $white-color;
+    .addedTime {
+        #time {
+            height: auto;
+            color: gray;
+        }
+    }
+    .headWrapper {
+        width: 100%;
+        padding: 12px 0 0 0;
+        color: $data-grey;
+    }
+    .firstColumnHeader {
+        width: 14%;
+    }
+    .secondColumnHeader {
+        width: 21%
+    }
+    .thirdColumnHeader {
+        width: 20%;
+    }
+    .firstColumnHeader,
+    .secondColumnHeader,
+    .thirdColumnHeader,
+    .fourthColumnHeader {
+        margin-right: 5%;
+    }
+    .firstColumn {
+        width: 15%;
+        margin-right: 5%;
+        select {
+            width: 100%;
+            padding: 2px;
+        }
+    }
+    .secondColumn,
+    .thirdColumn  {
+        width: 20%;
+        margin-right: 5%;
+        background-color: $white-color;
+        form > div {
+            margin: 0;
+        }
+    }
+    .fourthColumn {
+        width: 16%;
+        margin-right: 4%;
+        background-color: $white-color;
+        select {
+            width: 100%;
+            padding: 2px;
+        }
+    }
+    .fifthColumn {
+        width: 10%;
+        text-align: center;
+        line-height: 2.2;
+    }
+    .buttonWrapper {
+        padding: 10px 0;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .btn-active {
+        background-color: $secondary-background;
+        color: $white-color;
+        border-radius: 0;
+    }
+    .allTimes {
+        margin-bottom: 24px;
+    }
+    .add-daytime {
+        margin: 10px auto 10px auto;
+        border-radius: 100%;
+        width: 50px;
+        height: 50px;
+        font-size: 38px;
+        line-height: 0;
+    }
+    .btn-active.remove {
+        font-weight: bold;
+        border-radius: 5px;
+    }
+    .mandatoryFill {
+        color: $special-grey;
+        font-size: 13px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 8px;
+        margin-bottom: 10px;
+        &.red {
+            color: $red-high;
+        }
+        .star {
+            color: $red-high;
+        }
+    }
+    .wrapperTime {
+        margin-bottom: 10px;
+    }
+    .error {
+        padding: 4px 6px 4px 3px;
+        background-color: $red-high;
+    }
+}

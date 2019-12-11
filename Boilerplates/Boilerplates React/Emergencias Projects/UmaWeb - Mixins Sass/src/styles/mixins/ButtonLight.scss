@@ -1,0 +1,17 @@
+
+@import './global/Fonts.scss';
+@import './global/Vars.scss';
+
+@mixin ButtonLight (
+  $background-color: transparent, 
+  $box-shadow: none, 
+  $margin: 0 10px,
+  $color: $primary-background, 
+  $font-family: visbyHeavy) {
+    background-color: $background-color;
+    box-shadow: $box-shadow;
+    margin: $margin;
+    color: $color;
+    font-family: $font-family;
+    @content;
+}
