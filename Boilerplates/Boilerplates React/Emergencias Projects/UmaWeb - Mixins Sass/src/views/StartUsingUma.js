@@ -23,10 +23,12 @@ const StartUsingUma = (props) => {
     const [successSending, setSuccessSending] = useState(false);
 
     const sendPhoneCall = (inputPhone) => {
+        let ws = inputPhone.replace("+", "").replace("(", "").replace(")", "").replace(/\s/g, "")
+        if(ws.slice(0,2) === "54") ws = "549"+ws.slice(2)
         setLoading(true);
         const url = 'https://mr-dot-uma-v2.appspot.com';
         const dataHsm = {
-            "ws": inputPhone,
+            "ws": ws,
             "hsm_name": "chatclub_open_session_v2",
             "enterprise_username": "patient",
             "hsm_params": ["Mi nombre es Uma y estoy para ayudarle. Uma", "Para acceder a la plataforma escriba *hola*"],
@@ -68,7 +70,7 @@ const StartUsingUma = (props) => {
                         }
                         { successSending === 'error' ? 
                             <div className="sendDescription">
-                                Ha habído un error al enviar el mensaje. <br/>
+                                Hubo un error al enviar el mensaje. <br/>
                                 <div className="followInstructions">Inténtelo nuevamente en unos minutos.</div> 
                             </div>
                         : 

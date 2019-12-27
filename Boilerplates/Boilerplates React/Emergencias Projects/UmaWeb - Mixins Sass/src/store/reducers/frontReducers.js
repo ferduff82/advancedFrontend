@@ -9,7 +9,6 @@ const initialState = {
 };
 
 export default function frontReducers(state = initialState, action) {
-  console.log(action);
   switch (action.type) {
     case "ALERT":
       return {

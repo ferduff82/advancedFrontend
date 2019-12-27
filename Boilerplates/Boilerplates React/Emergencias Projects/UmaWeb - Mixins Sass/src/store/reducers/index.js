@@ -2,9 +2,11 @@
 import { combineReducers } from 'redux';
 import predict from './predictReducers';
 import front from '../reducers/frontReducers';
+import autonomous from '../reducers/autonomousReducers';
 
 const appReducer = combineReducers({
     predict,
+    autonomous,
     front
 })
 

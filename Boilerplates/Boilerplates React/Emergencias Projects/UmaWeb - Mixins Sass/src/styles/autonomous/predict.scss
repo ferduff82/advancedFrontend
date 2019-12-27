@@ -1,0 +1,58 @@
+
+@import '../global/Vars.scss';
+@import '../global/Fonts.scss';
+
+@import '../mixins/ButtonGeneral.scss';
+
+.final-predict {
+  padding: 40px 20px 20px 20px;
+  .title-container {
+    font-size: 20px;
+    margin-bottom: 35px;
+  }
+  h5 {
+    margin-bottom: 20px;
+  }
+  .view-more  {
+    @include buttonGeneral()
+  }
+  .return-button {
+    @include buttonGeneral($button-background: $extra-gray) {
+      margin: 40px 20px 15px 20px;
+    }
+  }
+  .view-more {
+    margin: 22px 20px 20px 20px;
+  }
+  .left-container-predicts,
+  .other-predicts {
+    width: 50%;
+    padding: 14px;
+  }
+  .left-container-predicts {
+    .epicrisis,
+    .predict-first-end {
+      margin: auto;
+    }
+  }
+  .percentage-predict {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 5px;
+    color: $extra-gray;
+  }
+}
+
+/* ************** */
+/*     MOBILE     */
+/* ************** */
+
+@media only screen and (max-device-width: 480px) {
+  .final-predict {
+    .return-button {
+      font-size: 20px;
+      width: 100%;
+      margin: 40px 0 10px 0;
+    }
+  }
+}

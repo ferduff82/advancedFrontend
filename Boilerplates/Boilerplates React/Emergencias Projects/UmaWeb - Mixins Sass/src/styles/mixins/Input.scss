@@ -1,7 +1,4 @@
 
-@import './global/Fonts.scss';
-@import './global/Vars.scss';
-
 @mixin input (
   $border-bottom: 1px solid $special-grey !important,
   $max-width: 70% ) {

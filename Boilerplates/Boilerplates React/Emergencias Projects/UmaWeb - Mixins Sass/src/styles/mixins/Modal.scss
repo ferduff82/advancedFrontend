@@ -1,17 +1,25 @@
 
-@import './global/Fonts.scss';
-@import './global/Vars.scss';
-
 @mixin modal (
   $z-index: 9999, 
   $display: flex, 
   $top: 0,
-  $left: 0, 
-  $height: 100%,
-  $bottom: 0,
-  $justify-content: center,
   $right: 0,
-  $background-color: $modal-back) {
+  $left: 0, 
+  $bottom: 0,
+  $height: 100%,
+  $backdrop-position: fixed,
+  $justify-content: center,
+  $background-color: $modal-back,
+  $width-content: 75%,
+  $position-content: absolute !important,
+  $margin-content: auto,
+  $vertical-align-content: translateY(-50%),
+  $left-content: 30px,
+  $top-content: 50%,
+  $right-content: 30px,
+  $content-backgound: $white-color,
+  $border-radius-content: 10px) {
+    position: $backdrop-position;
     z-index: $z-index;
     display: $display;
     top: $top;
@@ -21,8 +29,16 @@
     right: $right;
     background-color: $background-color;
     & > div {
-      position: fixed;
-      top: calc(50% - 283px);
+      background-color: $content-backgound;
+      width: $width-content;
+      transform: $vertical-align-content;
+      position: $position-content;
+      margin: $margin-content;
+      left: $left-content;
+      right: $right-content;
+      top: $top-content;
+      border-radius: $border-radius-content;
+      box-shadow: 0 10px 30px 0 rgba(180, 180, 180, 0.53);
     }
     @content;
 }

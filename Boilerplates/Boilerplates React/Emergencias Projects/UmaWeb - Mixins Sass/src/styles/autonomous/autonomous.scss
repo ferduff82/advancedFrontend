@@ -1,0 +1,58 @@
+
+@import '../global/Vars.scss';
+@import '../global/Fonts.scss';
+
+@import '../mixins/Modal.scss';
+@import '../mixins/Background.scss';
+
+.autonomous {
+    @include background();
+    @include modal();
+    strong {
+        font-weight: bolder;
+    }
+    .question {
+        font-size: 28px;
+        margin: 60px 0 15px 0;
+    }
+    .uma-loading {
+        width:20px;
+    }
+    .first-questions {
+        position:absolute;
+        width:100%;
+        margin:auto;
+        top:0;
+        left:0;
+        bottom:0;
+        right:0;
+        text-align: center;
+        .question {
+            font-size:20px;
+        }
+    }
+}
+
+/* ************** */
+/*     TABLET     */
+/* ************** */
+
+@media (min-width: 900px) {
+    .autonomous {
+        @include modal($width-content: 50%);
+    }
+}
+
+/* ************** */
+/*     MOBILE     */
+/* ************** */
+
+@media only screen and (max-device-width: 480px) {
+    .autonomous {
+        @include modal(
+            $width-content: 90%,
+            $left-content: 10px,
+            $right-content: 10px
+        );
+    }
+}

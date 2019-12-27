@@ -37,7 +37,8 @@
       }
     }
     .inputNumberContainer {
-      width: 30%;
+      width: 80%;
+      max-width: 210px;
       margin: auto;
       .react-tel-input {
         #phone-form-control {

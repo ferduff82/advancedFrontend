@@ -1,6 +1,14 @@
 {
   "projects": {
-    "uma": "uma-voice",
-    "default": "uma-voice"
+    "default": "umaonlineapp"
+  },
+  "targets": {
+    "umaonlineapp": {
+      "hosting": {
+        "uma-testing": [
+          "uma-testing"
+        ]
+      }
+    }
   }
 }

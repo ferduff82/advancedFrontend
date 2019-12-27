@@ -1,0 +1,44 @@
+
+@import '../global/Vars.scss';
+@import '../global/Fonts.scss';
+
+@import '../mixins/ButtonGeneral.scss';
+@import '../mixins/ButtonModal.scss';
+@import '../mixins/Modal.scss';
+@import '../mixins/Input.scss';
+
+.welcome {
+  .answers {
+    input {
+      @include input() {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 75px;
+        margin-top: 60px;
+      };
+    }
+  }
+  button {
+    @include buttonGeneral() {
+      margin-bottom: 60px;
+    }
+  }
+}
+
+/* ************** */
+/*     MOBILE     */
+/* ************** */
+
+@media only screen and (max-device-width: 480px) {
+  .welcome {
+    .answers {
+      input {
+        width: 80%;
+      }
+    }
+    button {
+      width: 80%;
+      font-size: 20px;
+    }
+  }
+}

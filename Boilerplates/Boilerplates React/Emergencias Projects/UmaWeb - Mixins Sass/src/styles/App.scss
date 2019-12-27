@@ -1,20 +1,19 @@
+@import "./global/Fonts.scss";
+@import "./global/Vars.scss";
 
-@import './global/Fonts.scss';
-@import './global/Vars.scss';
+@import "./animations/Beating.scss";
 
-@import './animations/Beating.scss';
-
-@import './mixins/ButtonGeneral.scss';
-@import './mixins/ButtonModal.scss';
-@import './mixins/ButtonLight.scss';
-@import './mixins/Footer.scss';
-@import './mixins/Header.scss';
+@import "./mixins/ButtonGeneral.scss";
+@import "./mixins/ButtonModal.scss";
+@import "./mixins/ButtonLight.scss";
+@import "./mixins/Footer.scss";
+@import "./mixins/Header.scss";
 
 .App {
   font-family: visbyRegular;
   text-align: center;
   .AppContainer {
-    background-image: url('../assets/back-final.jpeg');
+    background-image: url("../assets/back-final.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -54,7 +53,9 @@
     footer {
       @include footer();
       .footerButtons {
-        display: flex;
+        .btn {
+          line-height: 1rem;
+        }
         button {
           @include ButtonLight();
         }
@@ -73,6 +74,6 @@
   .buttonModal {
     @include buttonModal() {
       margin-top: 20px;
-    };
+    }
   }
 }
