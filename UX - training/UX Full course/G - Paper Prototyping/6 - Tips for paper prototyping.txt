@@ -1,0 +1,28 @@
+
+Consejos para prototipado en papel:
+
+Remember, you'll be using the prototype as the basis for user testing and then for planning your development process, 
+so it's important to make it as realistic as possible. Only build exactly what you need. 
+Don't add extra interface just in case. It's easy to add things later. It's very much harder to take them away. 
+Each extra thing you add has the potential to distract users from their core task.
+Work hard to create suitable text for use on the screens you make. 
+Your choice of wording for headings, labels, instructional text, and any content you show is important. 
+The text you use can help or hinder users in their understanding of the interaction. You're testing the text as much as you are the other interface components. Using Lorem Ipsum text, or just wavy lines, won't help you work out the correct terminology to use in the interface.
+Use a separate piece of paper to make each interface element. 
+
+Although you might be tempted to just draw them straight onto the template, that would make it impossible 
+to rearrange things on the screen later. You might work through three or four screens before you realize you 
+need to add another radio button choice on the first screen in order for things to make sense later in the process. 
+It's much easier to do this if you've made each element separately. You don't have to be constrained to the size 
+of your screen templates. In real life, screens often scroll.
+
+Just be sure to make it clear that there's more information beyond the edge of the screen. I sometimes 
+cut out the template and use it as a frame for another piece of paper that contains the content. 
+When you're finished with your interface creation, take the time to step through the whole process 
+from beginning to end and see whether it supports the story you described in your scenario or story board. 
+Then, get someone who isn't familiar with the project to try and complete the task. 
+
+
+
+
+

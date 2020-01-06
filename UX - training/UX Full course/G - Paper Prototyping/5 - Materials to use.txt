@@ -1,0 +1,18 @@
+
+Materiales a utilizar:
+
+Se utiliza papel y sticky notes y lo ideal es empezar realizando MOBILE-FIRST.
+
+Cualquier pantalla en la que trabajemos siempre lo ideal es hacerla 4 veces su tamaño real.
+Lo ideal es que las pantallas sean grandes para poder manipular sus elementos.
+
+- LA EXCEPCIÓN ES EN LOS CASOS DE LAS PERSONAS QUE VAN A TESTEAR LOS PROTOTIPOS EN TAMAÑO REAL.
+
+También es ideal utilizar marcadores negros en lugar de lapiceras ya que el tamaño de las interfaces es grande.
+
+- Resaltar las áreas donde se requiere una interacción del usuario y referirlas a la IDEATION indicada de la etapa del procesio de IDEATION.
+
+
+
+
+
