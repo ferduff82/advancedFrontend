@@ -1,0 +1,12 @@
+
+-- User centered design
+El principio fundamental del diseño centrado en el usuario es que si se recolecta datos de usuarios y luego se incorporan
+a tu diseño de producto vas a tener más probabilidades de que cumplas con sus necesidades lo que significa que es más
+probable que les guste tu producto y que el mismo sea más eficiente al ser usado.
+
+Otra ventaja de user centered design es que te da una forma de agregar impacto emocional en tus productos.
+
+- Por un lado los miembros de los equipos y los desarrolladores tienen altos conocimientos técnicos, mientras que por otro
+lado los usuarios no les interesa saber como esas tecnologías funcionan. Solo quieren que la tecnología los ayude en sus vidas.
+El diseño centrado en el usuario se focaliza en como convertir las necesidades empaticas de los usuarios en bloques de 
+construcciones sistematicas.

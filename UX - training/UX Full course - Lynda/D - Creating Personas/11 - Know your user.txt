@@ -1,0 +1,21 @@
+
+- Conoce a tu usuario
+
+Como es posible hacer "User-centered-design" sin saber quién es tu usuario?
+La descripción de una Persona le da a tu equipo un entendimiento común de para quiénes se está desarrollando, cuáles son sus objetivos principales, 
+y que tipos de interacciones les gustarán. Solo decir "el usuario", es tan vago que algunos miembros de equipo pueden fácilmente ir en direcciones de 
+diseño distintas. Esa falta de foco realmente se ve en el resultado final de tu producto que lances. En cambio, crear Personas hace que compartas la
+información básica acerca de para quién desarrollas el producto.
+
+Utiliza tus personas cada vez que describes a tus usuarios. Los nombres de tus personas tienen siempre que estar a mano para el equipo al compartir
+conocimiento.
+
+Todos los pasos siguientes del proceso de diseño y desarrollo están basados en personas:
+Las ideas de diseño se crean en base a tus personas, cuando escribes escenarios los describes para una persona específica, cuando realizes bocetos 
+y prototipos los harás para un tipo de persona específica, cuando corras casos de uso de usuarios reclutarás participantes que cubran tu descripción 
+de personas. 
+
+Personas ponen al usuario en USER-CENTERED-DESIGN.
+
+
+

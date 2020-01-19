@@ -1,0 +1,55 @@
+
+@import '../Index.scss';
+
+.successPage {
+    .success {
+        color: $secondary-background;
+    }
+}
+.failedPage {
+    .failed {
+        color: $red-high;
+    }
+}
+.failedPage,
+.successPage {
+    position: fixed;
+    top: calc(50% - 200px);
+    width: 100%;
+    left: 0;
+    .failed, 
+    .success {
+        font-size: 35px;
+    }
+    h3,
+    p {
+        color: $text-dark;
+    }
+    h3 {
+        font-weight: bold;
+        font-size: 42px;
+    }
+    p {
+        font-size: 19px;
+        width: 224px;
+        margin: 16px auto;
+    }
+    .goToWorklist {
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        padding: 15px;
+        .successButtonStyle {
+            padding: 16px;
+            background-color: $primary-color;
+            border-radius: 10px;
+            font-size: 20px;
+            margin: auto;
+            display: table;
+            color: $white-color;
+            font-weight: bold;
+            width: 100%;
+            text-align: center;
+        }
+    }
+}

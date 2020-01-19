@@ -1,0 +1,15 @@
+
+User Journey:
+
+Es un esquema que nos ayuda a entender como un usuario interactua con un producto.
+
+Nos ayuda a entender el comportamiento del usuario
+Ver las acciones o pasos básicos que debe hacer para realizar un proceso
+Tener una guía acerca de la arquitectura de la información
+
+Podemos comenzar investigando cuales son las acciones que toma el usuario y que emociones generan las acciones realizadas
+
+Tener en cuenta al hacer un User Journeys
+¿a qué tipo de persona nos estamos dirigiendo?
+¿cuál es el escenario?
+¿cuáles son sus objetivos?

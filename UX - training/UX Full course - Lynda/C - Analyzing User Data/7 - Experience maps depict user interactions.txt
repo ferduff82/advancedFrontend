@@ -1,0 +1,40 @@
+
+Creación de mapa de Experiencia
+
+Analizar información cualitativa no es tan sencillo pero si es divertido, podemos encontrar
+mucha información interesante sobre los usuarios.
+
+La mejor forma de llevar una pila de observaciones de visitas al sitio y "pain points" es
+usar "experience maps" que es basicamente un diagrama en detalle.
+
+Despues de observar a los usuarios se crean "experience maps" para extraer "pain points", "goals",
+y "persona information". 
+
+El "experience map" es una forma de delinear el camino del usuario através de sus tareas en 
+una forma que resalta el orden de sus acciones y los "pain points" que experimentan en el camino.
+La idea es obtener todas las observaciones de cada visita en un solo lugar.
+Todo el equipo debe participar en esta actividad para estar todos en la misma página.
+
+-- Se ponen todas las observaciones en "sticky notes" y luego se agregan en la pared agrupadas
+en cada instancia de tarea del usuario.
+-- De izquierda a derecha se ve la progresión a través de tareas y los "pain points" que 
+ocurren en el proceso. 
+
+Es importante que todo el equipo participe de la actividad, primero para estar todos en la 
+misma página, segundo para compartir sus opiniones respecto a los caminos del usuario y
+tercero para entender que los usuarios se comportan muy distinto a lo que ellos creen.
+
+- Que es el "observer BIAS"? Es cuando el observador agrega su propia interpretación a la
+observación de una acción del usuario. Esto puede eliminarse en el "experience map" al ser
+detectado.
+
+El "experience map" reduce el BIAS al combinar multiples puntos de observación y asegurar 
+que los creadores del mapa se concentran en el problema y no en la solución.
+La validación es una medida de que tan bien se recolecto la información en relación con el 
+mundo real.
+
+Las "sticky notes" en la pared deben contener frases e información contextual libres de opiniones  y de esa forma 
+y de esa forma el lineamiento es transparente.
+
+
+

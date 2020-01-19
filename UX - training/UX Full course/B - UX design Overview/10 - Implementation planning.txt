@@ -1,9 +1,0 @@
-
--- Implementation planning
-
-UX es útil para que el equipo entienda como diseñar para el usuario y no para si mismos.
-De todas formas su verdadero valor está en llevar el proceso de desarrollo al ayudar al equipo con el plan de implementación.
-
-El equipo sabrá que es escencial para entregar primero y que cosas serían buenas como "nice to have". De esta manera
-el equipo puede empezar a desarrollar que estan armando las bases para un producto usable con oportunidades para obtener
-feedback a através de pruebas de usabilidad y pruebas beta en varios estadíos antes del release.

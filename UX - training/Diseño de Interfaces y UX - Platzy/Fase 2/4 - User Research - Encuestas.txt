@@ -1,0 +1,10 @@
+
+Encuestas:
+
+Las encuestas nos permiten de una forma económica y rápida obtener información cuantitativa y cualitativa de nuestros usuarios.
+
+Herramientas para realizar encuestas:
+
+Typeform
+Google Forms
+SurveyMonkey

@@ -1,9 +1,11 @@
 
+
 Con flex:
 
 display: flex;
 justify-content: center;
 flex-direction: column;
+
 
 Con table:
 
@@ -16,3 +18,14 @@ Con table:
     display: table-cell;
     vertical-align: middle;
 }
+
+
+Fixed o absolute vertical alignment:
+
+position: fixed;
+top: 50%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+
+// https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/

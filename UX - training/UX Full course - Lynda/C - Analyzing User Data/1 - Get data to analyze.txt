@@ -1,0 +1,18 @@
+
+Obtener los datos para analizar:
+
+La primer tarea del diseño centrado en el usuario es conocer más sobre los usuarios.
+El user research puede ser cuantitativo: Lo que significa utilizar estadísticas y métricas obtenidas de analyticas, surveys, etc.
+El user research puede ser cualitativo: Los datos se obtienen de observar al usuario realizar tareas manualmente, con tu software o con el
+software de competidores.
+
+Lo mejor es tener una combinación de datos cualitaticos y cuantitativos.
+Los datos cuantitativos te dicen que sucede y los cualitativos te dicen porque sucede.
+
+El problema con los entornos de desarrollo es que las personas que trabajan ahí no son usuarios comunes sino que tienen skills elevadas y 
+pueden realizar tareas mucho más rapidamente.
+
+- El primer paso es ser "user-centered", es decir, entender quienes son tus usuarios realmente y cuales son sus PAIN POINTS. 
+
+- El user-centered-design es una actividad de grupo, es decir, a menos que todo el equipo entienda las necesidades de los usuarios, no serán capaces 
+de diseñar soluciones acordes a sus necesidades.

@@ -1,0 +1,10 @@
+
+- La trampa del máximo local
+
+Para que querés crear todo un set de ideas si al final solo vas a terminar utilizando una de ellas?
+La respuesta es: Para no caer en la trampa del máximo local.
+
+Suponiendo que queres escalar la montaña más alta (alcanzar la mejor solución de diseño posible), como saber cual de las montañas es la más alta si
+solo vas a escalar una de ellas? En diseño pasa lo mismo, como saber si la solución de diseño es la mejor si solo probaste 1? 
+Es mejor realizar varios prototipos de baja y elegir el mejor de ellos, incluso algunas ideas pueden llegar a importarse de algunos de los diseños 
+descartados.

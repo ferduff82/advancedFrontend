@@ -1,0 +1,14 @@
+
+Técnicas alternativas de Ideation
+
+- Una alternativa que hay si el grupo no quiere dibujar es utilizar "Possible Futures Approach".
+En este caso los miembros del equipo muestran productos existentes o tecnologías y como cada uno
+resuelve los problemas planteados.
+
+- Otra alternativa es plantear roles a los miembros del equipo, cada uno es una parte de la App y 
+actúa realizando consultas a otras partes de la app como si fuese una obra teatral, de esa forma
+se descubren bugs o blanks en la app.
+
+
+
+

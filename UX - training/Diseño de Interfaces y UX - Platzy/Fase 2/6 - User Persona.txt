@@ -1,0 +1,18 @@
+
+User Persona:
+
+Son representaciónes de nuestro tipo más común de usuario y nos ayudan a contestar la siguiente pregunta:
+PARA QUIÉN ESTAMOS DISEÑANDO?
+
+Están basados en información cualitativa y cuantitativa.
+
+Luego del proceso de entrevistas se obtienen 3 tipos distintos de PERSONAS basadas en las características
+más importantes vistas en las entrevistas.
+
+Información común:
+Acerca de Ana
+Personalidad
+Objetivos
+Motivaciones
+Barreras
+Frase importante que describe a la PERSONA

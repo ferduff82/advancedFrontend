@@ -1,0 +1,11 @@
+
+-- Incluyendo al equipo
+
+El beneficio real de hacer User-centered-design aparece cuando el equipo completo acepta el concepto, se involucra en las
+actividades, e internaliza los problemas y necesidades del usuario.
+
+Invertir un poco de tiempo en estas actividades grupales puede ahorrar mucho tiempo de desarrollo.
+Si todo el equipo está involucrado lleva menos tiempo a futuro explicar porque se tomó determinada desición de diseño.
+
+
+

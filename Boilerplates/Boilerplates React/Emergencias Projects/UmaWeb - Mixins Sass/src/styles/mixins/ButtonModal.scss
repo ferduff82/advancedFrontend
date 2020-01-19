@@ -1,0 +1,15 @@
+
+@mixin buttonModal (
+  $border-radius: 10px, 
+  $width: 200px, 
+  $background-color: $green-uma,
+  $padding: 25px, 
+  $line-height: 0,
+  $width: 200px ) {
+    border-radius: 10px;
+    width: 200px;
+    background-color: $background-color;
+    padding: $padding;
+    line-height: $line-height;
+    @content;
+}

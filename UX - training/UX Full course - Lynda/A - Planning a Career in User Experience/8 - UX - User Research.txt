@@ -1,0 +1,40 @@
+
+- User Research
+
+-- El análisis de usuarios investiga más acerca de los usarios y su uso del producto.
+
+- El analísta de usuario no solo tiene que entender el uso y los usuarios sino también las necesidades de negocio y las
+posibilidades de lo que se puede crear.
+- Un analísta de usarios va a realizar un análisis holistico para evaluar la interfaz, involucrando frecuentemente
+a los usuarios actuales o representativos en sus búsquedas.
+- Estas actividades no son académicas sino que deben proveer a los accionistas y a los diseñadores de información crítica.
+
+- El ambiente de prueba normalmente no es ideal y se deberá adaptar las limitaciones y la información para hacerlo lo más p
+parecido a una prueba final de producción.
+- Las limitaciones pueden ser, de presupuesto, de tiempo, de acceso a usuarios ideales para las pruebas.
+
+- NORMALMENTE EL TRABAJO EMPEZARÍA CON FUENTES DE DATOS ACCESIBLES COMO: Web analytics, Datos de Call center, 
+datos de análisis de mercado. De esta forma filtramos datos sobre quienes son los usuarios.
+
+- Estos datos se utilizarían también para reclutar a los candidatos para realizar búsquedas, que atributos tienen que 
+tener los candidatos, que información se necesita, que técnicas de búsqueda son las más apropiadas.
+
+- PARA MAXIMIZAR LOS RESULTADOS DE LA BÚSQUEDA SE DEBE LLEVAR A CABO UNA "REVISIÓN (EXPERTA) HEURÍSTICA".
+Usar la información disponible y las mejores prácticas de UX para identificar problemas antes de realizar una búsqueda.
+
+- La información que se busca es cual es su opinión sobre productos parecidos y que esperan de un futuro producto.
+
+- LA BÚSQUEDA TAMBIÉN PUEDE SER "ETHNOGRAFICA", se focaliza en ver como los usarios se comportan en su propio medio ambiente.
+
+- También puede ser una "investigación Contextual" (Contextual Inquiry). Se observa cuando los usuarios te muestran sus
+comportamientos típicos.
+
+- Aunque hay muchas técnicas posibles, la más asociada con User Research es el "Test de usabilidad uno a uno".
+Este test consiste en presentar un listado de acciones que el usuario tiene que realizar en un prototipo de un producto o 
+en un producto final. Toda la información sobre si se cumplen las tareas o los procesos con blockers o los comentarios del
+usuario pueden proveer información crítica sobre si el producto debe ser actualizado o si debe quedar como está.
+
+- TODA LA INFORMACIÓN PUEDE SER PRESENTADA A LOS PRODUCT OWNERS DE MANERA INMEDIATA O A TRAVÉS DE UN REPORTE FORMAL.
+
+
+

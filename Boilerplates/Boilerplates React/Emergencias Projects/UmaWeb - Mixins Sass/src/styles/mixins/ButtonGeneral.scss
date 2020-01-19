@@ -1,0 +1,24 @@
+
+@mixin buttonGeneral (
+  $color: $white-color, 
+  $padding: 26px, 
+  $line-height: 0,
+  $font-family: visbyBold, 
+  $border-radius: 5px,
+  $border: none,
+  $button-background: $buttons-green) {
+    background-color: $button-background;
+    color: $color;
+    padding: $padding;
+    line-height: $line-height;
+    font-family: $font-family;
+    border-radius: $border-radius;
+    border: $border;
+    @content;
+}
+
+@mixin buttonGeneralHover (
+  $color: $white-color !important ) {
+    color: $color;
+    @content;
+}

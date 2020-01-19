@@ -1,0 +1,9 @@
+
+Que es UX?
+
+Es una disciplina que a traves de procesos se encarga de crear un producto o servicio que agregue valor a los usuarios.
+La finalidad es crear una experiencia significativa y relevante para los usuarios que usen ese producto.
+
+El diseño de experiencia de usuario siempre es cíclico: Es decir, es un proceso iterativo el cual repetiremos infinitas veces para aproximarnos lo más posible a la mejor versión de nuestro producto.
+
+Como diseñadores debemos ser "USER CENTRIC", centrados en los problemas de los usuarios.

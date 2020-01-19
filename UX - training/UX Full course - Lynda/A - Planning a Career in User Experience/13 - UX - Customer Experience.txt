@@ -1,0 +1,18 @@
+
+- Customer Experience
+
+- CX busca ver como los objetivos del negocio se alinean con la experiencia de los clientes.
+- Investiga todos los puntos donde los clientes se conectan con el negocio.
+- Estas interacciones no solo involucran las de tipo digital sino también las interacciones con el call center, con la marca
+y con el personal por mencionar algunas.
+
+- La forma de obtener datos es a través de actividades de búsqueda, bases de datos, analytics y demás.
+
+-- Son los usuarios esperados los que interactúan con la companía? interactúan de la forma que se espera?
+
+-- Hay 'PAIN POINTS' en la interacción de la companía o en lo que espera el usuario?
+
+- SE PUEDE CREAR UN "CUSTOMER JOURNEY MAP" para detectar la interacción completa que los usuarios tienen a lo largo del tiempo.
+- De esta forma se puede entender las dificultades o frustraciónes que pueden hacer que los usuarios se alejen del negocio.
+
+- Aun en el caso de no encontrar dificultades se puede lograr mejorar la CX para lograr tener clientes más leales.

@@ -1,0 +1,13 @@
+
+@import '../../index.scss';
+
+.getFaceEmbeddings {
+    .btn-active {
+        background-color: $primary-background;
+        color: $white-color;
+        font-weight: bold;
+        margin-top: 20px;
+        padding: 12px 0;
+        font-size: 20px;
+    }
+}

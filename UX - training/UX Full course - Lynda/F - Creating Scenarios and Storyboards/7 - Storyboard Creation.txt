@@ -1,0 +1,16 @@
+
+Creación del Storyboard:
+
+Los storyboards son creados utilizando lo creado en los Scenarios por todo el equipo.
+La idea es tomar los textos de los Scenarios y crear visualizaciones de cada escena.
+Se muestra como el usuario interactúa con el software y con sus alrededores.
+
+Es ideal mostrar primero la pantalla de la situación, luego la interacción del usuario y despues la reacción del usuario a dicha interacción.
+
+Recuerda que el storyboard puede todavía cambiar mientras progresas a través de los sticky notes del Scenario así que no pegues
+ningún panel hasta estar seguro del orden.
+
+Revisa el Storyboard con el equipo y toma sus comentarios en consideración.
+
+
+

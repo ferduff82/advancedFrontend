@@ -1,0 +1,138 @@
+@import './global/Vars.scss';
+@import './global/Fonts.scss';
+
+#formContent {
+    width: 800px !important;
+    height: 100%;
+}
+
+.btn-blue-lg {
+    width: 50px !important;
+}
+
+.react-autosuggest__container {
+position: relative;
+}
+
+.react-autosuggest__input {
+    width: 240px;
+    height: 30px;
+    padding: 10px 20px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+
+.react-autosuggest__input--focused {
+outline: none;
+}
+
+.react-autosuggest__input--open {
+border-bottom-left-radius: 0;
+border-bottom-right-radius: 0;
+}
+
+.react-autosuggest__suggestions-container {
+display: none;
+}
+
+.react-autosuggest__suggestions-container--open {
+display: block;
+position: absolute;
+top: 51px;
+width: 280px;
+border: 1px solid #aaa;
+background-color: #fff;
+font-family: Helvetica, sans-serif;
+font-weight: 300;
+font-size: 16px;
+border-bottom-left-radius: 4px;
+border-bottom-right-radius: 4px;
+z-index: 2;
+}
+
+.react-autosuggest__suggestions-list {
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+.react-autosuggest__suggestion {
+cursor: pointer;
+padding: 10px 20px;
+}
+
+.react-autosuggest__suggestion--highlighted {
+background-color: #ddd;
+}
+  
+.diagnostic-text-container {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+ }
+ .diagnostic-text {
+    color: $text-light;
+    width: 100%;
+    font-size: 1rem;
+    white-space: nowrap;
+ }
+ .progress {
+    min-height: 25px;
+    margin: 5px;
+    border: 1px solid $blue-button;
+    z-index: 0;
+ }
+ .diagnostic-progressbar {
+    margin: 10px 0px;
+    height: 29px;
+    width: 100%;
+    border: 1px solid $blue-button;
+    background: $white-color;
+    border-radius: 5px;
+    z-index: 0;
+ }
+
+ 
+ input {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    width: 270px;
+  }
+  
+  .no-suggestions {
+    color: #999;
+    padding: 0.5rem;
+  }
+  
+  .suggestions {
+    position: absolute;
+    background: #fff;
+    border: 1px solid #999;
+    border-top-width: 0;
+    list-style: none;
+    margin: 0px 0 0 15px;
+    max-height: 300px;
+    overflow-y: auto;
+    padding-left: 0;
+    width: calc(250px + 1rem);
+    z-index: 55555555555 !important;
+  }
+  
+  .suggestions li {
+    padding: 0.5rem;
+  }
+  
+  .suggestion-active,
+  .suggestions li:hover {
+    background-color: $primary-color;
+    color: $white-color;
+    cursor: pointer;
+    font-weight: 700;
+  }
+  
+  .suggestions li:not(:last-of-type) {
+    border-bottom: 1px solid #999;
+  }

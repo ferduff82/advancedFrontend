@@ -1,0 +1,19 @@
+
+Setear objetivos:
+
+Una vez que tenes una lista de "Pain points" es relativamente sencillo reescribirlos como
+"Goals" simplemente invirtiendolos. 
+Enlista los beneficios que el usuario obtendría del producto si el Pain Point se arreglara.
+Luego convierte esa descripción en un goal (objetivo).
+
+Luego de esto es hora de ver el listado de goals y decidir cuales tienen el impacto más grande
+en tu producto o negocio. Comúnmente te darás cuenta de que arreglar los Pain points más grandes
+también tiene el impacto más grande en el negocio.
+Pero no siempre es así, una vez que hayas priorizado tus goals ya te falta poco.
+De todas formas, los goals no sirven de mucho sin una forma de entenderlos cuando los encuentras.
+Para eso necesitas métricas.
+
+
+
+
+

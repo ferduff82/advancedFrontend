@@ -1,0 +1,16 @@
+
+Tipos de investigación:
+
+Formal, informal, Cualitativo y Cuantitativo
+
+Formal: 
+Puede incluir edit testing, analitycs, estudios etnográficos, pruebas con usuarios, entrevistas y encuestas.
+
+Informal: 
+Puede incluir guerrilla testing, pruebas remotas, o desing world (imprimimos bocetos de nuestros diseños e invitamos a usuarios a realizar comentarios).
+
+Cuantitativa:
+Responder a preguntas cómo, cuándo, con qué frecuencia.
+
+Cualitativa o empírica. 
+Observaciones, comentarios y sensaciones de los usuarios al conocer un producto.

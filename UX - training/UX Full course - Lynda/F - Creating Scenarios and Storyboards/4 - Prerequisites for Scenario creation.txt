@@ -1,0 +1,14 @@
+
+Prerequisitos para la creación de Scenarios:
+
+Antes de crear Scenarios, es necesario saber para quién se hace la App, cuáles son los problemas de la gente, y que potenciales
+soluciones se pueden realizar. Afortunadamente esta información ya la tenes disponible.
+
+YA CREASTE "PERSONAS" PARA SABER PARA QUIEN CONSTRUIS LA APP.
+YA EXTRAJISTE LOS "PAIN POINTS" PARA TU MAPA DE EXPERIENCIAS QUE CORRESPONDE A LOS ISSUES MÁS GRANDES DE TUS USUARIOS.
+YA TENÉS IDEAS DEL EJERCICIO DE IDEAS (CHARETTE), QUE DESCRIBE LAS SOLUCIONES QUE QUERÉS CREAR.
+
+Realizar Scenarios sin haber pasado por estos 3 pasos será más complicado, llevará más tiempo y podría dar resultados
+menos certeros.
+
+

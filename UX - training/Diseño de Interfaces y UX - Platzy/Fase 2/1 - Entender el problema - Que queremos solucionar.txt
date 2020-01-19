@@ -1,0 +1,22 @@
+
+Entender el problema, Que queremos solucionar?
+
+Como definir el problema a resolver?
+Hay varias técnicas que podemos utilizar:
+
+1 - Las 5 W's
+Who, What, Where, When, Why?
+Con esta téncia nos hacemos preguntas como:
+a - Quién es el Usuario?
+b - Que problema tiene?
+c - Donde lo está solucionando actualmente?
+d - Cuándo se enfrenta a este problema?
+e - Porqué es importante para el resolverlo?
+
+2 - Los 5 Why
+Se enfoca en la raíz del problema y cómo resolverlo
+Ej. Si es difícil encontrar un departamento para nuestro usuario preguntamos. PORQUE ES DIFICIL?
+Se puede utilizar para entrevistas 1 a 1 pero no es recomendable para encuestas ya que puede ser un poco largo.
+
+UNA VEZ TENIENDO LAS RESPUESTAS SE PUEDE EMPEZAR A CREAR EL PLANTEAMIENTO DE PROBLEMA.
+El planteamiento de problema indica el estado actual del problema y la meta a la que queremos llegar en nuestro servicio o producto.

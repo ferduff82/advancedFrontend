@@ -1,0 +1,23 @@
+
+Principios de Gestalt
+
+Principio de Semejanza: Los humanos tendemos a agrupar cosas por forma tamaño o color.
+
+Principio de Proximidad: Cuando vemos elementos que están organizados de una manera ordenada y en un mismo espacio lo tendemos a ver como un grupo
+
+Principio de Continuidad: Cuando vemos elementos que están ordenados en línea o curva, los vamos a ver como si estuvieran agrupados.
+
+Relación Figura-Fondo: Nos permite mostrar de forma jerárquica el contenido, es decir si ponemos una figura circular sobre un fondo azul, el circulo es el de más relevancia.
+
+Principio de Cierre: Cuando vemos una imagen incompleta, nuestro cerebro tiene a completarla, esto nos ayuda por ejemplo en iconografía para hacer síntesis de un elemento muy complejo.
+
+
+Leyes de UX:
+
+Ley de Fitt: El tiempo que lleva llegar a un objetivo tiene que ver con el tamaño y la distancia del mismo. Por ejemplo si tenemos un formulario, el botón de enviar debe estar cerca a los demás elementos que le dan contexto para que el usuario sepa la acción que debe realizar.
+
+Ley de Hick: Mientras más opciones tiene el usuario a elegir, más complejo y dificil será para ellos tomar una decisión, por ello debemos darle la minima cantidad de opciones.
+
+Ley de Jakob: A los usuarios les gusta usar cosas que ya saben usar, para ello es bueno seguir estándares de la industria.
+
+Ley de Miller: El humano solamente puede recordar 7 opciones ±2 a corto plazo, por ello es recomendable presentar nuestra

@@ -1,0 +1,27 @@
+
+Que implica ser un diseñador de interfaces?
+
+Metodologías:
+La metodología más conocida es el Design Thinking que consta de 5 fases que nos ayudan a crear un producto exitoso.
+
+- Empatizar
+- Definir
+- Idear
+- Prototipar (una vez que tenemos nuestro prototipo empezamos a testear con usuarios, con esos resultados evaluamos si necesitamos hacer ajustes).
+- Testear
+
+Dentro de estas metodologías también pueden haber pasos intermedios:
+Preplaning: Data analisys, User stories, User Flows.
+Exploration: Sketching, Wireframes, IA, Prototypes.
+Design: Style Guide, Mockups, Hand Off.
+QA: Speed test, Finalize designs, Micro Details.
+Feedback: KPI testings, A/B testing.
+
+- Lo más importante a recordar es que siempre son procesos ITERATIVOS.
+
+RECOMENDACIONES:
+- Ser diseñador es una actividad SOCIAL, al trabajar se trabaja con otras áreas por ende lo importante es siempre comunicarse de una manera clara y abierta, ser empático y flexible.
+
+- Ser conciente de que nuestro producto va a sufrir cambios por diversos motivos (feedback, negocio, tecnología).
+
+- No solo hay que crear una APP estéticamente agradable sino que aparte debe resolver el problema del usuario.

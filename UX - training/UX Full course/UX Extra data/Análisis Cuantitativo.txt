@@ -1,7 +1,0 @@
-
-- Bounce rate
-- Funnels
-- Heatmaps
-- Bug reports
-- Session duration
-- Browsers used

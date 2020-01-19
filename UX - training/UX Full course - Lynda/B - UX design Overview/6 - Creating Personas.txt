@@ -1,0 +1,15 @@
+
+-- Creando Personas
+
+Personas son descripciones imaginarias pero realistas y detalladas de los usuarios de tu producto.
+Provee las bases para las discuciones de diseño al concentrar muchas piezas de datos de usuario en descripciones
+confiables de la audiencia primaria.
+
+Crear personas provee al equipo de una forma corta de describir para quien estamos haciendo cosas.
+
+- EN LUGAR DE DECIR "EL USUARIO", (lo cual significa "nadie"), SE FOCALIZA EN UN SET DE PERSONAJES CON ATRIBUTOS ESPECÍFICOS, 
+LO QUE SIGNIFICA QUE EL DESARROLLO DEL PRODUCTO TOMA EN CUENTA LAS NECESIDADES DE ESAS PERSONAS.
+
+- Crear personas pone al equipo en la misma página. Al crear una persona explícita se hace el concepto del usuario "concreto"
+en lugar de "elastico". De esa manera el equipo desarrolla para un set de atributos comunes, lo que lleva a crear interfaces
+más concretas. 

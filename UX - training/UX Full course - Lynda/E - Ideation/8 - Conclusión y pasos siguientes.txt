@@ -1,0 +1,10 @@
+
+La ideación abre las posibilidades a muchos caminos que tu diseño puede tomar y luego lo guía sobre las vías.
+
+El paso siguiente es pulir las ideas creando Scenarios y Storyboards, estas incorporan elementos del proceso de Ideación
+y muestran como el usuario se va a comportar en la App.
+
+
+
+
+

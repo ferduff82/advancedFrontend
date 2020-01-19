@@ -1,0 +1,14 @@
+
+Conceptos de diseño:
+
+Los tamaños de cuadricula ideal son:
+
+12 columnas para web: Brinda más flexibilidad.
+8 columnas para tablet.
+4 columnas para mobile.
+
+Fuentes:
+
+Serif, Sans Serif, Monospace (todos los caracteres ocupan el mismo espacio).
+
+

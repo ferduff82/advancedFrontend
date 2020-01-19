@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "umaonlineapp"
+  },
+  "targets": {
+    "umaonlineapp": {
+      "hosting": {
+        "uma-testing": [
+          "uma-testing"
+        ]
+      }
+    }
+  }
+}

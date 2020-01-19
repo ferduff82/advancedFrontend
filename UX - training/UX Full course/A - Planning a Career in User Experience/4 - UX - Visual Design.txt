@@ -1,8 +1,0 @@
-
-Visual Designer:
-
-El diseñador visual creará significado e interactividad a través del uso de colores, fuentes, imagenes y espacio.
-Es posible que el diseñador visual también haga el trabajo de Diseñador de Interacción.
-
-- El diseñador visual también ayudará con el branding de marca.
-- El diseñador visual creará guias de marca para que haya consistencia a través de la interfaz.

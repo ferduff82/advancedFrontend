@@ -1,0 +1,14 @@
+
+Creando Scenarios:
+
+- La idea es describir como tu diseño mejoraría la experiencia en un día regular del usuario.
+- También se pueden agregar algunos issues que el usuario puede enfrentar y como los resolverías.
+- El objetivo es describir los elementos de tu UX que apuntas y demostrar como cumplir con los goals creados.
+- Hay que trabajar en grupos de 2 y utilizar el "Mapa de Experiencia" creado.
+- Utilizar sticky notes y escribir cada paso que el usuario debe tomar para alcanzar su objetivo.
+- Permitir que el equipo haga preguntas sobre como puede reaccionar la PERSONA  en cada situación.
+- Es necesario repetir este proceso de creación de escenarios para cada parte de la interacción a la cual realizes una solución.
+
+
+
+

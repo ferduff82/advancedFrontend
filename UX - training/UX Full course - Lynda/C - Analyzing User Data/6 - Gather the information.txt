@@ -1,0 +1,32 @@
+
+Juntando la información.
+
+Como ya se comentó anteriormente, recomiendo tomar notas en lugar de tipear y definitivamente
+no recomiendo grabar videos.
+Lo más importante es obtener frases de los usuarios que puedan agregar algo a la experiencia.
+También es importante escuchar las metas de los usuarios, que buscan hacer y anotar las
+acciones que realizan para cumplir con esas metas. 
+En lugar de anotar "al usuario no le gustan los teclados iPhone", es mejor escribir frases como
+"estoy acostumbrado a hacer swipe, esto es mucho más lento". Ese tipo de datos son más ricos y 
+más confiable.
+
+Anotar lo que los usuarios hacen y dicen. Tomar fotos si está permitido.
+Sonreír y responder de manera no verbal. Hacer preguntas sin final como: Puede decirme más al
+respecto? Preguntar por ejemplos, situaciones en que lo que le interesa le sucedió en el pasado.
+No iniciar conversaciones. No escribir soluciones o bug fixes (si haces eso te vas a distraer).
+No intentar venderle tus ideas al usuario y no pedirles que predigan el futuro.
+
+Si ves comportamientos que te confunden esperar hasta ver que el usuario haya completado la tarea
+y luego decir algo neutral como "puede decirme algo más acerca de lo que estaba haciendo?", o,
+"noté que hizo algo, podría explicarmelo?".
+
+Es importante entender los comportamientos que se observan, pero no a expensas del comfort
+del usuario. No estás ahí para enseñarles o para hacer las cosas mejor ya que en el momento
+que empiezes con ese comportamiento dejaras de ser un aprendiz y te convertiras en un experto
+a los ojos del usuario y es lo que no se busca.
+
+Es muy común terminar con varias páginas escritas. Recuerda que los mejores datos son los 
+hechos y no las interpretaciones. Escribir todo lo posible e interpretalo despues.
+Preguntar al usuario si tiene alguna duda o pregunta.
+
+
