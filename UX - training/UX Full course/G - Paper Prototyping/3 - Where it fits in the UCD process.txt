@@ -1,9 +1,0 @@
-
-Donde encaja en el proceso UCD:
-
-El prototipado en papel se acerca al final del proceso de User Centered Design. Es la culminación del trabajo inicial de diseño.
-Al prototipar testeas lo que resuelven los procesos de IDEATION y SCENARIO y sus PAIN POINTS respectivos vistos en las visitas de campo.
-Por ende es recomendable crear los prototipos basados en lo visto en los SCENARIOS y STORYBOARDS. 
-
-El prototipo en papel es una técnica muy buena pero no obtendras su beneficio real sin los PAIN POINTS observados en las visitas.
-Poniendo foco en los USER PAIN POINTS e incorporando las DESIGN IDEAS (del proceso de IDEATION), y los STORYBOARDS. 

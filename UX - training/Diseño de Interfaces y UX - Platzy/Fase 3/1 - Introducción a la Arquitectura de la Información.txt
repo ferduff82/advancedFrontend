@@ -1,0 +1,6 @@
+
+Introducción a la Arquitectura de la Información
+
+La arquitectura de la información es una diciplina que se encarga de organizar de forma ordenada el contenido y conceptos para que el web así como las app sean faciles de entender y de usar por los usuarios.
+
+

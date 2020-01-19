@@ -1,0 +1,13 @@
+
+Guerrilla testing:
+
+Es una técnica de investigación informal que nos permite obtener retroalimentación de los usuarios rápidamente. 
+Por lo general se hace en un espacio público. 
+Se realiza con un prototipo o con el producto final. 
+Los resultados obtenidos serán resultados cualitativos.
+
+El test se hace con un wireframe y el flujo debe ser corto y consiso
+(las tareas asignadas deben estar bien definidas)
+para obtener el resultado adecuado.
+
+

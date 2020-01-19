@@ -1,0 +1,25 @@
+
+Patrones de diseño:
+
+Un patrón de diseño es una solución probada aun problema común 
+y la finalidad es que el usuario sepa exactamente que hacer
+y que esperar al momento de interactura con nuestra interfaz.
+(estamos simplemente siguiendo la ley de Jacob).
+
+- Solucionan problemas comunes
+- Son reusables
+- Comportamiento esperado por el usuario
+- Lenguaje común entre diseñadores
+
+ENLACES: ui-patters.com
+
+
+Dark patterns:
+
+Uso incorrecto de los patrones que tiene como objetivo manipular a los usuarios.
+
+- Poco ético
+- Intentan manipular o confundir al usuario
+- Comúnmente usados en E-commerce
+
+ENLACES: darkpatterns.org

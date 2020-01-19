@@ -1,0 +1,7 @@
+
+Wireframes:
+
+Realizamos bocetos que nos sirven para definir la estructura y la jerarquía de nuestro producto.
+En este paso nos enfocamos en la funcionalidad y orden del contenido.
+
+Es importante aplicar los conceptos de "Arquitectura de la información", "Usabilidad" y "Gestalt".
