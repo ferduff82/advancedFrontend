@@ -1,0 +1,99 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css');
+@import './global/Vars.scss';
+@import './global/Fonts.scss';
+
+.wrapper {
+   padding: 20px;
+   font-family: Nunito;
+   .pokemonHeader {
+      text-align: center;
+      padding: 10px;
+      margin-bottom: 30px;
+      margin-top: 10px;
+      font-weight: 900;
+      font-size: 25px;
+   }
+   .pokemonList {
+      margin-bottom: 35px;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+      .pokemonWrapper {
+         box-shadow: $main-shadow;
+         padding: 14px;
+         margin: 10px;
+         min-width: 270px;
+         height: fit-content;
+         border-radius: 5px;
+         background-color: $light-blue;
+         .pokemonItemImage {
+            background-color: $white-color;
+            box-shadow: $main-shadow;
+            border-radius: 5px;
+            margin-right: 15px;
+            height: fit-content;
+            padding: 5px;
+         }
+         .title {
+            font-weight: 800;
+         }
+         .details {
+            cursor: pointer;
+            font-weight: 800;
+            svg {
+               margin-top: 5px;
+            }
+         }
+         .dropdownWrapper {
+            .featuresWrapper {
+               margin-top: 10px;
+               .look {
+                  background-color: $white-color;
+                  border-radius: 5px;
+                  margin-top: 10px;
+                  img {
+                     margin: auto;
+                     display: block;
+                  }
+               }
+            }
+         }
+      }
+   }
+   .paginationWrapper {
+      margin: auto;
+      display: table;
+      .pagination {
+         box-shadow: $main-shadow;
+         > li {
+            padding: 12px 15px;
+            font-weight: 700;
+            background-color: $paginator-regular;
+            cursor: pointer;
+            a {
+               text-decoration: none;
+               color: $white-color;
+            }
+         } 
+         > li:first-child {
+            border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+         }
+         > li:last-child {
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+         }
+         > li {
+            &.disabled {
+               background-color: $paginator-disabled;
+            }
+         }
+         > li {
+            &.active {
+               background-color: $paginator-active;
+            }
+         }
+      }
+   }
+}
