@@ -1,0 +1,13 @@
+
+User testing:
+
+Se realizan pruebas con usuarios para validar nuestro producto final.
+La recomendación es hacerlo con 5 usuarios. Se encuentran el 80% de los problemas de usabilidad.
+
+El prototipo debe ser de alta.
+En el prototipo de baja se validan las ideas y en el prototipo 
+de alta se valida que sea fácil de usar e intuitivo para el usuario.
+
+Hay que tener bien definido los pasos que se le van a pedir que haga el usuario.
+
+

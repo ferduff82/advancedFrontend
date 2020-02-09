@@ -1,0 +1,17 @@
+
+Metodologías de UX en las organizaciónes:
+
+AGILE
+WATERFALL
+
+Metodología Agile:
+Conocido como el proceso iterativo, donde cada etapa se realiza en múltiples sprints del mismo ciclo iterativo. Este marco permite velocidad de desarrollo, bajo costo, junto con un enfoque en la búsqueda rápida de errores. Sin embargo, debido a la velocidad de este proceso, los plazos ajustados pueden causar una caída en la calidad general.
+
+Metodología Cascada(waterfall
+Conocida como marco secuencial, donde el proceso es ejecutado en un formato Lineal en ligar de un ciclo interactivo. Este marco permite una artesanía y un diseño de mayor calidad, pero su estructura rigida no permite un alto grado de flexibilidad e iteracciones y los errores son costosos.
+
+Hybrid
+Este marco es inicialmente secuencial y luego iterativo durante todo el proceso de desarrollo. El modelo híbrido crea una línea de tiempo disciplinada que permite la alineación del cliente, pero sigue siendo lo suficientemente flexible como para iterar y refinar. Debido al cambio repentino de secuencial a iterativo, se necesita una gestión sólida del proyecto, para mantener la toma de decisiones en el camino.
+
+Metodología Lean
+Este marco se centra específicamente en el producto mínimo viable, donde el MVP se completa antes de considerar características / contenido adicionales. El modelo Lean reduce el enfoque principal de lo que debe crearse, pero a veces el producto no alcanza su techo potencial y, a veces, puede no verse como un producto viable en el mercado.

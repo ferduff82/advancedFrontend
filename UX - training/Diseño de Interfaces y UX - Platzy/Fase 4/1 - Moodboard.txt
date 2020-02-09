@@ -1,0 +1,8 @@
+
+Moodboard:
+
+Nos ayuda a definir nuestro estilo visual una vez terminados los Wireframes.
+Los Moodboards son un conjunto de herramientas visuales como tipografías, colores, íconos, estilos de ilustrarión.
+Una referencia que nos va a servir de inspiración visual para ver como vamos a diseñar.
+
+Una herramienta para hacer moodboards se llama Dropmark.

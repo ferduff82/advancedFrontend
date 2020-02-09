@@ -1,0 +1,11 @@
+
+Probar la interfaz cíclicamente:
+
+Es muy importante seguir probando.
+
+A/B testing: Se realizan pruebas con 2 interfaces distintas.
+Una herramienta para esto es Google Optimize.
+Se recomienda realizar el experimento por 2 semanas.
+
+Hotjar: Herramienta para medir el comportamiento de los usuarios.
+

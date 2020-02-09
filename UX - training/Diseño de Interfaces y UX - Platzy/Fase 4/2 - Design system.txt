@@ -1,0 +1,14 @@
+
+Design system:
+
+Es una colección de componentes reusables.
+
+Atomic Design:
+Se divide en átomos, molécules y organismos.
+
+Ej: input, button son átomos.
+
+Ej: search component, image with subtitles, son moléculas.
+
+Ej: Header es un organismo.
+(otra forma de crear organismos es repitiendo muchas veces una molécula).

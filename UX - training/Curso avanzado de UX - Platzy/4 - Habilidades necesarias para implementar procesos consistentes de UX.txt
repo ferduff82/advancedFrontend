@@ -1,0 +1,22 @@
+
+Habilidades necesarias para implementar procesos consistentes de UX
+
+Es necesario realizar un diagnóstico sobre en que situación se encuentra la empresa para la que trabajamos
+en relación al proceso de UX:
+
+Niveles para hacer el diagnósitco:
+
+1.- Adopción: Suele haber gente en diseño que intenta hacer procesos de UX personas que no tienen cultura organizacional 
+en relacion de UX. Porque las acciones que desarrollemos de UX tendran que estar alineadas con el nivel de maduración de UX.
+
+2.- Ejecución: ¿Cuando tenemos un nivel de ejecución en una organización?, basicamente cuando empiezaa haber consignaciones presupuestarias especialmente en el ámbito de investigación de usuarios y en las pruebas de usabilidad.
+
+3.- Liderazgo: Cuando a demás de tener consignación presupuestaria, para investigación, conceptualización, para test con usuarios, managment enfocado en UX, liderazgo en diseño, decisiones de diseño en relación directa con el ámbito de negocio y 
+el ámbito de producto.
+
+TIPS:
+- Es importante incorporar a la gente de atención al cliente al proceso de Research 
+ya que cuentan con mucha información de los usuarios.
+
+- Es importante tener diversidad en los equipos en los procesos de UX.
+
