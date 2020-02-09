@@ -1,0 +1,42 @@
+
+@import '../Vars.scss';
+
+.loadingContainer {
+    z-index: 99;
+    min-height: 300px;
+    border-radius: 10px;
+}
+.loading,
+.loadingName,
+.loadingBack {
+    position: fixed;
+}
+.loading,
+.loadingName {
+    z-index: 9999;
+}
+.loading {
+    padding: 20px;
+    font-size: 18px;
+    color: $light-blue !important;
+    left: calc(50% - 26px);
+    top: calc(50% - 53px);
+    &.text-primary {
+        color: $buttons-green !important;
+    }
+}
+.loadingName {
+    left: calc(50% - 45px);
+    font-size: 20px;
+    top: calc(50% + 50px);
+    font-weight: bold;
+    color: $text-dark;
+}
+.loadingBack {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0; 
+    background-color: $white-color;
+    z-index: 999;
+}
