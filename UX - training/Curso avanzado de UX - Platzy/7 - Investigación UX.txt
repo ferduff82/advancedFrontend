@@ -1,0 +1,30 @@
+﻿
+Investigación UX: Entrevistas, cuestionarios, cualitativos y cuantitativos.
+
+La investigación con usuarios se puede abordar de 4 maneras:
+
+- Descubrimiento
+- Exploración
+- Testeo
+- Escucha
+
+Descubrimiento: 
+La fase de descubrimiento es donde tenemos un primer contacto con el proyecto (kickoff).
+Esta etapa tiene el fin de intentar conocer lo desconocido y comprender mejor las necesidades de los usuarios.
+
+Exploración:
+Las técnicas que corresponden a esta fase están dirigidas a comprender las necesidades del usuario de manera apropiada.
+Abordar el diseño y sus dificultades desde una perspectiva global.
+
+Testeo:
+Tratar de validar si los diseños desarrollados funcionan correctamente para los usuarios.
+Comprobar y asegurar que los sistemas funcionan bien para sus usuarios.
+Se utiliza para probar la integridad de los sistemas, que todo funciona más allá de las pantallas.
+
+Escucha:
+Acción que nos permite comprender los problemas de los usuarios existentes y encontrar nuevos problemas.
+Se debe hacer durante todo el ciclo de diseño e investigación para tratar de comprender los problemas de los usuarios y encontrar nuevos problemas.
+La escucha tiene que ver con la capacidad de pensamiento crítico, ej. LO QUE UN USUARIO NOS EXPLICA Y LO QUE REALMENTE QUIERE DECIR.
+
+
+LOS OBJETIVOS DE LOS USUARIOS TIENEN QUE ESTAR ALINEADOS CON LOS OBJETIVOS DE NEGOCIO.

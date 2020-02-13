@@ -1,0 +1,26 @@
+
+Estadística cuantitativa y análisis de datos
+
+La investigación cuantitativa la podemos determinar en diferentes escenarios y podemos utilizar diferentes
+técnicas y herramientas para llevarla a cabo.
+
+- Encuestas
+- Analítica digital
+- Experimentos (ej. A/B testing)
+
+A la hora de realizar un análisis cuantitativo debemos tener en cuenta 2 cosas:
+
+- Los datos nos permiten conocer la realidad, más allá de nuestras opiniones.
+- Los datos cuantitativos explican el qué, no el por qué.
+
+Herramientes:
+
+- Google Analytics
+- Hotjar
+
+Metodologías donde implementar estas herramientas:
+
+- Card Sorting
+- Tree test
+- Surveys
+- Eyetracking Testing

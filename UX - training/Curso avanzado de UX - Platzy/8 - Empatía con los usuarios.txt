@@ -1,0 +1,53 @@
+
+Empatía con los usuarios:
+
+La mejor forma de generar empatía con los usuarios es a través de los MAPAS DE EMPATÍA:
+
+Los mapas de empatía nos van a permitir entender con mucho nivel de detalle cuales son
+los sentimientos, cuales son las reacciones de un usuario a un determinado estímulo.
+Es un documento donde podemos describir sobre el usuario que el mismo:
+
+- Piensa y siente
+- Oye
+- Ve
+- Dice y hace
+- Dolor
+- Ganancia
+
+Ej: Cotizame.
+En ese contexto le voy a preguntar:
+
+- Piensa y siente: Que le importa al usuario, en que piensa? El usuario piensa principalmente en comprar un producto. Le preocupa que su producto tenga un alto precio.
+- Oye/ve: Que le dicen los amigos, familia e influencers? A personas que tienen que cotizar una y otra tienda para comprar un producto.
+- Dice/hace: Que influencia tiene en su entorno, competidores está mirando, que ve hacer a sus amigos? Dice que cotiza en 3 a 4 tiendas pero lo hace en 1 o 2 tiendas y compra el producto.
+- Dolor/miedo: Que miedos o fustraciones sufre? Teme a no tener conocimiento de la app.
+- Ganancia: Que espera obtener, cómo es el éxito? Compra exitosa a bajo costo y de calidad y en menor tiempo.
+
+Ej: Proyecto Tiket: App de gestión de boletas para eventos deportivos y musicales.
+Tareas: Poder conseguir las boletas cómodamente (Sin perder tiempo)
+Sentimientos: Rabia y frustación por una mala gestión logística y por tener que someterse a eso sabiendo que no hay otra opción.
+Influencias: Los otros hinchas o asistentes y los puntos de información directa o digital (Páginas de servicio al cliente en redes sociales)
+Puntos de dolor: No recibir un buen servicio a pesar de estar pagando y el tiempo que se pierde en horas laborales.
+Objetivos: Conseguir las boletas rápida y cómodamente sin problemas.
+
+Ej: Proyecto: Vegfriend
+Piensa y siente: Que le importa al usuario, en que piensa? El usuario piensa principalmente en alimentarse, en comer. Le preocupa que su comida sea o no sana.
+Oye/ve: Amigos que se alimentan sano y hacen deporte, que la alimentacion sana es sustentable y ecologica, que existe una tendencia global por cambiar la forma en que nos alimentamos, cada vez mas personas e influencers se vuelven veganos y vegetarianos.
+Dice/hace: No siempre come sano, pero cuando lo hace le gusta mostrarlo o compartirlo. No siempre comparte todo lo que come. No siempre cocina en casa.
+Dolor/miedo: precio de comidas sanas, no tener las habilidades para preparar comidas, precio y tiempo de cocinar en casa.
+Ganancia: Comer sano, cocinar exitosamente y compartirlo con amigos, demostrar habilidades culinarias, mostrar a amigos que lleva una vida sana.
+
+Ej:Viaja con Rosa: Sitio web donde se pueden consultar los viajes que he realizado personalmente: itinerario detallado, fotografias, consejos a tener en cuenta en cada lugar…
+* Recopliar información sobre el destino de su viaje: lugares que visitar, consejos prácticos (climatología, moneda local, gastronomía…) medios de transporte, alojamientos
+Sentimientos:
+* Ilusión por visitar nuevos lugares
+* Confusión ante la gran cantidad de información disponible
+Influencias:
+* Lo que dicen sus amigos y familiares
+* Opiniones de otros viajeros en foros, blogs y redes sociales
+* Artículos y noticias de la prensa
+Puntos de dolor:
+* Incertidumbre la calidad real de los alojamientos, horarios de visita a monumentos y lugares de interés
+* Ajustar el precio del viaje a su presupuesto
+Obejtivos:
+* Definir el itinerario completo del viaje adaptado a sus gustos personales
