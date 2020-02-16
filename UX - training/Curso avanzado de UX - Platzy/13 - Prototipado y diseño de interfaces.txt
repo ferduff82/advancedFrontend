@@ -1,0 +1,11 @@
+
+Prototipado y diseño de interfaces
+
+Es importante al hablar de diseño de hablar de ESTRATEGIA.
+Los prototipos son útiles para simular como se va a ver nuestra interfaz.
+También sirven para compartir con el equipo, para comunicar y probar ideas.
+
+Para hacer wireframes lo mejor es dibujar y no tener miedo de romper.
+También se puede usar para testear con usuarios.
+
+SE RECOMIENDA NO UTILIAR COLORES.

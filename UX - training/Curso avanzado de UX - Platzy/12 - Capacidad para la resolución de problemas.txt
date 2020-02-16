@@ -1,0 +1,60 @@
+
+Capacidad para la resolución de problemas:
+
+Definir el problema:
+
+- Cuál es la causa?
+- Qué síntomas indican la presencia de un problema?
+
+Identificar opciones de soluciones:
+
+- Qué se aconseja comunmente para solucionarlo?
+
+Evalúa tus opciones y elige una de ellas:
+
+- Cuál es la mejor opción para solucionar el problema?
+- Cuál es la opción más sencilla?
+- Cómo debes priorizar?
+
+Aplica la solución elegida:
+
+Es un proceso iterativo 
+- Se ha solucionado el problema? en el caso que si se avanza, en caso que no se prueba con otra solucion.
+- Hay otra opción que debas probar?
+
+EJEMPLOS DE PROBLEMAS CON LOS QUE NOS PODEMOS ENCONTRAR:
+
+1 - Manejo de hipótesis de las que desconocemos el punto de llegada.
+En lo procesos de investigación podemos encontrarnos con escenarios de alta incertidumbre.
+En estos procesos desmenuzar las partes para dar certidumbre a cada parte del problema.
+
+2 - Manejo de recursos internos o externos de manera simultánea.
+Manejo de personas internas o stakeholders. Si los interes entre estas personas son contrapuestos
+esto es un probema y debemos usar la misma solución que la 1.
+
+3 - Usuarios externos que son ajenos a nuestra problemática.
+
+4 - Agendas de las que no somos propietarios ni tenemos capacidad para influir.
+Usuarios que participan sin ganas del proceso de UX. Personas que no se presentan a los tests NO SHOW.
+ESTO PUEDE TENER IMPLICACIONES DE PERDIDAS ECONÓMICAS.
+
+5 - Presupuestos restringidos o limitados.
+
+
+
+EJERCICIO: Describir 2 formas de solventar user research a coste 0 y una adicional en la que poder invertir hasta 500 dólares.
+
+Con CERO euros
+1.- Buscar a familiares y amigos que hagan el test a cero euros
+2.- Buscar gente en grupos de ayuda en Facebook
+3.- Usar empleados, dentro de la empresa que no sean informáticos (secretaria, contable, responsable de RRHH, etc)
+4.- Usar algún programa como SemRust que analice el website
+Con 500€:
+1.- Si estamos en WP buscar algún plugin para resolver el problema
+2.- Buscar a alguien especializado en pruebas que nos hagan las pruebas
+3.- Buscar algún tipo de consultoría especializada que nos diera su opinión y aporte algo
+4.- Pagar una campaña en ads de Google y estudiar adónde van los usuarios a través de Analytics
+
+1-Hacer un test de guerrilla
+2-Hacer encuestas y/o test por redes sociales
+3- (Invirtiendo hasta 500$) Reclutar usuarios, proponiéndoles algún tipo de insentivo, el cual podría ser algo relacionado con nuestro producto, cupones de compra, merchandising, etre otros)
