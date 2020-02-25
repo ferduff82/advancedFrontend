@@ -1,0 +1,37 @@
+
+1 - Entender
+
+
+A - Empatizar: 
+Desarrollar perfiles de usuario con rapidez y generar empatía con la persona creada.
+Pese a que no es un resultado exacto a lo que puede dar una investigación, estos ejercicios permiten que el grupo
+se centre en el elemento más importante: LAS PERSONAS.
+
+NO ES LO MISMO CONOCER QUE COMPRENDER:
+Conocer: Edad, sexo, capacidad financiera, preferencias de uso, relación con la tecnología.
+Comprender: Problemas, retos, preocupaciones, necesidades, deseos.
+
+A la hora de preguntar no hacer preguntas directas:
+HENRY FORD decía que si le preguntaramos al usuario que necesita el siempre diría: QUIERO UN CABALLO MÁS RÁPIDO.
+
+Cómo preguntar correctamente?
+ETAPA DE EMPATIA:
+- Mapa de ecosistemas
+- Entrevistas en profundidad
+- Personas
+- Journey Maps
+- Mapa de empatía
+
+La creación de PERSONAS ayudan a enteder si la App creada sería usada por los perfiles creados de PERSONAS
+y si la usaría solo una persona particular o llegaría a espectro más amplio.
+
+El JOURNEY MAP ayuda a entender a las personas, se escribe en un mapa lo que las personas HACEN, PIENSAN Y SIENTEN
+(las cuales son cosas distintas).
+
+El mapa de empatía se construye en base a lo que una persona: ESCUCHA, SIENTE, HACE, DICE Y VE.
+
+
+- Entrevistas: Hay distintos tipos de entrevistas, presenciales, online, guerrilla, etc.
+
+Lo ideal es empezar a preguntar sobre el usuario para que sienta confianza, luego sobre el producto y finalmente el guión (no esta mal a veces salirse del guión para conseguir más información).
+
