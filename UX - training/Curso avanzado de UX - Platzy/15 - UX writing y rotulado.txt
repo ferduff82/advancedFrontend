@@ -1,0 +1,15 @@
+
+UX writing y rotulado
+
+El UX writing se enfoca en crear un ambiente, en crear una narrativa, un entorno y un contexto que proporcione al usuario
+una experiencia memorable.
+
+El UX Writing no se orienta a la venta o la conversión sino que su objetivo es diseñar interacción entre producto y usuario.
+
+Se puede aplicar a:
+
+Botones.
+Menús.
+Mensajes de error.
+Mensajes en pantalals emergentes y en los estados posteriores a la interacción de los usuarios.
+Instrucciones de uso o tutoriales.

@@ -1,0 +1,33 @@
+
+Diseño de interacción:
+
+Dimensiones del diseño de interacción:
+
+1- Palabras
+Las palabras que tenemos que utilizar tienen que ser palabar comprensibles para cada segmento de usuario.
+
+2- Representaciones visuales
+Los íconos, infografías, debe estar alineado y con el segmento de usuarios para que sea comprensible.
+
+3- Espacio
+Podemos salir del momento digital y la interacción puede producirse con el espacio como medio. Ej. Joystick, mando a distancia, un volante.
+Cualquier artefacto que nos sirva para hacer una interacción entre el usuario y el sistema.
+
+4- Tiempo
+Podemos hacer uso del tiempo para imprimir un tipo de interacción u otra.
+La reacción rápida o la reacción lenta nos puede estar dando pistas acerca de lo que le queremos comunicar y por último, el comportamiento.
+Porque las cuestiones culturales y conductuales también tienen impacto.
+
+5- Comportamiento
+Las cuestiones culturales y conductuales tienen impacto.
+
+-------------------------------------------------------------------------------
+
+- Consejos útiles para trabajar la interacción:
+
+Definir cómo se interactúa.
+Dar pistas del comportamiento.
+Anticiparse a errores potenciales.
+Dar feedback permanente.
+Diseñar pensando de manera estratégica.
+Simplificar lo más que puedas.
