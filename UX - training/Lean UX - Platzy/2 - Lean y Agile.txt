@@ -1,0 +1,77 @@
+
+LEAN y AGILE:
+
+
+Se verán los temas, LEAN Manufacturing, Agile, Lean Startup y Lean UX.
+
+Lean y Agile, son metodologías similares apliacadas a contextos distintos.
+
+
+
+LEAN nació en TOYOTA para reducir la cantidad de desperdicio que se acumulaba a la hora
+de fabricar automóviles y por desperdicio se entiende como el exceso de documentación,
+inventario no vendido, inventario que se tiene que desechar por culpa de fallas, etc.
+
+Los fabricantes de autos planificaban para todo el año completo la fabricación y una vez
+llegado la finalización el problema era rezar por que todo salga bien a la hora de venderlos.
+Mientras tanto había que almacenar los vehículos en bodegas y si hay fallas descartarlos o repararlos.
+
+LA SOLUCIÓN que encontró Toyota es: 
+
+A - Reducir los ciclos de producción 
+(Menores costos de almacenamiento, menor riesgo de inventario no vendido. Si algún modelo no se vende bien 
+se puede descartar de la producción o modificarlo)
+B - Comunicación en tiempo real 
+(Menos documentación, menor tiempo gastado en planificación)
+C - Capacidad de respuesta rápida
+a (Anticipación a la competencia, eliminación de errores y reducción de daños)
+
+
+
+AGILE toma estos principios y los empieza a utilizar para desarrollar software.
+Va en contra del modelo WATERFALL el cual realiza plazos largos.
+AGILE propone que el software funcione.
+
+A - Equipos pequeños y autónomos
+(Reducción de hand-off y menores costos de managment)
+B - Trabajo en base a sprints
+(Ciclos de desarrollo pequeños y énfasis en software que funcione.
+cada 2 semanas se realizan cambios y mejoras)
+C - Retrospectivas
+(Aprendizaje y feedback corto. Aprendemos sobre el mercado sobre
+nuestro propio producto, etc.)
+
+
+
+LEAN STARTUP propone que estos mismo principios se puede implementar al desarrollo de negocios.
+Queremos maximizar el aprendizaje con la idea del MVP, lo mínimo que se puede lanzar al mercado.
+El aprendizaje se va implementando iterativamente al producto como mejoras y correciones rápidas.
+
+A - Todo es una hipótesis
+(Una startup no se comporta como un negocio establecido, esa idea bonita en tu cabeza 
+puede no ser perfecta y va a sufrir correcciones)
+B - Fallar rápido y barato
+(La idea es que desde el día 1 podamos testear nuestras hipótesis con prototipos que son más baratos)
+C - Maximizar el aprendizaje
+(No es necesario tener el producto completo para empezar a aprender, ni siquiera es necesario 
+tener el MVP terminado, se puede empezar a aprender con prototipos y conociendo a nuestros usuarios)
+
+
+
+LEAN UX propone aprender lo antes posible las lecciones que nos permitirán crear una experiencia óptima.
+Podemos tener en claro que vamos a construir pero no como.
+
+A - Un equipo más alineado y una cultura más explícita
+(Esta filosofía nos obliga a la comunicación constante, siempre estamos conectados)
+
+B - La visión y el conocimiento de todos los stakeholders desde el principio
+(Enlugarde esperar que esté algo construído para que los jefes nos de su opinión
+
+
+
+
+
+
+
+
+

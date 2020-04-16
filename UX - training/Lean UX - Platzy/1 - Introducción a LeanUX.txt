@@ -1,0 +1,47 @@
+
+Que es UX y que Service Design?
+
+
+UX:
+
+UX no es solo diseñar un producto bonito, amigable y funcional. 
+UX tiene que ver más con el CONTEXTO en el cual un producto o un servicio está siendo usado.
+Si el producto no resuelve ningún problema o si no está entrando en el momento correcto no hay experiencia.
+
+Todo influye en la experiencia:
+Necesidad, contexto sociocultural, contexto ambiental, performance del producto, etc.
+
+Otro concepto interesante es que ES IMPOSIBLE SEPARAR LA UX DEL CORAZÓN DE UN NEGOCIO.
+Los negocios que ponen a las personas como centro son negocios que se diferencian.
+
+UX HUMANIZA
+A travéz del uso de la empatía nos permite tomar contacto con las personas y entender 
+cuales son sus frustraciones, necesidades, motivaciones, contexto cultural, etc.
+
+UX es una BALANZA que equilibra la empatía con el CRAFT
+No alcanza solo con empatizar con las personas, acá es donde entra el CRAFT.
+El CRAFT es la preocupación por el detalle y que las cosas funcionen bien.
+
+UX y Service design resuelven 2 problemas:
+
+1: Entender a un grupo de personas y sus necesidades.
+2: Diseñar soluciones para atenderlas mejor.
+
+
+Service design:
+
+La UX no es solo interactura con algunas pantallas de interfaces. Involucra muchos otros canales
+y otros factores, acá es donde entra el SERVICE DESIGN que es la promesa de abarcar la UX de 
+manera multicanal. Es decir no solo abarca la parte digital, sino también la interacción 
+presencial, los objetos físicos, los espacios, el uno a uno, el email, el teléfono, cualquier
+canal donde se desarrolle la relación.
+
+La experiencia no distingue entre canales de negocio.
+Si yo pregunto sobre una empresa nadie va a decir que un area nos atiende bien y otra mal.
+Lo que vamos a decir es que la comunicación está fragmentada por ende es una mala experiencia.
+
+
+La idea de LEAN:
+Es que pensemos en PRODUCTOS y no en SERVICIOS.
+Si el producto falla puede ser devuelto y puede definirse y planificarse con exactitud.
+El servicio no puede devolverse (si saco un pasaje y la experiencia sale mal no la puedo devolver) y no puede ser definido ni planificado.
