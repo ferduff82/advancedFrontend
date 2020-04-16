@@ -8,4 +8,4 @@ También sirven para compartir con el equipo, para comunicar y probar ideas.
 Para hacer wireframes lo mejor es dibujar y no tener miedo de romper.
 También se puede usar para testear con usuarios.
 
-SE RECOMIENDA NO UTILIAR COLORES.
+SE RECOMIENDA NO UTILIZAR COLORES.

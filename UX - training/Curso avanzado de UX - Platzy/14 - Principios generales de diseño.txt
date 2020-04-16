@@ -1,0 +1,17 @@
+
+Principios generales de diseño:
+
+Los principios de diseño constituyen un elemento fundamental dentro del proceso de UX.
+
+10 principios de diseño formulados por Dieter Rams:
+
+1 - El buen diseño es innovador.
+2 - Proporciona utilidad.
+3 - Es estético.
+4 - Hace comprensible el producto.
+5 - Es discreto, neutro y sobrio.
+6 - El buen diseño es honesto.
+7 - Tiene un valor duradero.
+8 - Concibe hasta el último detalle (la calidad está en el detalle).
+9 - Respeta el medio ambiente.
+10 - Aboga por la simplicidad.

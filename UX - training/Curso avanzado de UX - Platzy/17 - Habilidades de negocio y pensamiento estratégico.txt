@@ -1,0 +1,37 @@
+
+Habilidades de negocio y pensamiento estratégico
+
+Cuando tomamos decisiónes de diseño tenemos que tener en claro que esas decisiones 
+pueden impactar en cuestiones que van más allá de las pantallas y de los procesos.
+Es por eso que lo primero que necesitamos conocer para abordar un proyecto de 
+diseño son los objetivos de negocio del proyecto.
+
+LO PRIMERO QUE NECESITAMOS CONOCER PARA ABORDAR UN PROCESO DE DISEÑO 
+SON LOS OBJETIVOS DE NEGOCIO DEL PROYECTO.
+
+Como estan descritos esos objetivos?
+No nos sirve cualquier definición.
+
+Como describir los objetivos de una forma consistente:
+Encuadre SMART.
+
+Specific:
+Los objetivos deben ser específicos, deben estar descritos yendo a lo concreto.
+No me sirven declaraciones de intenciones ni meta estructuras.
+Ej: Quiero vender 30000 zapatos a la semana y hacerlo de manera proporcional a la temporada.
+
+Measurable:
+Los objetivos deben ser medibles, necesitamos indicadores cuantitativos para poder evaluar los objetivos.
+Necesitamos los KPIs.
+Los 30000 zapatos son el KPI a medir.
+
+Attainable:
+Los objetivos deben ser alcanzables, no es buena idea plantear objetivos imposibles.
+Si yo tengo una capacidad de producción de 30000 zapatos a la semana no puedo pretender hacer 30000 al día.
+
+Relevant:
+Los objetivos deben ser relevantes, no tiene sentido plantear objetivos 
+que no estén relacionados con mi sector.
+
+Timely:
+Los objetivos deben tener una delimitación temporal, esa semana es la delimitación temporal.
