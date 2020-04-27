@@ -1,0 +1,51 @@
+
+
+Aplicar las necesidades de los usuarios
+
+En este proyecto en particular tenemos 2 grupos de usuarios con necesidades distintas:
+
+- Por un lado tenemos a LA EMPRESA ya que es quien compra la aplicación.
+- Por otro lado tenemos a LOS EMPLEADOS DE LA EMPRESA ya que son a quienes queremos estimular adoptar el comportamiento 
+de viajar al trabajo por medios más ecológicos.
+
+
+
+MOTIVADORES:
+
+La empresa:
+
+- Podría interesarle dar una imagen de sustentabilidad y modernidad al promover 
+una aplicación que busca alternativas para ir al trabajo.
+
+- Favorecer la interacción entre empleados al viajar juntos si hacen car poling.
+
+Los empleados:
+
+- Pueden sentirse personas que colaboran con el medio ambiente.
+
+- Ejercitarse, podemos darle los motivos para hacer actividad física.
+
+- Conocer mejor a sus compañeros.
+
+
+
+PAIN POINTS:
+
+La empresa:
+
+- La salud de los empleados, los empleados se estresan y tienen problemas relacionados
+con el sedentarismo, el estress del trafico y medios de comunicación y la app talvez pueda ayudar con eso.
+
+- Falta de espacios para estacionar, si logramos que los empleados vayan por medios alternativos
+podemos reducir el parque automotor.
+
+Los empleados:
+
+- Bajar el estres al transportarte en medios alternativos y hacer ejercicio.
+
+- Un viaje largo y aburrido que tal vez con otra persona puedo hacer más llevadero.
+
+- Compartir el gasto de gasolina o reducirlo.
+
+- Recibir algún bono, si la empresa está dispuesta a incentivarme para que yo busque algún medio alternativo.
+tal vez con dinero o más vacaciones, etc.

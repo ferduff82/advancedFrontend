@@ -1,0 +1,27 @@
+
+Necesidades de usuarios:
+
+Cuáles son las necesidades/problemas/oportunidades insatisfechas que tenemos el potencial de atender.
+
+- En primer lugar se pueden encontrar problemas que nuestros usuarios directamente nos estan planteando.
+- En segundo lugar podemos identificar oportunidades que los usuarios no estén diciendo explícitamente pero
+que nosotros identificamos que pueden llegar a funcionar.
+
+ESAS NECESIDADES TIENEN QUE ESTAR INSATISFECHAS, SI NOS PONEMOS A HACER ALGO QUE YA ESTÉ HECHO HAY POCAS POSIBILIDADES
+DE LOGRAR ALGO INTERESANTE.
+
+- Por otro lado tenemos que ser capaces de atender esa necesidad con la tecnología y recursos que tenemos.
+
+- Evita mezclar necesidades con posibles soluciones.
+(Por ej. Si la gente quiere realizar los pagos más rápido no significa que necesariamente tenga que hacerlo por teléfono
+planteando el teléfono como solución).
+
+
+Pueden ser dolores: Son cosas que los usuarios reconocen y buscan solucionar.
+Motivadores: Son cosas que los usuarios no reconocen, pero si lo solucionamos pueden ser interesantes para ellos.
+Pueden ser funcionales “Necesito hacerle un seguimiento a mi compra” o emocionales ("Necesito sentirme a salvo).
+
+Detecta oportunidades.
+Muchas veces ni siquiera hay un PAIN en lo usuarios sino que se detecta un motivador.
+Por ejemplo el caso de IPHONE, no había un PAIN con nuestros celulares en ese momento, sin embargo cuando
+apareció IPHONE todos queríamos uno.
