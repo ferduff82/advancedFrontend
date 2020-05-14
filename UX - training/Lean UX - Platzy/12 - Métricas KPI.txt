@@ -1,0 +1,51 @@
+
+Métricas y KPI's:
+
+Esta es la parte final del SCOPE CANVAS.
+
+Las métricas son los datos que nos van a decir que todo lo construido en el SCOPE CANVAS está teniendo sentido y funciona o no.
+
+- A través de que indicadores vamos a ver nosotros que nuestros objetivos se están cumpliendo?
+
+- Las métricas tienen que estar relacionadas con las acciones y con los objetivos.
+
+- Pueden ser estandarizadas (como las que enseñan en las escuelas de negocios) o nosotros podemos crear nuesras propias métricas.
+
+- Pueden ser cualitativas (satisfacción, lealtad, recomendabilidad, etc) o cuantitativas (que miden ingreso, performance, efectividad, etc).
+
+ - DEBEN SER IMPACTABLES POR EL PROYECTO, es decir son una medida de éxito o falla del proyecto.
+
+
+Ejemplos: 
+
+- Recurrencia de uso: 
+Que tan frecuentemente es usado un producto o un servicio.
+
+- Tiempo de completado de la tarea: 
+Si una tarea lleva mucho tiempo en realizarse por un usuario podemos rediseñarla para que
+le lleve menos.
+
+- Número de peticiones de soporte al mes:
+Se supone que si estamos creando un servicio que agiliza algo la cantidad de peticiones a soporte deberían bajar.
+
+- Chum rate:
+Es una métrica estandar, cuando tenes un negocio de suscripción cuantas personas te están abandonando.
+
+- NPS:
+Métrica estandar, recomendabilidad de un producto o un servicio de 0 a 10 
+(encuestas para saber si recomendaríamos este producto).
+
+
+Evitar las vanity metrics.
+
+- Métricas que se ven bien en el papel pero no tienen ningún impacto en los objetivos.
+
+Ejemplos:
+
+Si el objetivo es CONSEGUIR MÁS INGRESOS la cantidad de FOLLOWERS EN REDES SOCIALES no sirven para medir eso.
+
+Si el objetivo es AUMENTAR LA RECOMENDACIÓN la cantidad de VISITAS AL SITIO WEB no sirven para medir eso.
+
+Si el objetivo es CONSTRUIR UN NEGOCIO RENTABLE los PREMIOS EN CONCURSOS no sirven para medir eso.
+
+

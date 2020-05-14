@@ -1,0 +1,10 @@
+
+Las Acciones nos ayudar a bajar nuestras ideas a cosas concretas y objetivas 
+para entender si estamos satisfaciendo las necesidades de nuestros usuarios de manera correcta.
+
+Las Acciones son concretas, objetivas y observables.
+
+¿Qué cosas esperamos que hagan nuestros usuarios?
+Aquellas acciones cruciales que logran tracción en el proyecto
+
+Si no son suficientemente concretas, debemos aterrizarlas para después poderlas medir.

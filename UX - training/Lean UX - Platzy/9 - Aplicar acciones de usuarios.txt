@@ -1,0 +1,17 @@
+
+Ejemplos de acciones:
+
+Al igual que en las necesidades acá también tenemos 2 grupos de usuarios, la empresa y el empleado.
+
+- La empresa:
+
+Ofrecer recompensas.
+Que le ampresa promueva la aplicación a los empleados.
+Que la empresa compre la suscripción.
+
+- Los empleados:
+
+Que los empleados vayan al trabajo caminando.
+Que los empleados vayan al trabajo en bici.
+Que hagan carpooling.
+Que usen el transporte público.

@@ -1,0 +1,17 @@
+
+Customer journey map
+
+Customer Journey complementa Scope Canvas para validar las necesidades del usuario.
+
+Es una interpretación visual de la relación de una persona con un servicio, producto, empresa, 
+etc. a lo largo de un tiempo determinado.
+
+¿Para que sirve?
+
+Para sintetizar ideas y hallazgos extraídos de la investigación de usuarios.
+Para generar discusión compartida con compañeros y stakeholders.
+Para retratar la realidad.
+Para diseñar una realidad nueva.
+Nos ayudará a validad las necesidades (dolores y motivadores) en el Scope Canvas. De una manera muy visual nos permite ir viendo donde el usuario está feliz o triste de una manera colaborativa y fácil de entender.
+
+Para poder mapear el viaje de un cliente, debemos primero observarlo en contexto.
