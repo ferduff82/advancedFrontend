@@ -1,0 +1,50 @@
+
+LEAN UX Conclusión (vs WATERFALL)
+
+Lean se centra en el aprendizaje constante y frecuente, 
+la idea es tomar contacto con la realidad lo más rápido posible.
+
+Lean dice: Los seres humanos somos malos estimando a largo plazo 
+y por ende propone trabajar en cíclos cortos.
+
+Lean la baja el riesgo al proyecto al ponernos menos presión ya 
+que no es necesario tener todo definido desde el principio sino que
+define que el aprendizaje es constante e iterativo.
+
+
+Lean está atado a la idea de MVP o producto mínimo viable. 
+Necesitamos hacer lo mínimo para salir al mercado lo antes posible 
+y en función de los resultados que obtenemos del mercado es que 
+incorporamos ese aprendizaje a la siguiente iteración.
+
+
+Lean UX se integra con desarrollo de manera SEAMLESS:
+Es decir no hay un punto donde se termina la etapa de diseño y 
+comienza la de desarrollo, sino que cada diseño que se realiza
+es algo que ya se puede comenzar a implementar y gradualmente 
+LEAN UX se termmina convirtiendo en AGILE UX (tienen la misma 
+filosofía de trabajo, la única diferencia es que están en etapas
+diferentes del proyecto. AGILE sucede en la etapa de implementación).
+
+En LEAN UX el trabajo de diseño no termina nunca. Siempre está
+vivo y evolucionando en el tiempo, esto porque las necesidades del
+cliente cambian, cambia el mercado, cambia la tecnología, cambian
+los estándares.
+
+--------------------------------------------------------------------------------
+
+WATERFALL apuesta por una estimación completa a largo plazo desde el principio.
+
+WATERFALL quiere planificar todo desde el principio, el problema con esto es que
+nos privamos de la idea de realizar mejoras y asume que al momento de iniciar el 
+proyecto ya sabemos todo lo que hay que saber.
+
+WATERFALL diseña el producto completo antes de lanzarlo al mercado.
+
+En WATERFALL hay un HANDOVER de diseño a desarrollo, la etapa de desarrollo no puede
+comenzar si no terminó la etapa de diseño. Esto puede traer problemas ya que el
+equipo de desarrollo no está integrado al proyecto desde el principio como el equipo 
+de diseño. Muchas cosas el equipo de desarrollo va a tener que tomár decisiones 
+sobre cosas faltantes ya que el diseñador no va a estar más.
+
+En WATERFALL el producto se termina y se entrega.

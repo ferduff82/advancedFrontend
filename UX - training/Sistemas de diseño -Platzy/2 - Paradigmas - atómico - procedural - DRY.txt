@@ -1,0 +1,26 @@
+
+Paradigmas: Diseño atómico, diseño procedural y DRY
+
+
+Existen varios paradigmas de diseño que pueden guiarte en la construcción de tu sistema de diseño.
+
+El paradigma procedural es la construcción de objetos variados para posteriormente construir nuestros 
+sistemas a partir de estos elementos, es la construcción de funciones que en el futuro se construirán 
+a sí mismas. En vez de construir todos los objetos de nuestro sistema, vamos a trabajar los elementos 
+y reglas que se resolverán después. Por ejemplo, construir las mangas, el cuello u otros elementos 
+para al obtener el resultado de un abrigo.
+
+Otro paradigma que debemos entender es el diseño atómico para organizar los elementos de nuestros diseños 
+y software. Los elementos independientes más sencillos de nuestro sistema (labels, inputs, botones, 
+títulos, etc) los conocemos como átomos, pero cuando juntamos átomos construimos moléculas, elementos 
+sencillos unidos entre sí (un buscador por ejemplo, el conjunto de label + input + botón), y formamos 
+organismos cuando juntamos moléculas (por ejemplo, una barra de navegación con logos, enlaces y un buscador).
+
+Con la suma de estos organismos generamos templates, la forma más básica de nuestras plataformas 
+qué podemos utilizar en diferentes partes de nuestros diseños aplicando pequeños cambios en los 
+átomos, y cuando aplicamos estos cambios para las partes especificas de nuestro sitio obtenemos 
+páginas, el resultado final de toda la organización de elementos independientes hasta formas 
+conjuntos de organismos complicados y armónicos entre sí.
+
+Por último, vamos a entender el paradigma dry (Don’t Repeat Yourself) para construir elementos 
+reciclables y no gastar tiempo volviendo a construir los mismos objetos una y otra vez.

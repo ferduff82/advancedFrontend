@@ -1,0 +1,33 @@
+
+Principios del Sistema de Diseño
+
+Los principios del diseño son la base fundamental de los paradigmas y 
+metodologías que aplicaremos en nuestro sistema. Todas las decisiones 
+que tomemos deben tener en cuenta y fundamentarse en estos principios, 
+así evitamos cometer errores o generar conflictos, ya que todos los caminos 
+serian correctos.
+
+Principios del sistema de diseño:
+
+Accesibilidad: Nuestro producto debería ser usable para cualquier 
+usuario, debemos construir productos perceptibles, operables, entendibles 
+y robustos.
+
+Consistencia: Todo el equipo deben tener los mismos objetivos y deben 
+hablarle de la misma forma a los usuarios, sea visualmente o por escrito.
+
+Reusabilidad: Cada hora que invirtamos trabajando en algún componente debe 
+servir para construir otros componentes y evitar que tu o alguien más tenga 
+que reconstruir nuestro trabajo.
+
+Shareable: Debemos construir y trabajar con herramientas que nos permitan 
+compartir todo nuestro trabajo.
+Podemos añadir otros principios que se adecuen correctamente a nuestra 
+empresa, pero debemos tener cuidado de que todos estos principios sean 
+compatibles entre sí.
+
+En nuestro caso, añadiremos los principios de User Control (el usuario 
+debe tener la sensación de control sobre el producto), Forgiveness (debemos 
+permitir que el usuario pueda cambiar de opinión o volver a empezar algún 
+proceso) y Perceived stability (aún con plataformas robustas y complejas, 
+el usuario debe percibir los procesos tan simples y familiares como sea posible).

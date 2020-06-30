@@ -1,0 +1,26 @@
+
+Testear
+
+Testear los prototipos con los usuarios reales.
+Lo ideal de esta etapa es equivocarnos para aprender de nuestros errores y evitar equivocarnos en nuestra etapa de desarrollo.
+No tomar los errores como errores sino como oportunidades de mejora.
+
+- Testeando con 5 usuarios se resuelve el 80% de los problemas
+
+Seleccionar los lugares donde testear, no es lo mismo testear en una sala cómoda que testear en la estación de uso.
+Por ejemplo en el auto manejando.
+
+Etapas de pruebas:
+
+1 - Definir la hipótesis
+	Entender que es lo que queremos aprender. Plantear un objetivo de que queremos aprender.
+2 - Definición de métricas
+	Vamos a tomar métricas de esos objetivos.
+	Vamos a trabajar con indicadores KPIS para validar las hipótesis o refutarla.
+	Es importante estar sincrónizados con el equipo sobre que vamos a medir y de que manera.
+3 - Tareas y escenarios
+ 	Desarrollamos un guión con tareas para el usuario.
+ 	NO PODEMOS INDICARLES TOCA ESTO O HACE ESTO PORQUE ESTARÍAMOS GENERANDO UN SESGO Y NO VAMOS A PODER VER SI EL USUARIO ESTA RESOLVIENDO LOS FLUJOS DE LAS PANTALLAS.
+ 	Cuando el usuario pregunta directamente donde tocar lo ideal es devolverle la pregunta, vos que harías? si estuvieses solo como lo resolverías?
+4 - Reclutamiento
+	El reclutamiento tiene que ser con usuarios reales, tienen que cumplir con el perfil de PERSONA que creamos al principio.

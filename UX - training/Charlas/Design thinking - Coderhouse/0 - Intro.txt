@@ -1,0 +1,25 @@
+﻿
+Design Thinking
+
+Link a la charla: coderhouse
+
+https://www.youtube.com/watch?v=4bX6ufsu8O4&t=3041s
+
+
+Sus características son: 
+
+1 - Es multidisciplinario: Es un trabajo en equipo donde se trabaja en distintas areas
+2 - Promueve le innovoación
+3 - Está centrado en el usuario
+
+El objetivo es tomar una postura empática de las personas de tal forma que se pueda entender cuales son las necesidades a satisfacer.
+SIEMPRE SE TRABAJA CON DATOS REALES.
+
+Objetivos:
+- Personas: La interfaz tiene que ser atractiva, hay que empatizar.
+- Tecnología: factible, eficiente y adecuada
+- Negocio: Viable y realizable en el tiempo
+
+CUANDO ESTOS 3 MUNDOS SE ALINEAN PODEMOS HABLAR DE INNOVACIÓN EN EXPERIENCIA.
+
+Para empezar es necesario pasar por 3 pasos: Entender, Explorar y Materializar

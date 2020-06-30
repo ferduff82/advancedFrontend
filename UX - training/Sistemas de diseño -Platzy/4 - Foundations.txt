@@ -1,0 +1,13 @@
+
+Los sistemas de diseño son un conjunto de reglas que organizamos con nuestros equipos, 
+y los fundations son las partes más básicas que podemos configurar en nuestro sistema. 
+Vamos a repasar cada una de estas bases mientras escribimos la documentación en Notion:
+
+Tipografía
+Colores
+Layout y spaces (son las formas y espacios fundamentales que utilizamos para ordenar los 
+elementos de nuestro sistema)
+Iconografía
+Styles (nuestra marca puede presentarse con estilos juguetones o realistas, lo importante 
+es definir tan claro como sea posible qué intentamos transmitir)
+Tono (con qué personalidad o de qué forma debemos hablar con nuestra audiencia)
