@@ -1,0 +1,14 @@
+
+ Seleccionar el tipo de usuario desde segmentos
+
+ Todo lo mismo que se selecciona en "Filtros" se puede hacer por "Segmentos".
+ (esto es al principio de un reporte ej. en print A).
+
+ - Para segmentar los "Usuarios nuevos" y los "Usuarios recurrentes" ir a: 
+ + Añadir segmentoSistema -> Usuarios nuevos / Usuarios recurrentes (ver print B).
+
+ 
+ - Para armar un segmento de progreso ira a: 
+ + "Visión general" -> seleccionar la franja en el calendario (ver print C).
+ 
+ 

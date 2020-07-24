@@ -1,0 +1,42 @@
+
+
+ Comprobar con datos reales nuestro análisis de tipos de usuarios
+
+ DIMENSIÓN SECUNDARIA
+
+ - Ir a "Comportamiento" -> "Nuevos vs Recurrentes"
+
+ - La "dimensión secundaria" agrega una nueva columna para ver datos.
+
+ - En este caso vamos a ver la Dimensión secundaria de "Numero de sesiones".
+
+ (Ver print de pantalla "Dimensión secundaria")
+
+ - Como se ve en la imagen, en la columna número de sesión, los usuarios con más de 1 sesión son Recurrentes.
+
+
+
+ Imaginemos que nosotros queremos saber de donde vienen esos usuarios geográficamente
+ y de esa geografía cuales nos traen mayores ingresos. (esto se aborda también a través de la dimensión secundaria)
+
+ FILTROS
+
+ - Como solo nos interesa focalizar en "Usuarios nuevos" vamos a agregar un "FILTRO".
+
+ - Para ir a filtro vamos a hacer click en avanzado o en buscar 
+
+ (ver print de pantalla)
+
+ - En nuestro filtro ya está preseleccionada la dimensión de "Tipo de usuario".
+ Dentro de tipo de usuario vamos a seleccionar "Que contienen" (contienen o son iguales) 
+ y escribir "New Visitor".
+
+ (ver print de pantalla)
+ 
+ - Finalmente agregamos la dimensión secundaria de país para ver de donde están viniendo los usuarios
+ 
+ (ver print de pantalla)
+
+ - También se puede ver en modo "chart" y ver la métrica de "ingresos"
+
+ (ver print de pantalla)

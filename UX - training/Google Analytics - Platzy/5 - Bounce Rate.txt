@@ -1,0 +1,34 @@
+
+ Porcentaje de rebote (Bounce rate)
+
+ Para entender el porcentaje de rebote primero es necesario entender
+ los conceptos de ENTRADA vs SALIDA:
+
+ En una sesión tipo de un usuario, el usuario comienza su visita 
+ de una página A (entrance) a una página B (exit).
+
+
+ Un rebote es cuando en una sesión la página de entrada es igual 
+ a la página de salida, es decir, el usuario entró a una página A
+ no consumió nada (no realizó ningún evento ni visitó una página B)
+ y ahí mismo terminó su sesión.
+
+ El porcentaje de rebote es la tasa de usuarios que entraron a 
+ la página A y terminaron saliendo (también se lo denomina tasa de vómito).
+
+
+ En algunos casos como por ejemplo WIKIPEDIA. Si vos lees por horas pero 
+ no haces ningún click Google Analytics considera que estás generando un
+ rebote lo cual es un poco contraintuitivo y es un problema a corregir que 
+ sucede comunmente en este tipo de páginas como blogs.
+
+ No es siempre malo necesariamente tener una alta tasa de rebote.
+ Por ejemplo el caso de Wikipedia ya expuesto. Es decir, esta métrica puede
+ ser engañosa en algunos casos ejemplo un blog o Wikipedia.
+ En este tipo de sitios el porcentaje de rebote puede ser alto.
+
+ - Como resolver este problema de rebote alto en páginas tipo Wikipedia o blogs?
+
+ Una de las formas es disparando un evento de scroll con Google analytics.
+ De esta forma Analytics reemplaza el evento de click away por un scroll.
+ 

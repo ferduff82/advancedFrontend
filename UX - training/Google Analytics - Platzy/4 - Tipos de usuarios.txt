@@ -1,0 +1,24 @@
+
+ Tipo de usuarios:
+
+ Vamos a definir la METRICA DE USUARIOS NUEVOS y la METRICA DE SESIONES.
+
+
+ METRICA DE USUARIOS NUEVOS:
+
+ Para ello primero hay que entender el concepto de la dimensión de tipo de usuario.
+
+ 
+ EJ:
+ En este esquema (IMAGEN.png) habíamos calculado la cantidad de usuarios que se 
+ conectaron durante 3 meses, asumamos que estos son los primeros 3 meses de vida 
+ de un sitio.
+ En este caso, sería bueno saber:
+ "que usuarios se conectaron solo 1 vez vs los usuarios que se volvieron a conectar dividiendo los períodos por mes".
+
+ NO SE PUEDEN SUMAR USUARIOS NUEVOS CON USUARIOS RECURRENTES.
+
+ 
+ METRICA DE SESIONES:
+
+ Una sesión es un conjunto de interacciónes que se da en un período determinado.

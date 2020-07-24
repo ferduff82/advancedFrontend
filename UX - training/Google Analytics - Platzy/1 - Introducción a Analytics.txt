@@ -1,0 +1,36 @@
+
+
+Que es y para que sirve Analytics?
+
+- Puedes saber, cuantas son las visitas que tiene este sitio.
+- Que características tienen esas visitas?
+- A través de que canales llegaron a este sitio?
+- Estas personas estan cumpliendo su objetivos de comprar el productor que quieren?
+- Estas vos cumpliendo el objetivo de venderles productos?
+Todo eso se puede saber con Analytics.
+
+Se pueden saber muchas más cosas con Analytics:
+
+- El desafío es que la AUDIENCIA pase por una serie de pasos hasta
+cumplir el objetivo de VENDER MERCHANDISING. 
+Esto se conoce como un FUNNEL.
+
+Este FUNNEL puede verse de 2 caras:
+
+- Puede verse como un usuario que esta recorriendo nuestro sitio web con un objetivo.
+- Puede verse como nosotros guiando al usuario para que cumpla ese objetivo y así nosotros cumplir el nuestro.
+
+Detalle del FUNNEL:
+
+1) Audiencia - Entender a nuestro público objetivo: 
+   Que edad tiene, que intereses tiene, donde está ubicada?
+
+2) Adquisición - Atraerlo a nuestro sitio web:
+   Por que canal llegó a nuestro sitio web? medio pago, medio orgánico, por mail, facebook, google?
+
+3) Comportamiento - Facilitarle el proceso de compra:
+   Que sitios visitó, cuanto tiempo estuvo en ellos, cual fue el flujo de navegación?
+
+4) Conversiones - Lograr la compra:
+   Con que tasa están ocurriendo respecto a nuestras visitas al sitio?
+

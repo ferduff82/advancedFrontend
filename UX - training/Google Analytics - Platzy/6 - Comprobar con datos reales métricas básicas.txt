@@ -1,0 +1,17 @@
+
+ Comprobar con datos reales las métricas básicas
+
+ 
+ Ir a "Audience" -> "Visión general"
+
+ Ejemplo de comprobación en el archivo excel.
+
+ - Para general reportes mensuales seleccionar el rango y ver los datos.
+
+ - IMPORTANTE: Como ya se había dicho, la cantidad de usuarios por mes no pueden sumarse 
+   ya que estarías contabilizando a los usuarios que son recurrentes.
+
+ - Para poder ver la métrica de Usuarios Nuevos vs Recurrentes ir a "Comportamiento" -> "Nuevos vs Recurrentes"
+   (Tampoco podemos sumar los nuevos con los recurrentes por razones obvias).
+
+

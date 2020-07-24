@@ -1,0 +1,35 @@
+
+ Estructura básica de GA:
+
+ - Los reportes se realizan en: Audiencia -> Visión general.
+
+ Las métricas básicas que vamos a utilizar son:
+
+ - Usuarios
+ - Usuarios nuevos
+ - Sesiones
+ - Número de sesiones por usuario
+ - Número de visitas a páginas
+ - Páginas / sesión
+ - Duración media de la sesión
+ - Porcentaje de rebote
+
+ 
+ Cómo se estructura una cuenta de GA:
+
+ Existen Dimensiones y métricas dentro de un reporte. 
+ Y a eso le sumamos Filtros, Segmentaciones.
+
+Las dimensiones son atributos de los datos. Por ejemplo, 
+la dimensión Ciudad indica la ciudad (como “Bogota” o “Caracas”) 
+desde la que se origina una sesión.
+La dimensión Página indica la URL de una página vista.
+Las métricas son dimensiones cuantitativas.
+
+En su mayoría, los valores de dimensión se organizan por filas y las métricas por columnas.
+
+EJ:
+
+Dimensiones (demographics, system, mobile)
+Metrics (users, new users,session, session peru user, pagviews, Pages/session, Av. Session, Bounce rate, etc)
+Filtros (dimensiones, segmentaciones, tiempo)

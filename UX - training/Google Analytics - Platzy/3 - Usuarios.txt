@@ -1,0 +1,19 @@
+
+Las métricas
+
+Son el resultado de la necesidad de cuantificar con el objetivo de COMPARAR.
+Se compara para saber si los valores son normales o distintos y poder ver la evolución en el tiempo.
+
+Como evitar que Analytics registre al mismo usuario conectandose desde 
+distintos dispositivos:
+https://www.blog.google/products/marketingplatform/360/cross-device-capabilities/
+
+
+- En analytics USUARIOS no es lo mismo que PERSONA
+
+- La métrica de sumar usuarios puede ser engañosa ya que esconde que hay
+usuarios que se conectan una vez en un período o múltiples veces en un período.
+Por ende: LA SUMA DE USUARIOS es distinta a LOS USUARIOS TOTOLES.
+
+Es importante que al hacer reportes elijas el TIME FRAME adecuado a la pregunta 
+que queres contestar PERO JAMÁS SUMES USUARIOS DEL MES ANTERIOR.
