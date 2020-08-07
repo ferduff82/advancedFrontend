@@ -1,0 +1,19 @@
+
+ Reporte de audiencia: Rangos de edades
+
+ Si vamos a la categría de AUDIENCIA podemos ver varios reportes.
+
+ + Datos demograficos provee información sobre las características de las personas que entran en nuestro sitio.
+
+ - Ir a "audiencia" -> "datos demográficos" -> "Edad".
+
+ Para poder utilizar los datos de género o de edad necesitas dar autorización a Google para que se vincule información
+ de tu cuenta de Analytics a su red de Display. Google aproxima los datos del tipo de sitios que el usuario consume para
+ conocer la edad del mismo.
+
+ - Hacemos click en Habilitar (ver screen de pantalla 12 - A - Habilitar)
+
+ - Una vez habilitado podemos ver los datos demográficos de nuestros usuarios y con ellos dirigir nuestras estrategias
+   utilizando estos datos.
+
+ + Para poder obtener métricas de compras debemos activar la configuración de E-COMMERCE.
