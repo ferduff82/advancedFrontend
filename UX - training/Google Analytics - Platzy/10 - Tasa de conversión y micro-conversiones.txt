@@ -1,0 +1,10 @@
+
+ Tasa de conversión y micro-conversiones
+
+ Dentro del FUNNEL puede haber varios objetivos:
+
+ 1 - Generar una venta (screen A)
+
+ 2 - Hacer que el usuario deje el email 
+
+ 3 - Obtener el valor de avance en cada etapa del funnel (screen B)

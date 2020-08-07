@@ -1,0 +1,51 @@
+
+ Enseñar a medir conversiones y funnel de conversion.
+ (ver print de pantalla).
+
+
+ Un usuario que cumple un OBJETIVO se llama Conversión.
+
+ - Tenemos que indicar a Analytics cual es la conversión.
+
+ 
+ + Para indicar a Analytics cual es la página de conversión:
+
+ 1 - Copiar la uri del sitio web
+
+ 2 - Ir a "administrar"
+
+ 3 - Ir a objetivo
+
+ 4 - + Nuevo objetivo
+
+ 5 - Seleccionar plantilla y agregar la descripción del Objetivo / tipo
+
+ 6 - ingresar la uri copiada y GUARDAR.
+
+ 
+ + Para visualizar las conversiones en tiempo real:
+
+ 1 - Ir a "En tiempo real"
+
+ 2 - Ir a "Conversiones"
+
+
+ + Para identificar cual es el FUNNEL (configurar embudo de conversión):
+
+ 1 - Volver a la configuración del objetivo
+
+ 2 - Activar embudo de converesión
+
+ 3 - Agregar Uris del embudo.
+
+ (no hay visión de tiempo real del FUNNEL)
+
+
+ + Para ver como se comporta el embudo de conversión creado:
+
+ 1 - Ir a "Conversiones"
+
+ 2 - Ir a "Objetivos"
+
+ 3 - Ir a "Gráfico del embudo de conversión"
+ 

@@ -1,0 +1,18 @@
+
+ El uso de los reportes en GA
+
+
+ - Tenemos que recordar nuestro ESQUEMA MADRE (ver print: 3 - Esquema base del curso.png)
+   donde tenemos reportes de audiencia, adquisición, Comportamiento y Conversión.
+
+
+ Es necesario recordar la estructura de GA
+
+ + La "unión de Dimensiones" y métricas que van a generar todos los reportes de GA (ver print: 2 - Estructura de GA.png)
+
+ - Recordemos algunas métricas que vimos (ver print: 11 - A - Tipos de métricas.png)
+
+ - Respecto a las dimensiones vimos dimensiones de usuarios, de sesiones 
+   y de interacción (ver print: 11 - B - Tipos de Dimensiones.png)
+
+ - Esto se mezcla y normalente un reporte termina viendose así (ver print: 11 - B - tabla de reporte.png)
