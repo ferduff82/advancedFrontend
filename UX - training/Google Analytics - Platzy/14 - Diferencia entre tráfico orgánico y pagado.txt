@@ -1,0 +1,18 @@
+
+ Tráfico pagado vs tráfico orgánico
+
+ 
+ Cómo podemos separar el tráfico recibido en nuestro sitio por posteos orgánicos / pagados.
+
+ + Google analytics no es capaz de diferenciar una fuente orgánica de una paga. 
+   Para lograrlo es necesario hacer una configuración adicional.
+
+ - Para que analytics pueda determinar cual si la procedencia es por una campaña (paga).
+   El link de donde se clickea en la publicidad debe tener un parametro de campaña. Ej:
+
+   mipagina.com/?nombre_campaña=blog-animales
+
+
+ + El problema con esto es que los parametros escritos de cualquier forma pueden llegar 
+   a generar confusión, afortunadamente Analytics tiene una forma de estandarizar esos parámetros.
+   ESTO SE VE EN LA PRÓXIMA CLASE.

@@ -1,0 +1,35 @@
+
+ Reporte de audiencia: Intereses, ubicación y dispositivos
+
+
+ + Intereses
+ 
+ - Para ingresar al reporte de intereses ir debajo del reporte de "Datos demográficos" (ver print: 13 - A - Intereses)
+
+ En intereses podemos plantear nuestra estrategia comercial basada en los intereses de nuestros usuarios comparando 
+ por ejemplo la tasa de conversión más alta en cada Interes específico.
+
+ - Para ver las comparativas hay que ir a "Categoría de afinidad". (ver print: 13 - B - Intereses - Categoría de afinidad)
+
+
+ + Ubicación
+
+ - Ir a Información geográfica -> Ubicación (ver print: 13 - C - Información geográfica)
+
+ Podemos ver geográficamente los usuarios que entran y su tasa de conversión.
+
+
+ + Dispositivos
+
+ - Ir a Dispositivos móviles -> Visión general (ver print: 13 - D - Dispositivos móviles)
+
+ IMPORTANTE: Como Agregar "Dimensión secundaria" y luego un "Filtro". 
+ (ver print: 13 - E - Dimensión secundaria)(ver print: 13 - F - Filtro)
+
+ - En este ejemplo se ve que el navegador de Chrome en Desktop tiene una "tasa de conversión" de 0%.
+   Esto puede deberse a un problema técnico en Chrome por el cual los usuarios no pueden terminar la transacción.
+
+ - Otra métrica muy importante a ver es la "tasa de rebote". En el ejemplo "Mobile" tiene una tasa de rebote más
+   alta que la del resto de los dispositivos. (Un problema posible es que el sitio no sea responsivo).
+   Para poder testear esto se puede utilizar esta herramienta: https://developers.google.com/speed/pagespeed/insights/
+   Esta herramienta hace una auditoría del sitio.
