@@ -1,0 +1,59 @@
+
+ Microcopy
+
+● Títulos de la página
+● Encabezados de página
+(titulares)
+● Lemas
+● Líneas de asunto del correo electrónico
+● Resúmenes, mazos
+● Consejos, sugerencias,
+explicadores
+
+Titulares
+● Elimina las palabras que no son esenciales para mejorar la capacidad de escaneo
+● Mueve las palabras clave al frente del título para captar la atención de las personas y admitir el escaneo
+● Incluye palabras clave que aumenten la clasificación del contenido.
+
+Recomendaciones:
+
+Asegúrate que los titulares funcionan fuera de contexto
+Dile a los lectores algo útil
+Minimiza las exageraciones y modismos
+Omite palabras no esenciales
+Jerarquizar el contenido
+Líneas de asunto de correos electrónicos
+● Deja en claro el beneficio para el usuario
+● Da una respuesta a una necesidad
+particular
+● Explica claramente de qué se trata el
+correo electrónico en términos relacionados con el usuario
+
+Resúmenes de contenido:
+● Las breves descripciones pueden presentar a los lectores un contenido extenso que de otro modo no podrían leer.
+● Los resúmenes pueden ayudar en la comprensión al proporcionar contexto para la información en un artículo más largo.
+● Los resúmenes proporcionan atajos para las personas que desean obtener los puntos principales pero no desean leer el documento completo.
+
+El slug y la URL corta deben contener las palabras clave de tu texto
+No utilices pronombres, artículos, preposiciones ni conjunciones
+
+La página de tu empresa:
+Divide las páginas dependiendo del servicio que quieres mostrar:
+http://negocio.com/servicios/ 
+http://negocio.com/nosotros/
+
+Tienda en línea:
+Puedes utilizar categorías y productos. Decide en función de qué es mejor para tus clientes.
+http://negocio.com/producto/ 
+http://negocio.com/categoria/producto
+
+Tu blog o sitio de noticias
+Recuerda elegir la opción que le convenga a tu lector: 
+http://negocio.com/título-blog/ 
+http://negocio.com/categoria/titulo-blog 
+http://negocio.com/dd-mm-aa/titulo-blog
+
+Elegir las palabras claves:
+Short tail: General
+Middle Tail:
+Long Tail: Específica

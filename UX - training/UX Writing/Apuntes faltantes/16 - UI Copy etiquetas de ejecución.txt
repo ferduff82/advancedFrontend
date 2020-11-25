@@ -1,0 +1,8 @@
+
+ UI Copy: etiquetas de ejecución
+
+ Solo poner la marca en lugares específicos. Ej: Viaja con UBER.
+ No aplicar la marca por todas partes.
+
+ Utilizar verbos específicos para acciones, que no sean aleatorios como "SIGUIENTE".
+

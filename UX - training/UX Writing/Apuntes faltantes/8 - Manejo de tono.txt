@@ -1,0 +1,15 @@
+
+ Manejo del tono
+
+ - Tone spectrum
+
+ El tono de la comunicación debe variar dependiendo del paso en el que
+esté el usuario en ese momento de la App aún cuando el tono global ya haya 
+sido definido (esto se puede ver mejor a través del uso de un User Journey 
+para conocer cada paso de un caso de uso de un usuario).
+
+- Un ejemplo de esto en imagen 8 - A.
+La psicología del usuario en la frase "Book a room" le infiere compromiso,
+esto Google lo mejoró cambiando esta opción por "Check availability", 
+la cual es una frase más relajada y no implica un gran compromiso al hacer click.
+LA MEJORA FUE DE UN 17%.

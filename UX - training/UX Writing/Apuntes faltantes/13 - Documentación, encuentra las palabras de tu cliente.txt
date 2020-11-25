@@ -1,0 +1,24 @@
+
+ Documentación: encuentra las palabras de tu cliente
+
+ Para poder armar un manual de marca con el vocabulario a utilizar es necesario saber
+ que palabras importantes se pueden usar, para eso primero es necesario encontrar las palabras de tu cliente:
+
+ - Palabra
+ - Definición
+ - Historia
+
+ Ej. en print 13 - Encuentra las palabras de tu cliente
+
+ y luego saber:
+
+ - Qué palabras no podemos decir
+ - Porqué no?
+ - Sustituir por
+
+ Ej. en print 13 - Palabras que no decimos
+
+ Por otro lado es importante saber que KEYWORDS utiliza la competencia para poder
+ aprovechar los nichos de mercado de vocabulario que no se están utilizando.
+
+ Ej. en print 13 - Keywords competencia

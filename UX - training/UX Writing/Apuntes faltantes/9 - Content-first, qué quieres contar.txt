@@ -1,0 +1,6 @@
+
+ Content-first: ¿qué quieres contar?
+
+ "Content first" implica que el contenido debe ser lo más importante a tener en cuenta.
+ No se puede crear una arquitectura sin tener primero un contenido definido.
+ NO UTILIZAR LOREM IPSUM!!!
