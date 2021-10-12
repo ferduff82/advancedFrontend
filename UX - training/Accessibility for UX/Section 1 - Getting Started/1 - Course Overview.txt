@@ -1,0 +1,21 @@
+
+ - In this course they will teach us the ESSENTIALS and the VIOLATIONS in terms on accesibility
+
+ - ACCESSIBILITY: It means that people with disabilities can equally perceive, understand, navigate and
+		  interact with websites and tools.
+
+ (ACCESSIBILITY IS USABILITY FOR ALL - Interaction design foundation) 
+ (ACCESSIBILITY IS ESSENTIAL FOR SOME, BUT USEFUL FOR ALL - Wai) 
+ 
+ - USABILITY: It means a product is intuitive, efficient, delightfull, easy to understand,
+	      free of frustrations, asthetic, modern looking.
+
+
+ - ACCESSIBILITY will give you design constraints that will lead to better products for all of your users.
+
+ (USABILITY on it's own often does not sufficiently address the needs of people with disabilities. - Wai)
+
+
+ - This course will teach you how to seamlessly integrate accessibility in your design process.
+
+(you should always say: PEOPLE WITH IMPAIRMENTS, never say disabled people or impared people)

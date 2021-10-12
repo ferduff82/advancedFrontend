@@ -1,0 +1,13 @@
+
+ 1 - My users don't complain about accessibility, so we must be doing ok.
+     If users aren't complaining, maybe they are clicking away instead.
+
+ 2 - Fixing accessibility is expensive, isn't it?
+     It's ideal to do the job right at first so you don't have to pay to fix it later.
+
+ 3 - The market is just to small to justify time and effort.
+     In the UK there is 12 million people with disability.
+
+ 4 - Accessible design means boring design.
+     Embracing accessibility can open up innovation. 
+     Should work well for those that need it and be invisible for those that don't.

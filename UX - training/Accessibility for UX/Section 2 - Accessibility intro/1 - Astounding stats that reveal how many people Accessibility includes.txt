@@ -1,0 +1,18 @@
+
+ - Around the world, more than one billion people have some form of disability. 
+(Billion with a “B”!) So that’s about 15% to 20% of the world’s entire population. 
+How that relates to us is that: up to 20% of people who use the digital products we design, 
+rely on accessibility.
+
+- Using the United States as an example, in the U.S., 61 million adults live with a diagnosed disability. 
+That is 26% of adults. Or said another way that’s 1 in 4 adults. That’s a lot of people! 1 in 4 adults!
+
+- Google detected nearly 60 million distinct accessibility errors across 1 million homepages (exact number: 59,653,607). 
+That’s an average of 60 accessibility errors per page!
+
+
+Accessible products and digital experiences benefit everyone — not just people with diagnosed disabilities:
+
+1 - A screen reader isn’t only useful for blind people. Having what’s on the screen read out-loud has been shown to help with reading comprehension, focus, and concentration. It’s great for people with cognitive or learning disabilities. Or people learning a new language.
+2 - Closed captions on videos are useful for people who are deaf or hard of hearing – but closed captions are also useful if you can’t find your headphones and you don’t want to disturb your sleeping household (or a quiet library, or subway, or bus.)
+3 - Another example would be making a website mobile-friendly. This is vital for people with mobility impairments and those living with paralysis who have use of only their fingers — for them they can use a small, close-sitting smartphone, but they can't reach out to use a keyboard and mouse. So a website that is mobile-friendly is very important for accessibility, but as we know, mobile-friendly websites are also very useful for those without disabilities.

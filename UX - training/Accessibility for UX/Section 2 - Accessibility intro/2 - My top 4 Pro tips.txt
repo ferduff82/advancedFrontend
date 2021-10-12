@@ -1,0 +1,13 @@
+
+ 1 - Accessibility is essential for some, but useful for all.
+
+ 2 - The secret is to think in terms of addressing peoples’ difficulties and problems, 
+     not in terms of following a standards checklist to the letter.
+
+ 3 - It’s not designing for edge cases:
+     When we’re designing, it’s tempting to think that we are designing for “regular” users first, 
+     and then making alterations to accommodate users who have disabilities; like they are edge cases 
+     we have to compromise our core design for.
+
+ 4 - All usability issues are exacerbated if you have a disability.
+     And “accessibility” should be considered part of the definition of “usability”.
