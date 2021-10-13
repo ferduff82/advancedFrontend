@@ -1,0 +1,25 @@
+
+
+There are multiple degrees of compliance a group can aim for: Level A, Level AA (double A), 
+or Level AAA (triple A). Level A being the most lenient and Level AAA being the most strict.
+
+- For example, if you design digital products for U.S.-based businesses or organizations, 
+then you should know about these two U.S. laws:
+
+Section 508 which covers government agencies and organizations in receipt of government 
+funding such as universities.
+
+This is a section of the federal law that mandates certain electronic content (and other things) 
+conform to the accessibility standards of WCAG 2.0 Level AA. (More about who this applies to in the next lecture.)
+
+- The Americans with Disabilities Act (ADA) which covers businesses and, most often, their websites.
+
+Title III of the ADA mandates that places of public accommodation need to be accessible to those with disabilities. 
+In court, “public accommodations” has often included publicly accessible websites and other digital products.
+
+- Another example, if you design digital products for European-based businesses or organizations, 
+then you should know about...
+
+The EU Web Accessibility Directive (EN 501-349) which is binding on all member states of the European Union. 
+It requires all government and public sector organizations funded by governments to keep their websites accessible. 
+In 2018 this was updated to reference the WCAG 2.1 Level AA.

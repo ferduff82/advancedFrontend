@@ -1,0 +1,9 @@
+
+
+If the default theme has insufficient contrast, 
+then many will not be able to perceive that another option is available to them. 
+So the option that works for more people is never observed by them. 
+(Note: There’s nothing wrong with providing a theme that’s of higher contrast than the default, 
+as long as the default has sufficient contrast itself, which in the case of Instacart, it does not.)
+
+See example images
