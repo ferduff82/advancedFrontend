@@ -1,0 +1,14 @@
+
+ Avoid using this color combinations:
+
+ - Red and Green
+ - Green and Brown
+ - Green and Blue
+ - Blue and Gray
+ - Blue and Purple
+ - Green and Gray
+ - Green and Black
+
+ ACCESSIBLE COLOR COMBINATIONS:
+
+ https://toolness.github.io/accessible-color-matrix/

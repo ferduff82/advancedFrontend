@@ -1,0 +1,6 @@
+
+ COLOR INDEPENDENCE:
+ - For an interface to be accesible, color should not be used as
+ the only visual means of conveying information.
+
+ - This applies to elements that are information bearing.

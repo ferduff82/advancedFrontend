@@ -1,0 +1,17 @@
+
+
+ Color Contrast definition:
+
+ Color Contrast is a ratio between adequate contrast between the foreground color and the 
+ background color.
+
+ Choosing colors with good contrast makes navigating, reading and interacting a nightmare.
+
+ - Contrast problems are more common as we age
+ 
+ - With good colors, websites and applications can be easier to use in more situations like
+ In different lighting conditions
+
+ WEB ACCESSIBILITY IS ESSENTIAL FOR SOME AND USEFULL FOR ALL.
+
+ - NOT ALL ELEMENTS IN THE SCREEN NEED TO MEET THE COLOR REQUIREMENTS.

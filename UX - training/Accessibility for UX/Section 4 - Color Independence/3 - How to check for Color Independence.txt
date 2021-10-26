@@ -1,0 +1,6 @@
+
+ IMPORTANT
+ The best way to check for color independence is to turn the design gray.
+ SEE IMAGE EXAMPLE: "3 - IMAGE"
+ 
+ - It is also recommended to use a black an white wireframe to be the first design.

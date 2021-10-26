@@ -1,0 +1,26 @@
+
+1 - Use the grayscale test, to see if the data visualization can still be interpreted without the 
+benefit of color.
+
+2 - Still use color, since color-coding benefits people without vision impairments, just make 
+sure color is not used ALONE to convey the differences.
+
+3 - Use different pattern fills (when the area is large enough for a pattern fill to be seen), 
+and make sure the pattern color and the background color have a 3:1 contrast ratio.
+
+4 - Use different dashed/dotted line styles (and/or line widths) for line graphs. Different line 
+widths work when there’s a limited number of lines thus allowing the widths to be obviously different from one another.
+
+5 - Use different shapes for data points (for line graphs or node graphs).
+
+6 - Use relative luminance, where each color has a 3:1 contrast ratio with all of the other 
+colors of the color-coded part of the data visualization. A monochromatic color scheme 
+(all shades of 1 color) can make this easier to achieve when you have a lot of parts.
+
+7 - Add the values next to the data points when possible (e.g. next to each line, pointing to 
+each pie slice, hovering over each bar). These can be available by default for simple data 
+visualizations, or triggered on hover/on tap for visualizations that are more data-heavy.
+
+8 - When possible: Use interactivity to make it easier to get the specific value and/or label 
+for each data point. Also, use interactivity to show a line/area/region isolated on hover/tap 
+making it easier to see individual parts of the chart.
