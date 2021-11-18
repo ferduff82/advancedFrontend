@@ -1,0 +1,6 @@
+
+https://webaim.org/techniques/hypertext/
+
+https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-link-only.html
+
+https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.html

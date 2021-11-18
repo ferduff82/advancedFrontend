@@ -1,0 +1,2 @@
+
+The word SUBMIT should be avoided in buttons because it sounds like a transaction.

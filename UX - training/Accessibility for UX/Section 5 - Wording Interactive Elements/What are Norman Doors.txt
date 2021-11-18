@@ -1,0 +1,11 @@
+
+- What Are “Norman Doors”
+
+I’ve already introduced you to Don Norman, but do you know about “Norman Doors”?
+
+They are a great physical world example (or demonstration) of affordances vs. perceived affordances.
+
+A Norman Door is a door whose design tells the person to do the opposite of what they're actually supposed to do.
+
+In the usability world, when someone compares something to a Norman Door or calls it a “Norman Door”, 
+they are saying it’s a usability fail.
