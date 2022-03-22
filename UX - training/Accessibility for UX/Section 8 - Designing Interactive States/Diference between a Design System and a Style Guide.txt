@@ -1,0 +1,3 @@
+
+ El design system es más complejo cubre todos los design cases dentro de lo posible.
+ El Style guide solo provee de colores, tipografías y foundations para el diseño de la interfaz.

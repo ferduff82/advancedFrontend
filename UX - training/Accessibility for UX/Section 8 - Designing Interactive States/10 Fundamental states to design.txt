@@ -1,0 +1,32 @@
+The 10 Fundamental States to Design
+What Are All of the States That Need to be Designed?
+Well, if you go to WCAG and look up “states”, this is what WCAG will tell you:
+
+A state is a: Dynamic property expressing characteristics of a user interface component that may change in response to user action or automated processes.
+
+States do not affect the nature of the component, but represent data associated with the component or user interaction possibilities. Examples include focus, hover, select, press, check, visited/unvisited, and expand/collapse.
+
+Allow me to translate for you, because you know I’m not going to just leave you with the rulebook definition and send you on your way!
+
+The basic fundamental states to design for are:
+
+
+Default / Enabled
+
+Focus
+
+Hover
+
+Pressed / Active
+
+Visited → for links (or borderless buttons)
+
+Disabled
+
+Selected / Toggled (aka: activated, expanded)
+
+Processing (aka: loading, working)
+
+Abort (aka: cancel, terminate)
+
+Error → for form elements

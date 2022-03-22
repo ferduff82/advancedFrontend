@@ -15,3 +15,9 @@
  WEB ACCESSIBILITY IS ESSENTIAL FOR SOME AND USEFULL FOR ALL.
 
  - NOT ALL ELEMENTS IN THE SCREEN NEED TO MEET THE COLOR REQUIREMENTS.
+
+
+
+Success Criterion W3:
+
+https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html

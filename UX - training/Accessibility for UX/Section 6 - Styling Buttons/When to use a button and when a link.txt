@@ -1,0 +1,72 @@
+
+Have you ever thought about when to use a button and when to use a link?
+
+For me personally, it’s not something I gave much thought. I designed my interfaces based on visual hierarchy, and links are lower in the hierarchy, 
+so that’s how I approached things. But over the years I’ve had some new insights, and now I'm going to pass them on to you :)
+
+Specifically 3 things — Why, How, and When:
+
+Why
+Why does it matter which one you use?
+
+It’s so easy to mix up buttons and links because CSS allows you to style links like buttons, and buttons like links. As you know, in design we can create 
+a link that looks like a button, and we can create a button that looks like a link.
+
+In our mockups, we can basically do whatever we want. But that same statement is not true for the code, right? In the HTML a button and a link are two 
+different types of actions. And when a button is used when it should have been a link, or vice versa, it negatively affects accessibility. What we do in 
+our designs, will translate to the code - so if we design something that looks like a button the developers will assume it needs to be programmed as a button. 
+But if it actually should have been a link, but you just wanted it to look like a button - that all gets confusing and messy.
+
+The point is: we need to appropriately and consistently use the correct element (link or button). That way it’s a frustration-free experience for the 
+developers to directly translate what we mocked-up into HTML elements. And our accessibility isn’t messed up by elements masquerading in outfits that 
+are disguises (e.g. a link dressed up like a button, but it’s a lie).
+
+How
+How does using the wrong element negatively affect accessibility?
+
+I’ll answer this with a little story someone told me: a person, who uses a screen reader, calls the help desk with an issue. The tech support rep 
+begins walking them through how to troubleshoot the issue. The rep tells them “click the button...”. And visually it does look like a button, but it’s 
+coded as a link. Because, programmatically, it was most appropriate for it to be a link. But the designer designed it to look like a button for stylistic reasons. 
+Now the screen reader user is going through the elements on the page listening for the “button” element, but they can’t find it, and won’t find it, because 
+it’s going to be announced as a link.
+
+This is one example of how accessibility is negatively affected when buttons and links are not appropriately designed and coded to be consistent. 
+If the developers say it should be a link and the designer thinks it should be a button - they need to get on the same page.
+
+One more thing that’s helpful to know is that: Keyboard users select a button with the Space bar or the Enter key, but they select a link with just the 
+Enter key (the Space bar does not work to select links). So if they see a button on the page and hit Spacebar to select it, but programmatically it's a link, 
+the spacebar will not select it. If it looks like a button and is programmatically a button, then the spacebar will work.
+
+When
+When to use a link and when to use a borderless button (or a button in general)?
+
+Use a link when...
+
+...the action is navigational. Meaning, it’s going to take the user to another place or another view. Like another page, or scroll/jump you down to a 
+completely different section on the page. (It's helpful to think of this: Use a link when "linking between a site's pages" — U.S. Web Design System)
+
+...the action does NOT change the front- or back-end.
+
+...it can change the URL, make the browser refresh/redraw, do an internal page jump, or open something in a new window or tab.
+
+“...the action is less popular or less important. Less popular or less important actions may be visually styled as links.” — U.S. Web Design System
+
+Use a button when...
+
+...the action is an action (e.g., Submit, Next, Save, Create New, Merge, Upload, Play), and this action will happen on the same page, or progress you 
+to the next step in a flow. Also, "Use buttons for the most important actions you want users to take on your site, such as Download, Sign up or Log out."  — U.S. Web Design System
+
+...there is a change in the website’s front- or back-end (e.g. form data is submitted to a server).
+
+...it can trigger some kind of javascript functionality (e.g. revealing a menu, or showing a date picker).
+
+...it can trigger new content to show, it can toggle something on the interface (like tab views), it can trigger a modal or popup, it can play media content, 
+it can open or close something.
+
+Salesforce keeps things very simple, and in their design system they say that if you press the thing and it results in a new URL, or a new browser tab, 
+that is a link <a>. Everything else is a <button>. (Salesforce Lightning Design System)
+
+Conclusion
+To wrap-up this topic about buttons vs. links... Marcy Sutton (Lead Software Engineer at Gatsby and award-winning accessibility advocate) says, 
+“Each time you code an interface, you'll have to make a judgment call about which element is the correct one... and there are millions of ways to code the same thing. 
+As long as you're making educated decisions, that's the best you can do.” — Marcy Sutton
